@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  razzia-quiz:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: razzia-quiz
+    restart: unless-stopped
+    ports:
+      - "8033:8033"
+    environment:
+      - NODE_ENV=production
+      - PORT=8033
+    volumes:
+      - razzia_quiz_data:/app/data
+    networks:
+      - highfishNetwork
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8033/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 512M
+        reservations:
+          cpus: '0.25'
+          memory: 256M
+    labels:
+      - "com.centurylinklabs.watchtower.enable=true"
+
+volumes:
+  razzia_quiz_data:
+    driver: local
+
+networks:
+  highfishNetwork:
+    external: true
+    name: highfishNetwork
