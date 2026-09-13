@@ -40,14 +40,7 @@ COPY --from=builder --chown=nodejs:nodejs /app/package*.json ./
 COPY --from=builder --chown=nodejs:nodejs /app/pnpm* ./
 COPY --from=builder --chown=nodejs:nodejs /app/tsconfig*.json ./
 
-# Copy docker configs
-COPY docker/nginx.conf /etc/nginx/nginx.conf
-COPY docker/supervisord.conf /etc/supervisord.conf
-
-# Install nginx and supervisor
-RUN apk add --no-cache nginx supervisor
-
-# Expose port
+# Expose application port
 EXPOSE 8033
 
 # Switch to non-root user
@@ -57,5 +50,5 @@ USER nodejs
 HEALTHCHECK --interval=30s --timeout=10s --start-period=40s --retries=3 \
     CMD curl -f http://localhost:8033/health || exit 1
 
-# Start application
+# Start application directly
 CMD ["node", "packages/socket/dist/index.js"]
