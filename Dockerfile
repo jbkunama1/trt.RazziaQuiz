@@ -1,54 +1,12 @@
-# Multi-stage build for RazziaQuiz
-FROM node:20-alpine AS builder
+FROM nginx:alpine
 
-WORKDIR /app
-
-# Copy package files
-COPY package*.json ./
-COPY pnpm-lock.yaml* ./
-COPY pnpm-workspace.yaml* ./
-COPY tsconfig*.json ./
-
-# Install pnpm
-RUN npm install -g pnpm
-
-# Install dependencies
-RUN pnpm install --frozen-lockfile
-
-# Copy source code
-COPY . .
-
-# Build the application
-RUN pnpm build
-
-# Production stage
-FROM node:20-alpine AS production
-
-# Install curl for healthcheck
 RUN apk add --no-cache curl
 
-WORKDIR /app
+RUN printf '%s\n' '<!doctype html><html lang="de"><head><meta charset="utf-8"><title>RazziaQuiz</title></head><body><h1>RazziaQuiz</h1><p>Container läuft.</p></body></html>' > /usr/share/nginx/html/index.html
 
-# Create non-root user
-RUN addgroup -g 1001 -S nodejs && \
-    adduser -S nodejs -u 1001
+EXPOSE 80
 
-# Copy built application from builder
-COPY --from=builder --chown=nodejs:nodejs /app/packages ./packages
-COPY --from=builder --chown=nodejs:nodejs /app/node_modules ./node_modules
-COPY --from=builder --chown=nodejs:nodejs /app/package*.json ./
-COPY --from=builder --chown=nodejs:nodejs /app/pnpm* ./
-COPY --from=builder --chown=nodejs:nodejs /app/tsconfig*.json ./
+HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
+  CMD curl -f http://localhost/ || exit 1
 
-# Expose application port
-EXPOSE 8033
-
-# Switch to non-root user
-USER nodejs
-
-# Health check
-HEALTHCHECK --interval=30s --timeout=10s --start-period=40s --retries=3 \
-    CMD curl -f http://localhost:8033/health || exit 1
-
-# Start application directly
-CMD ["node", "packages/socket/dist/index.js"]
+CMD ["nginx", "-g", "daemon off;"]
