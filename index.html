@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>trt.RazziaQuiz</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1 { color: #2c3e50; }
+        code { background: #f4f4f4; padding: 0.2em 0.4em; border-radius: 3px; }
+        pre { background: #f4f4f4; padding: 1rem; border-radius: 5px; overflow-x: auto; }
+        .badge { display: inline-block; padding: 0.25rem 0.5rem; border-radius: 3px; font-size: 0.875rem; }
+        .badge-success { background: #28a745; color: white; }
+        .badge-info { background: #17a2b8; color: white; }
+    </style>
+</head>
+<body>
+    <h1>trt.RazziaQuiz</h1>
+    <p><span class="badge badge-success">Containerized</span> <span class="badge badge-info">GHCR</span></p>
+    
+    <h2>🚀 Quick Start</h2>
+    
+    <h3>Pull von GHCR</h3>
+    <pre><code>docker pull ghcr.io/jbkunama1/trt.RazziaQuiz:latest</code></pre>
+    
+    <h3>Docker Compose</h3>
+    <pre><code>docker compose up -d</code></pre>
+    
+    <h2>🏗️ Architektur</h2>
+    <ul>
+        <li><strong>Port:</strong> 8033</li>
+        <li><strong>Network:</strong> highfishNetwork (extern)</li>
+        <li><strong>Registry:</strong> GHCR (ghcr.io/jbkunama1/trt.RazziaQuiz)</li>
+        <li><strong>CI/CD:</strong> GitHub Actions (auto-build on push to main)</li>
+    </ul>
+    
+    <h2>📦 Deployment mit Portainer</h2>
+    <p>Stack in Portainer erstellen und folgenden YAML eintragen:</p>
+    <pre><code>version: '3.8'
+
+services:
+  razzia-quiz:
+    image: ghcr.io/jbkunama1/trt.RazziaQuiz:latest
+    container_name: razzia-quiz
+    restart: unless-stopped
+    ports:
+      - "8033:8033"
+    environment:
+      - NODE_ENV=production
+      - PORT=8033
+    volumes:
+      - razzia_quiz_data:/app/data
+    networks:
+      - highfishNetwork
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8033/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+volumes:
+  razzia_quiz_data:
+    driver: local
+
+networks:
+  highfishNetwork:
+    external: true</code></pre>
+    
+    <h2>🔧 Umgebungsvariablen</h2>
+    <table>
+        <thead>
+            <tr><th>Variable</th><th>Default</th><th>Beschreibung</th></tr>
+        </thead>
+        <tbody>
+            <tr><td>NODE_ENV</td><td>production</td><td>Umgebung</td></tr>
+            <tr><td>PORT</td><td>8033</td><td>Exponierter Port</td></tr>
+        </tbody>
+    </table>
+    
+    <hr>
+    <p><small>Built with GitHub Actions & GHCR</small></p>
+</body>
+</html>
