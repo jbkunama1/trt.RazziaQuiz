@@ -14,8 +14,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Trufflehog Secret Scan
-        uses: trufflehog/trufflehog-action@main
+        uses: trufflehog/trufflehog-action@v3
         with:
+          path: ./
           base: ${{ github.event.pull_request.base.sha }}
           head: ${{ github.event.pull_request.head.sha }}
           extra_args: --only-verified
