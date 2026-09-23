@@ -2,9 +2,7 @@ version: '3.8'
 
 services:
   razzia-quiz:
-    build:
-      context: .
-      dockerfile: Dockerfile
+    image: ghcr.io/jbkunama1/trt.RazziaQuiz:latest
     container_name: razzia-quiz
     restart: unless-stopped
     ports:
@@ -31,7 +29,7 @@ services:
           cpus: '0.25'
           memory: 256M
     labels:
-      - "com.centurylinklabs.watchtower.enable=true"
+      - "com.centurylinklabs.watchkeyword.enable=true"
 
 volumes:
   razzia_quiz_data:
