@@ -1,16 +1,18 @@
-name: Trufflehog Secret Scan
+name: Secret Scan
 
 on:
   push:
-    branches: [ "main" ]
+    branches:
+      - main
   pull_request:
-    branches: [ "main" ]
+    branches:
+      - main
 
 jobs:
   trufflehog:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -18,6 +20,7 @@ jobs:
       - name: Trufflehog Secret Scan
         uses: trufflehog/trufflehog-action@v3
         with:
-          base: main
-          head: HEAD
-          extra_args: --only-verified --no-update
+          path: ./
+          base: ${{ github.event.pull_request.base.sha || 'HEAD^' }}
+          head: ${{ github.sha }}
+          extra_args: --only-verified

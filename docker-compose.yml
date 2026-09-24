@@ -29,7 +29,7 @@ services:
           cpus: '0.25'
           memory: 256M
     labels:
-      - "com.centurylinklabs.watchkeyword.enable=true"
+      - "com.centurylinklabs.watchtower.enable=true"
 
 volumes:
   razzia_quiz_data:
