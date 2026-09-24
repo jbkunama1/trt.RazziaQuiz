@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   razzia-quiz:
-    image: ghcr.io/jbkunama1/trt.RazziaQuiz:latest
+    image: ghcr.io/jbkunama1/trt.razziaquiz:latest
     container_name: razzia-quiz
     restart: unless-stopped
     ports:
