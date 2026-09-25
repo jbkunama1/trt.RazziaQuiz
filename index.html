@@ -63,19 +63,19 @@
     <div class="card">
         <h2>🚀 Schnellstart</h2>
         <pre><code>docker compose up -d</code></pre>
-        <p>Danach erreichbar unter <code>http://&lt;host&gt;:8092</code>.</p>
-        <a class="btn" href="http://localhost:8092/manager">Manager öffnen</a>
+        <p>Danach erreichbar unter <code>http://&lt;host&gt;:8093</code>.</p>
+        <a class="btn" href="http://localhost:8093/manager">Manager öffnen</a>
         <a class="btn secondary" href="https://github.com/jbkunama1/trt.RazziaQuiz">Repository ansehen</a>
     </div>
 
     <div class="card">
         <h2>🏗️ Architektur</h2>
         <ul>
-            <li><strong>Port:</strong> 8092 (Web + WebSocket über internen Nginx-Proxy)</li>
+            <li><strong>Port:</strong> 8093 extern &rarr; 8092 intern (Web + WebSocket über internen Nginx-Proxy)</li>
             <li><strong>Netzwerk:</strong> highfishNetwork (extern)</li>
             <li><strong>Registry:</strong> GHCR (<code>ghcr.io/jbkunama1/trt.razziaquiz</code>)</li>
             <li><strong>CI/CD:</strong> GitHub Actions baut bei jedem Push auf <code>main</code> den aktuellen Upstream-Quellcode und veröffentlicht das Image</li>
-            <li><strong>Healthcheck:</strong> <code>curl -f http://localhost:8092/</code></li>
+            <li><strong>Healthcheck:</strong> <code>curl -f http://localhost:8092/</code> (containerintern)</li>
         </ul>
     </div>
 
@@ -90,10 +90,10 @@ services:
     container_name: razzia-quiz
     restart: unless-stopped
     ports:
-      - "8092:8092"
+      - "8093:8092"
     environment:
-      - WEB_ORIGIN=http://DEINE-DOMAIN:8092
-      - SOCKET_URL=http://DEINE-DOMAIN:8092
+      - WEB_ORIGIN=http://DEINE-DOMAIN:8093
+      - SOCKET_URL=http://DEINE-DOMAIN:8093
       - PORT=8092
     volumes:
       - razzia_quiz_config:/app/config
@@ -122,9 +122,9 @@ networks:
                 <tr><th>Variable</th><th>Default</th><th>Beschreibung</th></tr>
             </thead>
             <tbody>
-                <tr><td>PORT</td><td>8092</td><td>Exponierter Port</td></tr>
-                <tr><td>WEB_ORIGIN</td><td>http://localhost:8092</td><td>Öffentliche URL des Web-Interfaces</td></tr>
-                <tr><td>SOCKET_URL</td><td>http://localhost:8092</td><td>Öffentliche URL des WebSocket-Servers</td></tr>
+                <tr><td>PORT</td><td>8092</td><td>Interner Port des Containers</td></tr>
+                <tr><td>WEB_ORIGIN</td><td>http://localhost:8093</td><td>Öffentliche URL des Web-Interfaces (externer Port)</td></tr>
+                <tr><td>SOCKET_URL</td><td>http://localhost:8093</td><td>Öffentliche URL des WebSocket-Servers (externer Port)</td></tr>
             </tbody>
         </table>
     </div>

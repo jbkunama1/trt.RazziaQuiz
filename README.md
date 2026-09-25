@@ -30,27 +30,27 @@ docker pull ghcr.io/jbkunama1/trt.razziaquiz:latest
 docker compose up -d
 ```
 
-Danach erreichbar unter `http://localhost:8092`.
+Danach erreichbar unter `http://localhost:8093`.
 
 ## 🏗️ Architektur
 
 | Eigenschaft | Wert |
 |---|---|
-| **Port** | `8092` (Web-Interface + WebSocket über internen Nginx-Proxy) |
+| **Port** | `8093` extern &rarr; `8092` intern (Web-Interface + WebSocket über internen Nginx-Proxy) |
 | **Netzwerk** | `highfishNetwork` (extern) |
 | **Registry** | GHCR (`ghcr.io/jbkunama1/trt.razziaquiz`) |
 | **CI/CD** | GitHub Actions &mdash; Build bei jedem Push auf `main`, Multi-Platform (`linux/amd64`, `linux/arm64`) |
-| **Healthcheck** | `curl -f http://localhost:8092/` |
+| **Healthcheck** | `curl -f http://localhost:8092/` (containerintern) |
 | **Basis-Image** | `node:alpine` (Build) + `alpine` mit `nginx`, `nodejs`, `supervisor` (Runtime) |
 
 ```
             ┌────────────────────────────┐
-            │        Port 8092          │
-            │   (Container extern)      │
+            │     Port 8093 (extern)     │
+            │   Host -> Container:8092   │
             └─────────────┬──────────────┘
                            │
                   ┌────────▼─────────┐
-                  │      nginx       │  Reverse Proxy
+                  │      nginx       │  Reverse Proxy (Port 8092)
                   │  (supervisor)    │
                   └────────┬─────────┘
                 ┌───────────┴───────────┐
@@ -77,10 +77,10 @@ services:
     container_name: razzia-quiz
     restart: unless-stopped
     ports:
-      - "8092:8092"
+      - "8093:8092"
     environment:
-      - WEB_ORIGIN=http://DEINE-DOMAIN:8092
-      - SOCKET_URL=http://DEINE-DOMAIN:8092
+      - WEB_ORIGIN=http://DEINE-DOMAIN:8093
+      - SOCKET_URL=http://DEINE-DOMAIN:8093
       - PORT=8092
     volumes:
       - razzia_quiz_config:/app/config
@@ -104,15 +104,15 @@ networks:
 
 4. **Deploy the stack**
 
-> ⚠️ Passe `WEB_ORIGIN` und `SOCKET_URL` unbedingt auf deine tatsächliche Domain bzw. IP an, sonst funktioniert die WebSocket-Verbindung im Browser nicht.
+> ⚠️ Passe `WEB_ORIGIN` und `SOCKET_URL` unbedingt auf deine tatsächliche Domain bzw. IP an (jeweils mit Port `8093`), sonst funktioniert die WebSocket-Verbindung im Browser nicht.
 
 ## 🔧 Umgebungsvariablen
 
 | Variable | Default | Beschreibung |
 |----------|---------|--------------|
-| `PORT` | `8092` | Intern und extern exponierter Port |
-| `WEB_ORIGIN` | `http://localhost:8092` | Öffentliche URL, unter der das Web-Interface erreichbar ist |
-| `SOCKET_URL` | `http://localhost:8092` | Öffentliche URL des WebSocket-Servers (Buzzer-Verbindung) |
+| `PORT` | `8092` | Interner Port, auf dem der Container/Nginx lauscht |
+| `WEB_ORIGIN` | `http://localhost:8093` | Öffentliche URL, unter der das Web-Interface erreichbar ist (externer Port) |
+| `SOCKET_URL` | `http://localhost:8093` | Öffentliche URL des WebSocket-Servers (externer Port, Buzzer-Verbindung) |
 
 ## 🎮 Spielkonfiguration
 
@@ -164,9 +164,9 @@ Beliebig viele Quiz-Dateien, auswählbar beim Spielstart:
 
 ## 🕹️ Spielablauf
 
-1. Manager-Dashboard öffnen: `http://<host>:8092/manager`
+1. Manager-Dashboard öffnen: `http://<host>:8093/manager`
 2. Mit `managerPassword` anmelden
-3. Spielraum-Link und Code mit den Spieler:innen teilen: `http://<host>:8092/`
+3. Spielraum-Link und Code mit den Spieler:innen teilen: `http://<host>:8093/`
 4. Warten, bis alle beigetreten sind
 5. Spiel über den Start-Button oben links im Manager starten
 
@@ -175,7 +175,7 @@ Beliebig viele Quiz-Dateien, auswählbar beim Spielstart:
 | Problem | Lösung |
 |---|---|
 | Container startet, aber Healthcheck bleibt `unhealthy` | Logs prüfen: `docker logs razzia-quiz`. Startperiode ist 40s &mdash; bei langsamen Hosts ggf. erhöhen. |
-| Spieler können nicht beitreten / WebSocket-Fehler im Browser | `SOCKET_URL` stimmt nicht mit der tatsächlich aufgerufenen Domain/Port überein &mdash; unbedingt anpassen. |
+| Spieler können nicht beitreten / WebSocket-Fehler im Browser | `SOCKET_URL` stimmt nicht mit der tatsächlich aufgerufenen Domain/Port (`8093`) überein &mdash; unbedingt anpassen. |
 | Änderungen an `config/quizz/*.json` werden nicht übernommen | Container neu starten (`docker compose restart razzia-quiz`), Config wird beim Start geladen. |
 | Build schlägt in GitHub Actions fehl | Prüfen, ob sich am Upstream-Dockerfile (`Ralex91/Razzia`) strukturelle Dinge geändert haben &mdash; der Workflow zieht immer den aktuellen `main`-Stand. |
 
