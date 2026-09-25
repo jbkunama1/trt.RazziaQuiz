@@ -1,13 +1,27 @@
-# trt.RazziaQuiz
+# 🎯 trt.RazziaQuiz
 
-Razzia Quiz Game - Containerized mit GitHub Actions CI/CD zu GHCR
+[![Docker Build and Push](https://img.shields.io/github/actions/workflow/status/jbkunama1/trt.RazziaQuiz/docker-publish.yml?branch=main&label=docker%20build&logo=github)](https://github.com/jbkunama1/trt.RazziaQuiz/actions/workflows/docker-publish.yml)
+[![GHCR](https://img.shields.io/badge/ghcr.io-jbkunama1%2Ftrt.razziaquiz-2496ED?logo=docker&logoColor=white)](https://github.com/jbkunama1/trt.RazziaQuiz/pkgs/container/trt.razziaquiz)
+[![License](https://img.shields.io/github/license/jbkunama1/trt.RazziaQuiz)](./LICENSE)
+[![Upstream](https://img.shields.io/badge/basiert%20auf-Ralex91%2FRazzia-orange?logo=github)](https://github.com/Ralex91/Razzia)
+[![Portainer Ready](https://img.shields.io/badge/Portainer-ready-13BEF9?logo=portainer&logoColor=white)](#-deployment-mit-portainer)
+
+**Razzia Quiz Game** &mdash; ein selbst gehostetes Live-Quiz im Stil von Kahoot!, containerisiert und automatisch via GitHub Actions nach GHCR gebaut.
+
+---
+
+## 🧩 Was ist das?
+
+`trt.RazziaQuiz` ist die Deployment-Infrastruktur für [Razzia](https://github.com/Ralex91/Razzia) &mdash; ein Open-Source Multiplayer-Quiz mit Echtzeit-Buzzer-System (Socket.io), Manager-Dashboard zur Spielsteuerung und eigenen, frei konfigurierbaren Fragenkatalogen.
+
+Dieses Repository **enthält den Spielcode nicht dauerhaft**. Stattdessen baut die GitHub-Actions-Pipeline bei jedem Push den aktuellen Quellcode von `Ralex91/Razzia` frisch, verpackt ihn in ein Docker-Image nach den hier definierten Konventionen (Port, Healthcheck, Netzwerk) und veröffentlicht es nach GHCR. So bleibt das Deployment immer nah am Original, ohne Fremdcode zu duplizieren oder zu forken.
 
 ## 🚀 Quick Start
 
 ### Pull von GHCR
 
 ```bash
-docker pull ghcr.io/jbkunama1/trt.RazziaQuiz:latest
+docker pull ghcr.io/jbkunama1/trt.razziaquiz:latest
 ```
 
 ### Docker Compose
@@ -16,26 +30,37 @@ docker pull ghcr.io/jbkunama1/trt.RazziaQuiz:latest
 docker compose up -d
 ```
 
-### Manuell mit existierendem Network
-
-```bash
-docker run -d \
-  --name razzia-quiz \
-  --restart unless-stopped \
-  -p 8033:8033 \
-  --network highfishNetwork \
-  -e NODE_ENV=production \
-  -e PORT=8033 \
-  -v razzia_quiz_data:/app/data \
-  ghcr.io/jbkunama1/trt.RazziaQuiz:latest
-```
+Danach erreichbar unter `http://localhost:8092`.
 
 ## 🏗️ Architektur
 
-- **Port**: 8033
-- **Network**: highfishNetwork (extern)
-- **Registry**: GHCR (ghcr.io/jbkunama1/trt.RazziaQuiz)
-- **CI/CD**: GitHub Actions (auto-build on push to main)
+| Eigenschaft | Wert |
+|---|---|
+| **Port** | `8092` (Web-Interface + WebSocket über internen Nginx-Proxy) |
+| **Netzwerk** | `highfishNetwork` (extern) |
+| **Registry** | GHCR (`ghcr.io/jbkunama1/trt.razziaquiz`) |
+| **CI/CD** | GitHub Actions &mdash; Build bei jedem Push auf `main`, Multi-Platform (`linux/amd64`, `linux/arm64`) |
+| **Healthcheck** | `curl -f http://localhost:8092/` |
+| **Basis-Image** | `node:alpine` (Build) + `alpine` mit `nginx`, `nodejs`, `supervisor` (Runtime) |
+
+```
+            ┌────────────────────────────┐
+            │        Port 8092          │
+            │   (Container extern)      │
+            └─────────────┬──────────────┘
+                           │
+                  ┌────────▼─────────┐
+                  │      nginx       │  Reverse Proxy
+                  │  (supervisor)    │
+                  └────────┬─────────┘
+                ┌───────────┴───────────┐
+                │                       │
+        ┌───────▼───────┐      ┌────────▼────────┐
+        │  Web (React)  │      │ Socket (Node.js)│
+        │   Manager +   │◄────►│  Buzzer-Logik   │
+        │   Spieler-UI  │      │   Socket.io     │
+        └───────────────┘      └─────────────────┘
+```
 
 ## 📦 Deployment mit Portainer
 
@@ -48,27 +73,28 @@ version: '3.8'
 
 services:
   razzia-quiz:
-    image: ghcr.io/jbkunama1/trt.RazziaQuiz:latest
+    image: ghcr.io/jbkunama1/trt.razziaquiz:latest
     container_name: razzia-quiz
     restart: unless-stopped
     ports:
-      - "8033:8033"
+      - "8092:8092"
     environment:
-      - NODE_ENV=production
-      - PORT=8033
+      - WEB_ORIGIN=http://DEINE-DOMAIN:8092
+      - SOCKET_URL=http://DEINE-DOMAIN:8092
+      - PORT=8092
     volumes:
-      - razzia_quiz_data:/app/data
+      - razzia_quiz_config:/app/config
     networks:
       - highfishNetwork
     healthcheck:
-      test: ["CMD", "curl", "f", "http://localhost:8033/health"]
+      test: ["CMD", "curl", "-f", "http://localhost:8092/"]
       interval: 30s
       timeout: 10s
       retries: 3
       start_period: 40s
 
 volumes:
-  razzia_quiz_data:
+  razzia_quiz_config:
     driver: local
 
 networks:
@@ -78,13 +104,85 @@ networks:
 
 4. **Deploy the stack**
 
+> ⚠️ Passe `WEB_ORIGIN` und `SOCKET_URL` unbedingt auf deine tatsächliche Domain bzw. IP an, sonst funktioniert die WebSocket-Verbindung im Browser nicht.
+
 ## 🔧 Umgebungsvariablen
 
 | Variable | Default | Beschreibung |
 |----------|---------|--------------|
-| NODE_ENV | production | Umgebung |
-| PORT | 8033 | Exponierter Port |
+| `PORT` | `8092` | Intern und extern exponierter Port |
+| `WEB_ORIGIN` | `http://localhost:8092` | Öffentliche URL, unter der das Web-Interface erreichbar ist |
+| `SOCKET_URL` | `http://localhost:8092` | Öffentliche URL des WebSocket-Servers (Buzzer-Verbindung) |
+
+## 🎮 Spielkonfiguration
+
+Die Konfiguration liegt im gemounteten Volume unter `/app/config` und besteht aus zwei Teilen:
+
+### 1. Spiel-Grundeinstellungen &mdash; `config/game.json`
+
+```json
+{
+  "managerPassword": "DEIN-PASSWORT",
+  "music": true
+}
+```
+
+| Feld | Beschreibung |
+|---|---|
+| `managerPassword` | Master-Passwort für den Zugriff auf das Manager-Dashboard |
+| `music` | Hintergrundmusik im Spiel an/aus |
+
+### 2. Fragenkataloge &mdash; `config/quizz/*.json`
+
+Beliebig viele Quiz-Dateien, auswählbar beim Spielstart:
+
+```json
+{
+  "subject": "Technik-Quiz Klasse 9",
+  "questions": [
+    {
+      "question": "Welcher Mikrocontroller wird häufig für IoT-Projekte im Unterricht verwendet?",
+      "answers": ["ESP32", "Pentium", "Z80", "6502"],
+      "image": "https://example.com/esp32.jpg",
+      "solution": 0,
+      "cooldown": 5,
+      "time": 15
+    }
+  ]
+}
+```
+
+| Feld | Beschreibung |
+|---|---|
+| `subject` | Titel/Thema des Quiz |
+| `questions[].question` | Fragetext |
+| `questions[].answers` | 2&ndash;4 Antwortmöglichkeiten |
+| `questions[].image` | Optionale Bild-URL zur Frage |
+| `questions[].solution` | Index der richtigen Antwort (beginnend bei 0) |
+| `questions[].cooldown` | Anzeigedauer der Frage vor Start des Timers (Sekunden) |
+| `questions[].time` | Zeit zum Antworten (Sekunden) |
+
+## 🕹️ Spielablauf
+
+1. Manager-Dashboard öffnen: `http://<host>:8092/manager`
+2. Mit `managerPassword` anmelden
+3. Spielraum-Link und Code mit den Spieler:innen teilen: `http://<host>:8092/`
+4. Warten, bis alle beigetreten sind
+5. Spiel über den Start-Button oben links im Manager starten
+
+## 🩺 Troubleshooting
+
+| Problem | Lösung |
+|---|---|
+| Container startet, aber Healthcheck bleibt `unhealthy` | Logs prüfen: `docker logs razzia-quiz`. Startperiode ist 40s &mdash; bei langsamen Hosts ggf. erhöhen. |
+| Spieler können nicht beitreten / WebSocket-Fehler im Browser | `SOCKET_URL` stimmt nicht mit der tatsächlich aufgerufenen Domain/Port überein &mdash; unbedingt anpassen. |
+| Änderungen an `config/quizz/*.json` werden nicht übernommen | Container neu starten (`docker compose restart razzia-quiz`), Config wird beim Start geladen. |
+| Build schlägt in GitHub Actions fehl | Prüfen, ob sich am Upstream-Dockerfile (`Ralex91/Razzia`) strukturelle Dinge geändert haben &mdash; der Workflow zieht immer den aktuellen `main`-Stand. |
+
+## 🙏 Credits
+
+Das eigentliche Spiel ist [Razzia](https://github.com/Ralex91/Razzia) von [@Ralex91](https://github.com/Ralex91) (ehemals *Rahoot*), lizenziert unter der im Original-Repository angegebenen Lizenz. Dieses Repository stellt ausschließlich die Build- und Deployment-Infrastruktur (GitHub Actions → GHCR → Portainer) bereit und dupliziert den Spielcode nicht dauerhaft.
 
 ## 📝 License
 
-Private
+Infrastruktur-Dateien in diesem Repository: privat. Der gebaute Anwendungscode unterliegt der Lizenz von [Ralex91/Razzia](https://github.com/Ralex91/Razzia/blob/main/LICENSE).

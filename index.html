@@ -5,87 +5,137 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>trt.RazziaQuiz</title>
     <style>
+        :root {
+            color-scheme: light dark;
+        }
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            max-width: 800px;
+            max-width: 860px;
             margin: 0 auto;
-            padding: 2rem;
-            line-height: 1.6;
-            color: #333;
+            padding: 2.5rem 1.5rem;
+            line-height: 1.65;
+            color: #222;
+            background: #fafafa;
         }
-        h1 { color: #2c3e50; }
-        code { background: #f4f4f4; padding: 0.2em 0.4em; border-radius: 3px; }
-        pre { background: #f4f4f4; padding: 1rem; border-radius: 5px; overflow-x: auto; }
-        .badge { display: inline-block; padding: 0.25rem 0.5rem; border-radius: 3px; font-size: 0.875rem; }
-        .badge-success { background: #28a745; color: white; }
-        .badge-info { background: #17a2b8; color: white; }
+        h1 { color: #1a1a2e; margin-bottom: 0.25rem; }
+        .subtitle { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
+        .badges img { margin: 0.15rem; }
+        code { background: #eef0f4; padding: 0.2em 0.45em; border-radius: 4px; font-size: 0.92em; }
+        pre { background: #1a1a2e; color: #e8e8f0; padding: 1rem; border-radius: 8px; overflow-x: auto; }
+        pre code { background: none; color: inherit; padding: 0; }
+        .card {
+            background: #fff;
+            border: 1px solid #e2e2e8;
+            border-radius: 10px;
+            padding: 1.25rem 1.5rem;
+            margin: 1.25rem 0;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+        }
+        .btn {
+            display: inline-block;
+            background: #6c5ce7;
+            color: #fff;
+            padding: 0.6rem 1.2rem;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 600;
+            margin-right: 0.5rem;
+        }
+        .btn.secondary { background: #2d3436; }
+        table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
+        th, td { text-align: left; padding: 0.5rem 0.75rem; border-bottom: 1px solid #e2e2e8; }
+        th { background: #f4f4f8; }
+        footer { margin-top: 3rem; color: #888; font-size: 0.85rem; }
+        a { color: #6c5ce7; }
     </style>
 </head>
 <body>
-    <h1>trt.RazziaQuiz</h1>
-    <p><span class="badge badge-success">Containerized</span> <span class="badge badge-info">GHCR</span></p>
-    
-    <h2>🚀 Quick Start</h2>
-    
-    <h3>Pull von GHCR</h3>
-    <pre><code>docker pull ghcr.io/jbkunama1/trt.RazziaQuiz:latest</code></pre>
-    
-    <h3>Docker Compose</h3>
-    <pre><code>docker compose up -d</code></pre>
-    
-    <h2>🏗️ Architektur</h2>
-    <ul>
-        <li><strong>Port:</strong> 8033</li>
-        <li><strong>Network:</strong> highfishNetwork (extern)</li>
-        <li><strong>Registry:</strong> GHCR (ghcr.io/jbkunama1/trt.RazziaQuiz)</li>
-        <li><strong>CI/CD:</strong> GitHub Actions (auto-build on push to main)</li>
-    </ul>
-    
-    <h2>📦 Deployment mit Portainer</h2>
-    <p>Stack in Portainer erstellen und folgenden YAML eintragen:</p>
-    <pre><code>version: '3.8'
+    <h1>🎯 trt.RazziaQuiz</h1>
+    <p class="subtitle">Selbst gehostetes Live-Quiz im Kahoot-Stil &mdash; Buzzer, Manager-Dashboard, eigene Fragenkataloge.</p>
+
+    <p class="badges">
+        <img src="https://img.shields.io/github/actions/workflow/status/jbkunama1/trt.RazziaQuiz/docker-publish.yml?branch=main&label=build&logo=github" alt="Build Status">
+        <img src="https://img.shields.io/badge/ghcr.io-jbkunama1%2Ftrt.razziaquiz-blue?logo=docker" alt="GHCR Image">
+        <img src="https://img.shields.io/github/license/jbkunama1/trt.RazziaQuiz" alt="License">
+        <img src="https://img.shields.io/badge/basiert%20auf-Ralex91%2FRazzia-orange?logo=github" alt="Upstream">
+    </p>
+
+    <div class="card">
+        <h2>🚀 Schnellstart</h2>
+        <pre><code>docker compose up -d</code></pre>
+        <p>Danach erreichbar unter <code>http://&lt;host&gt;:8092</code>.</p>
+        <a class="btn" href="http://localhost:8092/manager">Manager öffnen</a>
+        <a class="btn secondary" href="https://github.com/jbkunama1/trt.RazziaQuiz">Repository ansehen</a>
+    </div>
+
+    <div class="card">
+        <h2>🏗️ Architektur</h2>
+        <ul>
+            <li><strong>Port:</strong> 8092 (Web + WebSocket über internen Nginx-Proxy)</li>
+            <li><strong>Netzwerk:</strong> highfishNetwork (extern)</li>
+            <li><strong>Registry:</strong> GHCR (<code>ghcr.io/jbkunama1/trt.razziaquiz</code>)</li>
+            <li><strong>CI/CD:</strong> GitHub Actions baut bei jedem Push auf <code>main</code> den aktuellen Upstream-Quellcode und veröffentlicht das Image</li>
+            <li><strong>Healthcheck:</strong> <code>curl -f http://localhost:8092/</code></li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>📦 Deployment mit Portainer</h2>
+        <p>Stack in Portainer erstellen, Web-Editor verwenden und folgendes eintragen:</p>
+        <pre><code>version: '3.8'
 
 services:
   razzia-quiz:
-    image: ghcr.io/jbkunama1/trt.RazziaQuiz:latest
+    image: ghcr.io/jbkunama1/trt.razziaquiz:latest
     container_name: razzia-quiz
     restart: unless-stopped
     ports:
-      - "8033:8033"
+      - "8092:8092"
     environment:
-      - NODE_ENV=production
-      - PORT=8033
+      - WEB_ORIGIN=http://DEINE-DOMAIN:8092
+      - SOCKET_URL=http://DEINE-DOMAIN:8092
+      - PORT=8092
     volumes:
-      - razzia_quiz_data:/app/data
+      - razzia_quiz_config:/app/config
     networks:
       - highfishNetwork
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:8033/health"]
+      test: ["CMD", "curl", "-f", "http://localhost:8092/"]
       interval: 30s
       timeout: 10s
       retries: 3
       start_period: 40s
 
 volumes:
-  razzia_quiz_data:
+  razzia_quiz_config:
     driver: local
 
 networks:
   highfishNetwork:
     external: true</code></pre>
-    
-    <h2>🔧 Umgebungsvariablen</h2>
-    <table>
-        <thead>
-            <tr><th>Variable</th><th>Default</th><th>Beschreibung</th></tr>
-        </thead>
-        <tbody>
-            <tr><td>NODE_ENV</td><td>production</td><td>Umgebung</td></tr>
-            <tr><td>PORT</td><td>8033</td><td>Exponierter Port</td></tr>
-        </tbody>
-    </table>
-    
-    <hr>
-    <p><small>Built with GitHub Actions & GHCR</small></p>
+    </div>
+
+    <div class="card">
+        <h2>🔧 Umgebungsvariablen</h2>
+        <table>
+            <thead>
+                <tr><th>Variable</th><th>Default</th><th>Beschreibung</th></tr>
+            </thead>
+            <tbody>
+                <tr><td>PORT</td><td>8092</td><td>Exponierter Port</td></tr>
+                <tr><td>WEB_ORIGIN</td><td>http://localhost:8092</td><td>Öffentliche URL des Web-Interfaces</td></tr>
+                <tr><td>SOCKET_URL</td><td>http://localhost:8092</td><td>Öffentliche URL des WebSocket-Servers</td></tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="card">
+        <h2>🙏 Basiert auf</h2>
+        <p>Dieses Deployment baut den Quellcode von <a href="https://github.com/Ralex91/Razzia">Ralex91/Razzia</a> automatisch zur Build-Zeit und veröffentlicht ein eigenes Image nach GHCR &mdash; ohne den Fremdcode dauerhaft in diesem Repository zu duplizieren.</p>
+    </div>
+
+    <footer>
+        <p>Built with GitHub Actions &amp; GHCR &middot; Konfiguration &amp; Infrastruktur von jbkunama1</p>
+    </footer>
 </body>
 </html>
