@@ -5,17 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>trt.RazziaQuiz</title>
     <style>
-        :root {
-            color-scheme: light dark;
-        }
+        :root { color-scheme: light dark; }
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            max-width: 860px;
-            margin: 0 auto;
-            padding: 2.5rem 1.5rem;
-            line-height: 1.65;
-            color: #222;
-            background: #fafafa;
+            max-width: 860px; margin: 0 auto; padding: 2.5rem 1.5rem;
+            line-height: 1.65; color: #222; background: #fafafa;
         }
         h1 { color: #1a1a2e; margin-bottom: 0.25rem; }
         .subtitle { color: #555; margin-top: 0; margin-bottom: 1.5rem; }
@@ -23,24 +17,8 @@
         code { background: #eef0f4; padding: 0.2em 0.45em; border-radius: 4px; font-size: 0.92em; }
         pre { background: #1a1a2e; color: #e8e8f0; padding: 1rem; border-radius: 8px; overflow-x: auto; }
         pre code { background: none; color: inherit; padding: 0; }
-        .card {
-            background: #fff;
-            border: 1px solid #e2e2e8;
-            border-radius: 10px;
-            padding: 1.25rem 1.5rem;
-            margin: 1.25rem 0;
-            box-shadow: 0 1px 3px rgba(0,0,0,0.04);
-        }
-        .btn {
-            display: inline-block;
-            background: #6c5ce7;
-            color: #fff;
-            padding: 0.6rem 1.2rem;
-            border-radius: 6px;
-            text-decoration: none;
-            font-weight: 600;
-            margin-right: 0.5rem;
-        }
+        .card { background: #fff; border: 1px solid #e2e2e8; border-radius: 10px; padding: 1.25rem 1.5rem; margin: 1.25rem 0; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
+        .btn { display: inline-block; background: #6c5ce7; color: #fff; padding: 0.6rem 1.2rem; border-radius: 6px; text-decoration: none; font-weight: 600; margin-right: 0.5rem; }
         .btn.secondary { background: #2d3436; }
         table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
         th, td { text-align: left; padding: 0.5rem 0.75rem; border-bottom: 1px solid #e2e2e8; }
@@ -71,11 +49,12 @@
     <div class="card">
         <h2>🏗️ Architektur</h2>
         <ul>
-            <li><strong>Port:</strong> 8093 extern &rarr; 8092 intern (Web + WebSocket über internen Nginx-Proxy)</li>
+            <li><strong>Port:</strong> 8093 extern &rarr; 3000 intern (Nginx, Webroot + /ws-Proxy)</li>
+            <li><strong>WebSocket:</strong> läuft nur intern auf Port 3001, wird von Nginx unter <code>/ws</code> durchgereicht</li>
             <li><strong>Netzwerk:</strong> highfishNetwork (extern)</li>
             <li><strong>Registry:</strong> GHCR (<code>ghcr.io/jbkunama1/trt.razziaquiz</code>)</li>
             <li><strong>CI/CD:</strong> GitHub Actions baut bei jedem Push auf <code>main</code> den aktuellen Upstream-Quellcode und veröffentlicht das Image</li>
-            <li><strong>Healthcheck:</strong> <code>curl -f http://localhost:8092/</code> (containerintern)</li>
+            <li><strong>Healthcheck:</strong> <code>curl -f http://localhost:3000/</code> (containerintern)</li>
         </ul>
     </div>
 
@@ -90,17 +69,16 @@ services:
     container_name: razzia-quiz
     restart: unless-stopped
     ports:
-      - "8093:8092"
+      - "8093:3000"
     environment:
       - WEB_ORIGIN=http://DEINE-DOMAIN:8093
       - SOCKET_URL=http://DEINE-DOMAIN:8093
-      - PORT=8092
     volumes:
       - razzia_quiz_config:/app/config
     networks:
       - highfishNetwork
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:8092/"]
+      test: ["CMD", "curl", "-f", "http://localhost:3000/"]
       interval: 30s
       timeout: 10s
       retries: 3
@@ -118,13 +96,10 @@ networks:
     <div class="card">
         <h2>🔧 Umgebungsvariablen</h2>
         <table>
-            <thead>
-                <tr><th>Variable</th><th>Default</th><th>Beschreibung</th></tr>
-            </thead>
+            <thead><tr><th>Variable</th><th>Default</th><th>Beschreibung</th></tr></thead>
             <tbody>
-                <tr><td>PORT</td><td>8092</td><td>Interner Port des Containers</td></tr>
                 <tr><td>WEB_ORIGIN</td><td>http://localhost:8093</td><td>Öffentliche URL des Web-Interfaces (externer Port)</td></tr>
-                <tr><td>SOCKET_URL</td><td>http://localhost:8093</td><td>Öffentliche URL des WebSocket-Servers (externer Port)</td></tr>
+                <tr><td>SOCKET_URL</td><td>http://localhost:8093</td><td>Öffentliche URL für die WebSocket-Verbindung (über /ws-Proxy, kein eigener Port)</td></tr>
             </tbody>
         </table>
     </div>

@@ -6,17 +6,16 @@ services:
     container_name: razzia-quiz
     restart: unless-stopped
     ports:
-      - "8093:8092"
+      - "8093:3000"
     environment:
       - WEB_ORIGIN=http://localhost:8093
       - SOCKET_URL=http://localhost:8093
-      - PORT=8092
     volumes:
       - razzia_quiz_config:/app/config
     networks:
       - highfishNetwork
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:8092/"]
+      test: ["CMD", "curl", "-f", "http://localhost:3000/"]
       interval: 30s
       timeout: 10s
       retries: 3
