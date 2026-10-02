@@ -32,6 +32,26 @@ docker compose up -d
 
 Danach erreichbar unter `http://localhost:8093`.
 
+## 🔐 Admin-/Manager-Dashboard
+
+Das **Admin-/Manager-Dashboard** steuerst du unter diesem Pfad an:
+
+| Zugriff | URL |
+|---|---|
+| Lokal bzw. über Host-IP | `http://<HOST>:8093/manager` |
+| Über einen Reverse Proxy / eine Domain | `https://<DEINE-DOMAIN>/manager` |
+| Spielende beitreten lassen | `http://<HOST>:8093/` bzw. `https://<DEINE-DOMAIN>/` |
+
+Die Anmeldung erfolgt mit dem Wert `managerPassword` aus der Datei `/app/config/game.json`. Diese Datei liegt wegen des gemounteten Volumes dauerhaft im Docker-Volume `razzia_quiz_config`.
+
+```json
+{
+  "managerPassword": "DEIN-SICHERES-MANAGER-PASSWORT"
+}
+```
+
+> **Wichtig:** Setze ein eigenes, ausreichend starkes `managerPassword`. Nach einer Änderung an `game.json` den Container neu starten, damit die Konfiguration sicher neu geladen wird.
+
 ## 🏗️ Architektur
 
 | Eigenschaft | Wert |
@@ -109,7 +129,7 @@ networks:
 ## 🔧 Umgebungsvariablen
 
 | Variable | Default | Beschreibung |
-|----------|---------|--------------|
+|---|---|---|
 | `WEB_ORIGIN` | `http://localhost:8093` | Öffentliche URL, unter der das Web-Interface erreichbar ist (externer Port) |
 | `SOCKET_URL` | `http://localhost:8093` | Öffentliche URL für die WebSocket-Verbindung (läuft über den Nginx-Proxy-Pfad `/ws`, kein eigener Port) |
 
@@ -127,7 +147,7 @@ Die Konfiguration liegt im gemounteten Volume unter `/app/config` und besteht au
 
 | Feld | Beschreibung |
 |---|---|
-| `managerPassword` | Master-Passwort für den Zugriff auf das Manager-Dashboard |
+| `managerPassword` | Master-Passwort für den Zugriff auf das Admin-/Manager-Dashboard unter `/manager` |
 
 ### 2. Fragenkataloge &mdash; `config/quizz/*.json`
 
@@ -161,11 +181,11 @@ Beliebig viele Quiz-Dateien, auswählbar beim Spielstart:
 
 ## 🕹️ Spielablauf
 
-1. Manager-Dashboard öffnen: `http://<host>:8093/manager`
-2. Mit `managerPassword` anmelden
-3. Spielraum-Link und Code mit den Spieler:innen teilen: `http://<host>:8093/`
+1. Admin-/Manager-Dashboard öffnen: `http://<host>:8093/manager` oder bei Domain `https://<DEINE-DOMAIN>/manager`
+2. Mit `managerPassword` aus `config/game.json` anmelden
+3. Spielraum-Link und Code mit den Spieler:innen teilen: `http://<host>:8093/` oder `https://<DEINE-DOMAIN>/`
 4. Warten, bis alle beigetreten sind
-5. Spiel über den Start-Button oben links im Manager starten
+5. Spiel über den Start-Button oben links im Admin-/Manager-Dashboard starten
 
 ## 🩺 Troubleshooting
 
@@ -173,7 +193,8 @@ Beliebig viele Quiz-Dateien, auswählbar beim Spielstart:
 |---|---|
 | Container startet, aber Healthcheck bleibt `unhealthy` | Logs prüfen: `docker logs razzia-quiz`. Startperiode ist 40s &mdash; bei langsamen Hosts ggf. erhöhen. |
 | Spieler können nicht beitreten / WebSocket-Fehler im Browser | `SOCKET_URL` stimmt nicht mit der tatsächlich aufgerufenen Domain/Port (`8093`) überein &mdash; unbedingt anpassen. Der Socket ist NICHT direkt erreichbar, nur über `/ws` per Nginx. |
-| Änderungen an `config/quizz/*.json` werden nicht übernommen | Container neu starten (`docker compose restart razzia-quiz`), Config wird beim Start geladen. |
+| Änderungen an `config/game.json` oder `config/quizz/*.json` werden nicht übernommen | Container neu starten (`docker compose restart razzia-quiz`), Config wird beim Start geladen. |
+| Zugang zum Admin-/Manager-Dashboard funktioniert nicht | Prüfen, ob `/manager` verwendet wird und `managerPassword` in `config/game.json` gesetzt ist. Danach den Container neu starten. |
 | Build schlägt in GitHub Actions fehl | Prüfen, ob sich am Upstream-Dockerfile (`Ralex91/Razzia`) strukturelle Dinge geändert haben &mdash; der Workflow zieht immer den aktuellen `main`-Stand. |
 
 ## 🙏 Credits
