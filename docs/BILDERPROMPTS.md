@@ -1,0 +1,319 @@
+# Bildprompts für die Quizfragen
+
+150 konkrete Prompts, jeweils passend zu genau einer Frage aus den neuen Quiz-Dateien unter `quizz/`.
+
+## technik_k6
+- **Frage 1:** Wozu dient ein Hebel, zum Beispiel bei einer Schere?
+  - **Prompt:** Zeichnung einer Schülerin, die mit einer Schere Papier schneidet; markiere Drehpunkt, Kraftarm und Lastarm in bunten Farben.
+- **Frage 2:** Welches Werkzeug nutzt man, um eine Holzleiste gerade zu messen?
+  - **Prompt:** Werkbank mit Holzleiste und aufgeklapptem Zollstock, kindgerechter Technikraum, klare Draufsicht.
+- **Frage 3:** Warum trägt man beim Sägen eine Schutzbrille?
+  - **Prompt:** Nahaufnahme eines Kindes mit Schutzbrille beim Sägen von Holz, sichtbare kleine Späne, Fokus auf Sicherheit.
+- **Frage 4:** Welcher Stoff ist ein typischer elektrischer Leiter?
+  - **Prompt:** Vier Materialproben auf einem Tisch: Kupferdraht, Holzstück, Gummiband, Plastiklineal; Kupfer leuchtet markiert.
+- **Frage 5:** Was bedeutet bei einer Skizze der Maßstab 1:2?
+  - **Prompt:** Technische Skizze eines Holzautos neben dem echten Modell, Beschriftung Maßstab 1:2, Größenvergleich deutlich sichtbar.
+- **Frage 6:** Welche Verbindung kann man mit einer Schraube wieder lösen?
+  - **Prompt:** Vergleich von vier Verbindungen auf Karton: Schraube, Klebstelle, Niete, Schweißnaht; Schraube mit Pfeil 'lösbar'.
+- **Frage 7:** Welches Bauteil lässt ein Rad an einer Achse drehen?
+  - **Prompt:** Einfaches Modellauto in Seitenansicht, Achse mit Lagerstelle vergrößert dargestellt, kindgerechte Technikgrafik.
+- **Frage 8:** Warum wird Sandpapier beim Werkstückbau verwendet?
+  - **Prompt:** Kind schleift ein Holzbrett mit Sandpapier, Vorher-nachher-Fläche halb rau halb glatt sichtbar.
+- **Frage 9:** Welches Symbol steht häufig für einen Motor im einfachen Schaltplan?
+  - **Prompt:** Einfacher Stromkreis auf kariertem Papier mit Batterie, Schalter und Motorsymbol als Kreis mit M, klar beschriftet.
+- **Frage 10:** Was ist beim Aufräumen nach dem Technikunterricht wichtig?
+  - **Prompt:** Aufgeräumter Werkraum: sortierte Werkzeuge an der Wand, zwei Schüler räumen gemeinsam sauber auf.
+## technik_k7
+- **Frage 1:** Was passiert in einer Reihenschaltung, wenn eine Lampe ausfällt?
+  - **Prompt:** Schaltbild einer Reihenschaltung mit drei Lampen; eine Lampe defekt markiert, alle Lampen dunkel dargestellt.
+- **Frage 2:** Welcher Vorteil hat eine Parallelschaltung im Haushalt?
+  - **Prompt:** Wohnungsgrundriss mit mehreren Lampen in Parallelschaltung, eine ausgeschaltet, andere leuchten weiter.
+- **Frage 3:** Womit misst man elektrische Spannung?
+  - **Prompt:** Multimeter auf Werkbank, Messleitungen an Batterie, Anzeige in Volt deutlich lesbar.
+- **Frage 4:** Welche Einheit hat die elektrische Stromstärke?
+  - **Prompt:** Lernplakat mit Einheiten Volt, Ampere, Ohm, Watt; Ampere farbig hervorgehoben neben Symbol I.
+- **Frage 5:** Warum wird vor dem Bohren ein Werkstück eingespannt?
+  - **Prompt:** Schraubstock hält Holzplatte fest, Bohrmaschine setzt an, Sicherheitsdarstellung im Technikraum.
+- **Frage 6:** Was zeigt eine Explosionszeichnung?
+  - **Prompt:** Explosionszeichnung eines kleinen Ventilators mit auseinandergezogenen Teilen und Pfeilen zur Montage.
+- **Frage 7:** Welches Material eignet sich gut für ein stabiles, leichtes Brückenmodell?
+  - **Prompt:** Brückenmodell aus Holzleisten über kleinem Spalt, Gewichtsprobe mit kleinen Gewichten, sachliche Schulumgebung.
+- **Frage 8:** Welche Aufgabe hat eine Sicherung im Stromkreis?
+  - **Prompt:** Haussicherungskasten mit markierter Sicherung, Pfeil zeigt Schutzfunktion bei Überlast.
+- **Frage 9:** Was bedeutet Nachhaltigkeit bei einem technischen Produkt?
+  - **Prompt:** Vergleich zweier Produkte: reparierbares Gerät mit Ersatzteilen vs Wegwerfgerät im Müll, Infografikstil.
+- **Frage 10:** Welche Information steht typischerweise in einer Stückliste?
+  - **Prompt:** Technische Zeichnung mit danebenliegender Stückliste-Tabelle: Teilname, Material, Anzahl.
+## technik_k8
+- **Frage 1:** Welche Energieumwandlung passiert bei einer LED-Taschenlampe?
+  - **Prompt:** Aufgeschnittene Taschenlampe mit Batterie und LED, Pfeildiagramm elektrische Energie zu Licht.
+- **Frage 2:** Warum nutzt man in Getrieben unterschiedlich große Zahnräder?
+  - **Prompt:** Zweiradgetriebe in Nahaufnahme, kleines und großes Zahnrad, Pfeile für Drehzahl und Drehmoment.
+- **Frage 3:** Wodurch erkennt man in einem Schaltplan einen Taster?
+  - **Prompt:** Vergleichssymbole Schalter und Taster auf kariertem Blatt, Taster mit Finger-Icon 'nur beim Drücken'.
+- **Frage 4:** Welche Aussage zum Wirkungsgrad ist richtig?
+  - **Prompt:** Infografik zu Elektromotor: Eingangsenergie, Nutzenergie, Wärmeverlust mit Prozentangaben unter 100%.
+- **Frage 5:** Welches Verfahren passt, um ein Modellteil aus Kunststoff präzise zu erzeugen?
+  - **Prompt:** 3D-Drucker im Schulmaker-space druckt kleines Zahnrad, Schichtlinien gut erkennbar.
+- **Frage 6:** Was prüft man mit einer Funktionsprobe am Ende eines Projekts?
+  - **Prompt:** Schülerteam testet selbstgebautes Fahrzeug auf Teststrecke mit Checkliste in der Hand.
+- **Frage 7:** Welche Sensorart misst die Helligkeit?
+  - **Prompt:** Mikrocontroller-Board mit aufgestecktem Lichtsensor, Lampe wird heller und Messwert steigt auf Display.
+- **Frage 8:** Warum ist eine technische Dokumentation wichtig?
+  - **Prompt:** Ordner mit Bauplan, Schaltplan und Fotos neben einem Modellgerät, strukturierte Dokumentation.
+- **Frage 9:** Welche Größe beschreibt die elektrische Leistung eines Geräts?
+  - **Prompt:** Mehrfachstecker mit Geräten und Leistungsetiketten in Watt, ein Label farbig hervorgehoben.
+- **Frage 10:** Was ist ein Kriterium für eine gute Produktbewertung im Unterricht?
+  - **Prompt:** Bewertungsbogen mit Rubriken Funktion, Sicherheit, Verarbeitung; Lehrkraft und Schüler besprechen Ergebnisse.
+## technik_k9
+- **Frage 1:** Wofür nutzt man einen Transistor in einfachen Schaltungen oft?
+  - **Prompt:** Lehrtafel mit Transistor-Symbol und LED-Schaltung, Finger zeigt auf Funktion als Schalter.
+- **Frage 2:** Was beschreibt der elektrische Widerstand?
+  - **Prompt:** Widerstandsfarbringe neben Ohm-Symbol, Diagramm Stromfluss mit unterschiedlicher Hemmung.
+- **Frage 3:** Welcher Vorteil entsteht durch modulare Bauweise bei Produkten?
+  - **Prompt:** Modulares Robotikset mit austauschbaren Steckmodulen, ein Modul wird einfach herausgenommen.
+- **Frage 4:** Was ist der Hauptzweck einer CAD-Zeichnung?
+  - **Prompt:** Laptop mit CAD-Modell eines Gehäuses, Maßlinien und Bemaßungen deutlich sichtbar.
+- **Frage 5:** Warum wird beim Löten Flussmittel eingesetzt?
+  - **Prompt:** Makroaufnahme einer sauberen Lötstelle auf Platine, kleines Flussmittel-Fläschchen daneben.
+- **Frage 6:** Welche Aussage zu Toleranzen in technischen Zeichnungen ist richtig?
+  - **Prompt:** Bemaßte Zeichnung einer Welle mit Maß 10,00 ±0,05 mm, Messschieber daneben.
+- **Frage 7:** Welche Gefahr entsteht bei falsch dimensionierten Leitungen?
+  - **Prompt:** Vergleich dünnes überhitztes Kabel versus korrekt dimensioniertes Kabel im Techniklabor, Warnsymbol sichtbar.
+- **Frage 8:** Was zeigt ein Blockschaltbild?
+  - **Prompt:** Blockschaltbild eines automatischen Türöffners mit Blöcken Sensor, Steuerung, Motor und Pfeilen.
+- **Frage 9:** Warum ist eine Lebenszyklusanalyse technisch relevant?
+  - **Prompt:** Kreisdiagramm Lebenszyklus eines Geräts: Rohstoff, Produktion, Nutzung, Reparatur, Recycling.
+- **Frage 10:** Welche Messgröße wird mit einem Oszilloskop sichtbar gemacht?
+  - **Prompt:** Oszilloskop-Bildschirm mit Rechtecksignal, Sonde an Schaltung, Unterrichtssituation.
+## technik_k10
+- **Frage 1:** Welche Aufgabe hat ein Regelkreis in der Technik?
+  - **Prompt:** Schema eines Regelkreises für Raumtemperatur mit Sollwert, Sensor, Regler und Heizung.
+- **Frage 2:** Was unterscheidet SPS-Steuerungen von einfacher Relaistechnik vor allem?
+  - **Prompt:** Industrie-Schaltschrank mit SPS-Modul und daneben Relaisleiste, beschrifteter Vergleich.
+- **Frage 3:** Welcher Sensor eignet sich zum Messen des Abstands ohne Berührung?
+  - **Prompt:** Ultraschallsensor an Roboter misst Abstand zu Wand, Schallwellen grafisch dargestellt.
+- **Frage 4:** Warum ist FMEA in Entwicklungsprojekten nützlich?
+  - **Prompt:** Teammeeting mit FMEA-Tabelle auf Bildschirm: Fehlerart, Ursache, Auswirkung, Risikopriorität.
+- **Frage 5:** Welche Kennzahl beschreibt das Verhältnis aus Nutzleistung zu aufgenommener Leistung?
+  - **Prompt:** Formel eta gleich Nutzleistung durch Aufnahmeleistung neben Elektromotor-Grafik.
+- **Frage 6:** Was ist ein Vorteil von Predictive Maintenance?
+  - **Prompt:** Industrieanlage mit Sensor-Cloud-Dashboard, Frühwarnanzeige für Lagerzustand.
+- **Frage 7:** Welche Rolle spielt Redundanz in sicherheitskritischen Systemen?
+  - **Prompt:** Flugzeug-Cockpit-Diagramm mit zwei unabhängigen Sensorsystemen, Hinweis auf Ausfallsicherheit.
+- **Frage 8:** Warum ist die CE-Kennzeichnung für viele Produkte wichtig?
+  - **Prompt:** Produktverpackung mit CE-Zeichen, daneben Checkliste Sicherheit, Gesundheit, Umweltschutz.
+- **Frage 9:** Welche Entscheidung unterstützt eine Nutzwertanalyse?
+  - **Prompt:** Matrix mit Kriterien Kosten, Sicherheit, Nachhaltigkeit und gewichteten Punkten für drei Konzepte.
+- **Frage 10:** Was ist beim Einsatz von KI in technischen Systemen besonders zu beachten?
+  - **Prompt:** Autonomes Robotersystem im Klassenzimmer mit Monitor: KI-Entscheidung plus menschliche Freigabe.
+## informatik_k6
+- **Frage 1:** Welche Aufgabe hat die CPU in einem Computer?
+  - **Prompt:** Computer-Innenansicht mit markierter CPU auf Mainboard, einfache Beschriftung für Schülerinnen und Schüler.
+- **Frage 2:** Wofür ist der Arbeitsspeicher (RAM) wichtig?
+  - **Prompt:** Vergleichsbild: RAM als schneller Notizzettel, Festplatte als Aktenschrank, kindgerechte Infografik.
+- **Frage 3:** Welches Dateiformat ist typisch für ein Bild?
+  - **Prompt:** Datei-Icons auf Bildschirm: PNG-Bild, TXT-Text, MP3-Audio, CSV-Tabelle; PNG hervorgehoben.
+- **Frage 4:** Was bedeutet 'speichern unter'?
+  - **Prompt:** Textverarbeitungsfenster mit Dialog 'Speichern unter', Ordnerwahl und Dateinameingabe.
+- **Frage 5:** Warum sollte man ein starkes Passwort nutzen?
+  - **Prompt:** Schloss-Symbol mit Passwortleiste aus Großbuchstaben, Zahlen und Sonderzeichen, Sicherheitskontext Schule.
+- **Frage 6:** Was ist ein Browser?
+  - **Prompt:** Laptop zeigt geöffnete Browserfenster mit Adressleiste und mehreren Tabs.
+- **Frage 7:** Welche Eingabe ist ein Beispiel für einen Algorithmus?
+  - **Prompt:** Kinder schreiben Rezept-Schritte auf Karten; Titel 'Algorithmus: Kakao machen'.
+- **Frage 8:** Was passiert beim Kopieren und Einfügen einer Datei?
+  - **Prompt:** Dateimanager mit zwei Ordnern, Pfeil von Datei zu Kopie, beide sichtbar.
+- **Frage 9:** Wozu dient die Suchfunktion in einem Dokument?
+  - **Prompt:** Textdokument mit Suchfeld, markiertes gefundenes Wort mehrfach im Text.
+- **Frage 10:** Warum sind regelmäßige Updates sinnvoll?
+  - **Prompt:** Pop-up 'Update verfügbar' auf Tablet, Schild-Symbol für Sicherheit und Schraubenschlüssel für Verbesserungen.
+## informatik_k7
+- **Frage 1:** Was ist eine IP-Adresse?
+  - **Prompt:** Heimnetz-Diagramm mit Router und Geräten, jedes Gerät mit unterschiedlicher IP-Adresse.
+- **Frage 2:** Welche Aussage zu URLs ist richtig?
+  - **Prompt:** Browser-Adressleiste mit URL-Bestandteilen farbig markiert: Protokoll, Domain, Pfad.
+- **Frage 3:** Was bedeutet Zwei-Faktor-Authentifizierung?
+  - **Prompt:** Login-Bildschirm mit Passwortfeld und zusätzlichem Code vom Smartphone.
+- **Frage 4:** Warum nutzt man in der Programmierung Variablen?
+  - **Prompt:** Blockprogrammieroberfläche mit Variable 'punkte', die bei Ereignis erhöht wird.
+- **Frage 5:** Welche Zahl ist in Binärschreibweise korrekt?
+  - **Prompt:** Tafel mit Dezimal- und Binärzahlen, 101101 groß hervorgehoben.
+- **Frage 6:** Was macht eine Schleife in einem Programm?
+  - **Prompt:** Flowchart mit Schleifenpfeil und Zähler, wiederholte Schritte visuell dargestellt.
+- **Frage 7:** Wofür steht HTTPS bei Webseiten?
+  - **Prompt:** Browser mit Schloss-Symbol neben https-Adresse, Datenpakete mit Vorhängeschloss.
+- **Frage 8:** Was ist ein typisches Merkmal von Phishing-Mails?
+  - **Prompt:** E-Mail-Fenster mit Warnhinweisen: dringender Ton, fremde Absenderadresse, verdächtiger Link.
+- **Frage 9:** Welche Rolle spielt ein Router im Heimnetz?
+  - **Prompt:** Wohnzimmer mit Router im Zentrum, Pfeile zu Laptop, Tablet, Konsole und Internetwolke.
+- **Frage 10:** Warum sollten Quellen im Internet geprüft werden?
+  - **Prompt:** Zwei Webseiten im Vergleich: eine mit Quellenangaben, eine mit reißerischer Überschrift ohne Autor.
+## informatik_k8
+- **Frage 1:** Was ist ein Array in vielen Programmiersprachen?
+  - **Prompt:** Code-Editor mit Array [3, 7, 9, 12], Elemente mit Indexnummern markiert.
+- **Frage 2:** Warum trennt man in Programmen oft Eingabe, Verarbeitung und Ausgabe?
+  - **Prompt:** Diagramm mit drei Blöcken Input, Processing, Output und Datenfluss-Pfeilen.
+- **Frage 3:** Welche SQL-Anweisung liest Daten aus einer Tabelle?
+  - **Prompt:** Datenbankoberfläche mit Tabelle 'schueler' und SQL-Abfrage SELECT name FROM schueler.
+- **Frage 4:** Was beschreibt der Begriff 'Debugging'?
+  - **Prompt:** Programmiererin mit Debugger-Fenster, Haltepunkt und Variablenanzeige.
+- **Frage 5:** Welche Aussage zu Open-Source-Software stimmt?
+  - **Prompt:** Laptop mit offenem Repository und Lizenzdatei, Team arbeitet gemeinsam am Code.
+- **Frage 6:** Was ist ein Vorteil von Versionskontrolle wie Git?
+  - **Prompt:** Git-Verlauf mit Commits und Branches, Entwicklerteam koordiniert Änderungen.
+- **Frage 7:** Wodurch verbessert man die Laufzeit bei großer Datenmenge oft am stärksten?
+  - **Prompt:** Vergleichsdiagramm zweier Algorithmen mit stark unterschiedlicher Laufzeit bei wachsender Datenmenge.
+- **Frage 8:** Was ist bei personenbezogenen Daten in Apps wichtig?
+  - **Prompt:** Smartphone-App mit Datenschutz-Einstellungen: Zweck, Einwilligung, minimale Datenerhebung.
+- **Frage 9:** Welche Darstellung nutzt man oft zur Planung von Programmabläufen?
+  - **Prompt:** Flussdiagramm mit Entscheidungsknoten und Prozesskästen für ein Login-Szenario.
+- **Frage 10:** Warum sind Unit-Tests hilfreich?
+  - **Prompt:** Testausgabe im Terminal: mehrere grüne Unit-Tests, eine Funktion wird isoliert geprüft.
+## informatik_k9
+- **Frage 1:** Was ist der Zweck einer Normalisierung in relationalen Datenbanken?
+  - **Prompt:** ER-Diagramm vor und nach Normalisierung, doppelte Daten verschwinden sichtbar.
+- **Frage 2:** Welche Struktur folgt dem Prinzip LIFO?
+  - **Prompt:** Infografik mit Stapel aus Büchern: zuletzt aufgelegt zuerst entnommen, Beschriftung LIFO.
+- **Frage 3:** Warum verwendet man Hashing bei Passwortspeicherung?
+  - **Prompt:** Server-Diagramm zeigt Passwort-Eingabe, Hashfunktion und gespeicherten Hashwert.
+- **Frage 4:** Was ist ein typisches Ziel eines DDoS-Angriffs?
+  - **Prompt:** Serverfarm unter massiven Anfragen aus vielen Bots, Dienststatus auf rot.
+- **Frage 5:** Welche Aussage zu objektorientierter Programmierung trifft zu?
+  - **Prompt:** Klassendiagramm mit Klasse Auto, Attributen und Methoden, Instanzbeispiele daneben.
+- **Frage 6:** Wozu dient ein API-Endpoint in einer Webanwendung?
+  - **Prompt:** Architekturdiagramm Client-Server mit API-Endpoint /api/schueler und JSON-Antwort.
+- **Frage 7:** Welche Methode erhöht die Sicherheit bei Datenübertragung im Netz?
+  - **Prompt:** Nachrichtenübertragung mit verschlüsselten Schlüsseln zwischen zwei Smartphones.
+- **Frage 8:** Was beschreibt Big-O-Notation?
+  - **Prompt:** Kurvendiagramm O(n) und O(n^2) mit wachsender Eingabegröße, Achsen klar beschriftet.
+- **Frage 9:** Warum sind Rollen und Rechte in Softwaresystemen wichtig?
+  - **Prompt:** Benutzerverwaltung mit Rollen Lehrkraft, Schüler, Admin und unterschiedlichen Berechtigungen.
+- **Frage 10:** Welcher Schritt gehört zu einem sinnvollen Incident-Response-Prozess?
+  - **Prompt:** Sicherheitsleitstand mit Ablaufplan Detect, Contain, Recover, Document.
+## informatik_k10
+- **Frage 1:** Warum ist ein Architekturmuster wie MVC oft hilfreich?
+  - **Prompt:** Webapp-Diagramm mit klar getrennten Bereichen Model, View und Controller.
+- **Frage 2:** Was ist ein Vorteil von Continuous Integration?
+  - **Prompt:** CI-Pipeline mit Schritten Commit, Build, Test, Report auf Dashboard.
+- **Frage 3:** Wozu dient ein Threat Model in Projekten?
+  - **Prompt:** Whiteboard mit Datenflussdiagramm und markierten Bedrohungen nach STRIDE-Kategorien.
+- **Frage 4:** Welche Aussage zu neuronalen Netzen ist korrekt?
+  - **Prompt:** Visualisierung eines neuronalen Netzes mit Eingabe-, versteckten und Ausgabeschichten.
+- **Frage 5:** Warum ist Datenqualität für KI-Systeme zentral?
+  - **Prompt:** Vergleich zweier Datensätze: sauber gelabelt vs fehlerhaft, Einfluss auf Modellgenauigkeit.
+- **Frage 6:** Was beschreibt das Prinzip 'Least Privilege'?
+  - **Prompt:** Zugriffsdiagramm mit minimalen Rollenrechten für Dienste in einer Schulplattform.
+- **Frage 7:** Welche Kennzahl bewertet ein Klassifikationsmodell bei unausgeglichenen Klassen oft besser als Accuracy allein?
+  - **Prompt:** Konfusionsmatrix mit Precision, Recall und hervorgehobenem F1-Score.
+- **Frage 8:** Warum nutzt man Code Reviews im Team?
+  - **Prompt:** Zwei Entwickler prüfen Pull Request im gemeinsamen Code-Review-Tool.
+- **Frage 9:** Was ist eine typische Maßnahme für Datenschutz by Design?
+  - **Prompt:** UI-Entwurf mit optionalen statt verpflichtenden Profilfeldern, Datenschutz-Hinweis im Wireframe.
+- **Frage 10:** Welche Aussage zu generativer KI in der Schule ist verantwortungsvoll?
+  - **Prompt:** Schülerin nutzt KI-Tool und vergleicht Ausgabe mit Schulbuch und Quellenliste.
+## medienbildung_k6
+- **Frage 1:** Was solltest du tun, wenn dir ein fremder Account privat schreibt?
+  - **Prompt:** Kind schaut auf Chatnachricht von unbekanntem Profil, daneben Elternteil als Unterstützung.
+- **Frage 2:** Welche Information sollte man im Profil besser nicht öffentlich zeigen?
+  - **Prompt:** Smartphone-Profilseite mit Feldern, Wohnadresse rot markiert als privat.
+- **Frage 3:** Warum ist ein Klassenchat mit Regeln sinnvoll?
+  - **Prompt:** Klassenchat-Regelplakat: freundlich bleiben, keine Beleidigungen, Zeiten beachten.
+- **Frage 4:** Was bedeutet Urheberrecht bei Bildern?
+  - **Prompt:** Collage aus Fotos mit Copyright-Symbol und Hinweis auf Erlaubnis/Quelle.
+- **Frage 5:** Wie erkennst du Werbung in einem Video oft?
+  - **Prompt:** Video-Screenshot mit eingeblendeter Kennzeichnung 'Anzeige' oben links.
+- **Frage 6:** Was ist bei Passwörtern richtig?
+  - **Prompt:** Schreibtisch mit Monitor: unsicherer Passwortzettel durchgestrichen, Passwortmanager-Symbol daneben.
+- **Frage 7:** Warum sollte man vor dem Posten eines Fotos fragen?
+  - **Prompt:** Zwei Kinder schauen Foto auf Handy an, eines fragt um Zustimmung bevor es postet.
+- **Frage 8:** Was tust du bei beleidigenden Nachrichten am besten?
+  - **Prompt:** Smartphone mit Blockieren-Button und Screenshot-Funktion, Beratungslehrerin im Hintergrund.
+- **Frage 9:** Warum sind Bildschirmzeiten wichtig?
+  - **Prompt:** Kind macht Lernpause: Timer, Wasser trinken, Blick aus dem Fenster nach Bildschirmarbeit.
+- **Frage 10:** Welche Quelle ist bei Referaten im Netz besser?
+  - **Prompt:** Vergleich zweier Webseiten für Referat, seriöse Seite mit Autor/Datum markiert.
+## medienbildung_k7
+- **Frage 1:** Was ist ein Hinweis auf eine mögliche Falschmeldung?
+  - **Prompt:** Newsfeed mit Clickbait-Überschrift in Rot und fehlender Quellenangabe.
+- **Frage 2:** Warum sollte man Bilder rückwärts suchen (Reverse Image Search)?
+  - **Prompt:** Browser zeigt Rückwärtssuche eines Fotos mit Treffern aus verschiedenen Jahren.
+- **Frage 3:** Welche Wirkung haben Filterblasen in sozialen Medien?
+  - **Prompt:** Person in Blase mit gleichartigen Posts, außerhalb vielfältige Themen ausgegraut.
+- **Frage 4:** Was bedeutet Quellenkritik?
+  - **Prompt:** Checkliste Quellenkritik neben Laptop: Autor, Datum, Belege, Zweck.
+- **Frage 5:** Wie gehst du mit Kettennachrichten am besten um?
+  - **Prompt:** Messenger mit Kettennachricht 'Leite weiter', daneben Fact-Check-Symbol und Stop-Hand.
+- **Frage 6:** Woran erkennt man ein sicheres Profil in sozialen Netzwerken eher?
+  - **Prompt:** Einstellungsbildschirm Social App mit aktivierten Privatsphäre-Schaltern.
+- **Frage 7:** Was ist bei Memes wichtig?
+  - **Prompt:** Klassenraumdiskussion über Meme: eines lustig, eines verletzend, respektvolle Analyse.
+- **Frage 8:** Warum sollte man bei Online-Gewinnspielen vorsichtig sein?
+  - **Prompt:** Pop-up 'Du hast gewonnen!' mit kleinem Dateneingabeformular und Warnsymbol.
+- **Frage 9:** Welche Aussage über Creative-Commons-Lizenzen stimmt?
+  - **Prompt:** Symbolreihe CC BY, CC BY-SA, CC BY-NC mit kurzer Nutzungserklärung.
+- **Frage 10:** Was ist ein gutes Verhalten bei Diskussionen online?
+  - **Prompt:** Online-Diskussion auf Tablet: respektvolle Kommentare mit Begründungen und Quellenlinks.
+## medienbildung_k8
+- **Frage 1:** Was meint der Begriff 'digitaler Fußabdruck'?
+  - **Prompt:** Fußspuren-Symbol aus Icons wie Likes, Suchanfragen, Uploads auf dunklem Hintergrund.
+- **Frage 2:** Warum ist Datensparsamkeit wichtig?
+  - **Prompt:** App-Formular mit wenigen Pflichtfeldern vs überladenes Formular mit vielen unnötigen Angaben.
+- **Frage 3:** Welche Einstellung reduziert Tracking in Apps am ehesten?
+  - **Prompt:** Smartphone-Berechtigungsmenü mit Standortoption 'Nur beim Verwenden der App'.
+- **Frage 4:** Was ist ein mögliches Problem bei Gesichtserkennung?
+  - **Prompt:** Kamera scannt Gesichter, daneben Hinweis auf unterschiedliche Fehlerraten in Datensätzen.
+- **Frage 5:** Warum sollten Metadaten bei Fotos beachtet werden?
+  - **Prompt:** Fotoeigenschaften-Fenster mit EXIF-Daten: Ort, Zeit, Gerät, rot markiert.
+- **Frage 6:** Was bedeutet Einwilligung im Datenschutzkontext?
+  - **Prompt:** Dialogfenster mit klarer Einwilligungsfrage und Option 'Ablehnen'/'Zustimmen'.
+- **Frage 7:** Wie erkennt man manipulative Designs (Dark Patterns)?
+  - **Prompt:** Website mit großem grellem Zustimmen-Button und kleinem verstecktem Ablehnen-Link.
+- **Frage 8:** Warum ist Quellenangabe bei Referaten mit Internetmaterial wichtig?
+  - **Prompt:** Präsentationsfolie mit Bild und korrektem Quellenverweis unten rechts.
+- **Frage 9:** Was kann gegen Hate Speech im Klassenumfeld helfen?
+  - **Prompt:** Schulprojektplakat gegen Hate Speech mit Meldewegen und respektvoller Gegenrede.
+- **Frage 10:** Welche Rolle hat der öffentlich-rechtliche Rundfunk in Deutschland?
+  - **Prompt:** TV-Studio-Grafik mit Nachrichten, Bildungsformat und Kulturangebot als drei Säulen.
+## medienbildung_k9
+- **Frage 1:** Wie beeinflussen Empfehlungsalgorithmen oft den Medienkonsum?
+  - **Prompt:** Social-Media-Feed mit Algorithmus-Pfeilen zu stark geklickten Themen.
+- **Frage 2:** Was ist bei Deepfakes das größte Risiko?
+  - **Prompt:** Vergleich echtes Video und Deepfake-Gesichtstausch mit Analysemerkmalen.
+- **Frage 3:** Welche Maßnahme hilft gegen Desinformation am wirksamsten?
+  - **Prompt:** Schülergruppe vergleicht Artikel mit Faktencheck-Webseite und Quellenliste.
+- **Frage 4:** Warum können Influencer-Kooperationen problematisch sein?
+  - **Prompt:** Influencer-Post mit Produktplatzierung und Kennzeichnung 'Werbung' deutlich eingeblendet.
+- **Frage 5:** Was beschreibt der Begriff 'Medienkonvergenz'?
+  - **Prompt:** Smartphone-App zeigt Newsartikel mit Video, Podcast und Kommentarfunktion in einer Oberfläche.
+- **Frage 6:** Welche Verantwortung haben Plattformen bei strafbaren Inhalten?
+  - **Prompt:** Plattform-Dashboard mit Meldebutton, Moderationsteam und Prozess 'Prüfen/Löschen'.
+- **Frage 7:** Was ist ein möglicher Effekt permanenter Selbstinszenierung online?
+  - **Prompt:** Jugendliche vor Social-Media-Profilen mit Like-Zahlen, eine Person wirkt gestresst.
+- **Frage 8:** Warum ist Mediennutzung in Krisenzeiten besonders sensibel?
+  - **Prompt:** Krisenmeldung auf Smartphone, daneben Warnung vor ungeprüftem Weiterleiten in Gruppenchat.
+- **Frage 9:** Welche Aussage zur Meinungsfreiheit ist korrekt?
+  - **Prompt:** Waage-Symbol: freie Meinung auf einer Seite, Schutz vor Beleidigung/Hassrede auf der anderen.
+- **Frage 10:** Woran erkennt man transparente journalistische Arbeit eher?
+  - **Prompt:** Online-Artikel mit sichtbarem Korrekturhinweis und verlinkten Primärquellen.
+## medienbildung_k10
+- **Frage 1:** Warum ist Framing in Nachrichten relevant?
+  - **Prompt:** Zwei Überschriften zum selben Ereignis mit unterschiedlichem Framing, vergleichend nebeneinander.
+- **Frage 2:** Welche Aussage zur DSGVO ist korrekt?
+  - **Prompt:** Infografik DSGVO-Rechte: Auskunft, Berichtigung, Löschung, Datenübertragbarkeit.
+- **Frage 3:** Was ist bei KI-generierten Bildern in der Schule wichtig?
+  - **Prompt:** Präsentationsfolie mit KI-Bild, klarer Hinweis 'KI-generiert' und Quellen-/Lizenzblock.
+- **Frage 4:** Welche Gefahr birgt Microtargeting in politischen Kampagnen?
+  - **Prompt:** Wahlkampfanzeigen auf verschiedenen Smartphones mit jeweils anderer Botschaft je Nutzerprofil.
+- **Frage 5:** Was bedeutet Medienkompetenz auf Oberstufenniveau am ehesten?
+  - **Prompt:** Schülerteam analysiert Nachrichtenquelle, erstellt Beitrag und diskutiert ethische Folgen.
+- **Frage 6:** Warum sollten Trainingsdaten für KI divers zusammengestellt sein?
+  - **Prompt:** Datensatz-Visualisierung mit vielfältigen Personenmerkmalen und Hinweis auf Bias-Reduktion.
+- **Frage 7:** Welche Rolle spielt ein Impressum bei Online-Angeboten in Deutschland?
+  - **Prompt:** Website-Footer mit deutlich sichtbarem Impressum-Link und Verantwortlichkeitsangaben.
+- **Frage 8:** Was ist ein sinnvolles Vorgehen bei urheberrechtlich geschützten Materialien im Unterricht?
+  - **Prompt:** Unterrichtsszene mit Lehrkraft, die Lizenzhinweise zu Bild- und Textmaterial auf Beamer erklärt.
+- **Frage 9:** Welche Aussage zur Plattformökonomie trifft zu?
+  - **Prompt:** Marktgrafik mit wenigen großen Plattformen und stark wachsenden Netzwerkeffekten.
+- **Frage 10:** Wie sollte man Ergebnisse aus generativer KI wissenschaftlich nutzen?
+  - **Prompt:** Schülerin vergleicht KI-Text mit Fachbuch und markiert überprüfte Aussagen im Dokument.

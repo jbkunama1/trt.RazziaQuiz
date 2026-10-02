@@ -1,0 +1,195 @@
+{
+  "subject": "Informatik Klasse 7 – Internet und Codierung",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was ist eine IP-Adresse?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k7_01.jpg"
+      },
+      "answers": [
+        "Eine eindeutige Adresse eines Geräts im Netzwerk",
+        "Ein Programmierfehler",
+        "Ein spezieller Drucker",
+        "Ein Passwortmanager"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Aussage zu URLs ist richtig?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k7_02.jpg"
+      },
+      "answers": [
+        "Sie geben die Adresse einer Ressource im Web an",
+        "Sie verschlüsseln automatisch jede Datei",
+        "Sie ersetzen den Browser",
+        "Sie sind nur Zahlenfolgen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet Zwei-Faktor-Authentifizierung?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k7_03.jpg"
+      },
+      "answers": [
+        "Anmeldung mit Passwort plus zweitem Nachweis",
+        "Ein extra langes Passwort allein",
+        "Anmeldung nur mit Fingerabdruck ohne Passwort",
+        "Nur ein Benutzername reicht"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum nutzt man in der Programmierung Variablen?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k7_04.jpg"
+      },
+      "answers": [
+        "Um Werte unter Namen zu speichern und zu ändern",
+        "Um Dateien auszudrucken",
+        "Um den Monitor zu kalibrieren",
+        "Um WLAN zu verstärken"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Zahl ist in Binärschreibweise korrekt?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k7_05.jpg"
+      },
+      "answers": [
+        "101101",
+        "289",
+        "12A4",
+        "7,5"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was macht eine Schleife in einem Programm?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k7_06.jpg"
+      },
+      "answers": [
+        "Sie wiederholt Anweisungen",
+        "Sie speichert nur Bilder",
+        "Sie beendet sofort jedes Programm",
+        "Sie verschlüsselt WLAN"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wofür steht HTTPS bei Webseiten?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k7_07.jpg"
+      },
+      "answers": [
+        "Für eine verschlüsselte Verbindung",
+        "Für höhere Bildschirmauflösung",
+        "Für eine schnellere Tastatur",
+        "Für Offline-Betrieb ohne Internet"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein typisches Merkmal von Phishing-Mails?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k7_08.jpg"
+      },
+      "answers": [
+        "Sie drängen zu schnellem Klicken auf verdächtige Links",
+        "Sie enthalten immer fehlerfreie persönliche Anrede",
+        "Sie kommen nur von Lehrkräften",
+        "Sie haben nie Anhänge"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Rolle spielt ein Router im Heimnetz?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k7_09.jpg"
+      },
+      "answers": [
+        "Er verbindet Geräte untereinander und mit dem Internet",
+        "Er ersetzt den Bildschirm",
+        "Er speichert Hausaufgaben als PDF",
+        "Er lädt den Laptop-Akku"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum sollten Quellen im Internet geprüft werden?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k7_10.jpg"
+      },
+      "answers": [
+        "Nicht alle Inhalte sind zuverlässig oder aktuell",
+        "Weil jede Webseite automatisch geprüft ist",
+        "Damit man keine Notizen machen muss",
+        "Weil Suchmaschinen immer falsch sind"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    }
+  ]
+}

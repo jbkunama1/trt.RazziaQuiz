@@ -151,17 +151,30 @@ Die Konfiguration liegt im gemounteten Volume unter `/app/config` und besteht au
 
 ### 2. Fragenkataloge &mdash; `config/quizz/*.json`
 
-Beliebig viele Quiz-Dateien, auswählbar beim Spielstart:
+Beliebig viele Quiz-Dateien, auswählbar beim Spielstart. Dieses Repository enthält dafür fertige Beispiele unter `quizz/`:
+
+```text
+quizz/
+├── technik_k6.json … technik_k10.json
+├── informatik_k6.json … informatik_k10.json
+└── medienbildung_k6.json … medienbildung_k10.json
+```
+
+Erforderliches Schema je Frage:
 
 ```json
 {
   "subject": "Technik-Quiz Klasse 9",
   "questions": [
     {
+      "type": "single",
       "question": "Welcher Mikrocontroller wird häufig für IoT-Projekte im Unterricht verwendet?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k9_01.jpg"
+      },
       "answers": ["ESP32", "Pentium", "Z80", "6502"],
-      "image": "https://example.com/esp32.jpg",
-      "solution": 0,
+      "solutions": [0],
       "cooldown": 5,
       "time": 15
     }
@@ -172,12 +185,25 @@ Beliebig viele Quiz-Dateien, auswählbar beim Spielstart:
 | Feld | Beschreibung |
 |---|---|
 | `subject` | Titel/Thema des Quiz |
+| `questions[].type` | Fragetyp (`single`) |
 | `questions[].question` | Fragetext |
-| `questions[].answers` | 2&ndash;4 Antwortmöglichkeiten |
-| `questions[].image` | Optionale Bild-URL zur Frage |
-| `questions[].solution` | Index der richtigen Antwort (beginnend bei 0) |
+| `questions[].media` | Optionales Medienobjekt, z. B. `{ "type": "image", "url": "..." }` |
+| `questions[].answers` | Antwortmöglichkeiten als Array |
+| `questions[].solutions` | Array mit 0-basiertem Index der richtigen Antwort(en), bei `single` genau ein Eintrag |
 | `questions[].cooldown` | Anzeigedauer der Frage vor Start des Timers (Sekunden) |
 | `questions[].time` | Zeit zum Antworten (Sekunden) |
+
+### Quiz-Dateien importieren
+
+1. Dateien aus diesem Repository nach `/app/config/quizz/` kopieren (z. B. aus dem lokalen `quizz/`-Ordner).
+2. Darauf achten, dass nur valide JSON-Dateien im Verzeichnis liegen.
+3. Container neu starten, damit die Quiz-Konfiguration neu eingelesen wird:
+
+```bash
+docker compose restart razzia-quiz
+```
+
+Passende Bildideen für alle neuen Fragen stehen in `docs/BILDERPROMPTS.md`.
 
 ## 🕹️ Spielablauf
 

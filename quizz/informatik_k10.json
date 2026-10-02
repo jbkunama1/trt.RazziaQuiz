@@ -1,0 +1,195 @@
+{
+  "subject": "Informatik Klasse 10 – Softwareentwicklung und KI",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Warum ist ein Architekturmuster wie MVC oft hilfreich?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k10_01.jpg"
+      },
+      "answers": [
+        "Es trennt Zuständigkeiten und erleichtert Wartung",
+        "Es verhindert jede Form von Fehlern",
+        "Es funktioniert nur ohne Datenbank",
+        "Es ersetzt Versionskontrolle"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Vorteil von Continuous Integration?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k10_02.jpg"
+      },
+      "answers": [
+        "Änderungen werden regelmäßig automatisch gebaut und getestet",
+        "Tests werden dadurch unnötig",
+        "Nur eine Person darf committen",
+        "Deployments sind nicht mehr nötig"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wozu dient ein Threat Model in Projekten?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k10_03.jpg"
+      },
+      "answers": [
+        "Mögliche Angriffe strukturiert erfassen und Gegenmaßnahmen planen",
+        "Nur das Farbschema der App festlegen",
+        "Dokumentation vollständig ersetzen",
+        "Passwortregeln abschaffen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Aussage zu neuronalen Netzen ist korrekt?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k10_04.jpg"
+      },
+      "answers": [
+        "Sie lernen Muster aus Trainingsdaten",
+        "Sie liefern immer fehlerfreie Ergebnisse",
+        "Sie brauchen keine Rechenleistung",
+        "Sie sind identisch mit klassischen Wenn-Dann-Regeln"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum ist Datenqualität für KI-Systeme zentral?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k10_05.jpg"
+      },
+      "answers": [
+        "Fehlerhafte oder verzerrte Daten führen zu schlechten Modellen",
+        "Mehr Datenmenge löst jedes Qualitätsproblem allein",
+        "Modelle ignorieren Trainingsdaten vollständig",
+        "Datenqualität betrifft nur Bilder"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt das Prinzip 'Least Privilege'?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k10_06.jpg"
+      },
+      "answers": [
+        "Jeder Prozess erhält nur die minimal nötigen Rechte",
+        "Alle Prozesse bekommen Admin-Rechte",
+        "Rechte werden nie überprüft",
+        "Nur Gäste dürfen Systeme konfigurieren"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Kennzahl bewertet ein Klassifikationsmodell bei unausgeglichenen Klassen oft besser als Accuracy allein?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k10_07.jpg"
+      },
+      "answers": [
+        "F1-Score",
+        "Bildrate",
+        "ASCII-Code",
+        "Taktfrequenz"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum nutzt man Code Reviews im Team?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k10_08.jpg"
+      },
+      "answers": [
+        "Sie erhöhen Qualität und teilen Wissen",
+        "Sie machen Tests überflüssig",
+        "Sie ersetzen jede Projektplanung",
+        "Sie dienen nur der Kontrolle einzelner Personen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine typische Maßnahme für Datenschutz by Design?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k10_09.jpg"
+      },
+      "answers": [
+        "Schon im Entwurf nur notwendige Datenfelder vorsehen",
+        "Erst nach Veröffentlichung über Datenschutz nachdenken",
+        "Alle Logs unbegrenzt speichern",
+        "Standardmäßig alle Profile öffentlich setzen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Aussage zu generativer KI in der Schule ist verantwortungsvoll?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k10_10.jpg"
+      },
+      "answers": [
+        "Ergebnisse kritisch prüfen und Quellen transparent ergänzen",
+        "KI-Antworten ungeprüft als eigene Leistung abgeben",
+        "Nur auf KI vertrauen und Fachbücher ignorieren",
+        "Prompts mit persönlichen Fremddaten teilen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    }
+  ]
+}

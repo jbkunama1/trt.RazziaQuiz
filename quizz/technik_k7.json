@@ -1,0 +1,195 @@
+{
+  "subject": "Technik Klasse 7 – Strom und Konstruktion",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was passiert in einer Reihenschaltung, wenn eine Lampe ausfällt?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k7_01.jpg"
+      },
+      "answers": [
+        "Alle Lampen gehen aus",
+        "Nur die ausgefallene Lampe ist aus",
+        "Die anderen Lampen werden heller",
+        "Die Batterie lädt sich auf"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Vorteil hat eine Parallelschaltung im Haushalt?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k7_02.jpg"
+      },
+      "answers": [
+        "Geräte funktionieren unabhängig voneinander",
+        "Sie braucht keine Sicherung",
+        "Sie verbraucht keinen Strom",
+        "Alle Geräte haben immer dieselbe Leistung"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Womit misst man elektrische Spannung?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k7_03.jpg"
+      },
+      "answers": [
+        "Mit einem Voltmeter",
+        "Mit einem Thermometer",
+        "Mit einer Wasserwaage",
+        "Mit einer Federwaage"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Einheit hat die elektrische Stromstärke?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k7_04.jpg"
+      },
+      "answers": [
+        "Ampere",
+        "Watt",
+        "Ohm",
+        "Volt"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum wird vor dem Bohren ein Werkstück eingespannt?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k7_05.jpg"
+      },
+      "answers": [
+        "Damit es nicht verrutscht",
+        "Damit es schneller trocknet",
+        "Damit es leichter wird",
+        "Damit der Bohrer stumpf wird"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was zeigt eine Explosionszeichnung?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k7_06.jpg"
+      },
+      "answers": [
+        "Wie Bauteile eines Produkts zusammengesetzt sind",
+        "Wie ein Motor Geräusche macht",
+        "Wie teuer ein Produkt ist",
+        "Wie lange eine Batterie hält"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Material eignet sich gut für ein stabiles, leichtes Brückenmodell?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k7_07.jpg"
+      },
+      "answers": [
+        "Dreikant-Holzleisten",
+        "Nasses Papier",
+        "Knete",
+        "Zuckerwürfel"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Aufgabe hat eine Sicherung im Stromkreis?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k7_08.jpg"
+      },
+      "answers": [
+        "Sie unterbricht bei zu hoher Stromstärke",
+        "Sie verstärkt den Strom",
+        "Sie speichert elektrische Energie",
+        "Sie ersetzt den Schalter"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet Nachhaltigkeit bei einem technischen Produkt?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k7_09.jpg"
+      },
+      "answers": [
+        "Lange Nutzung, reparierbar und ressourcenschonend",
+        "Möglichst bunte Verpackung",
+        "Nur im Ausland produziert",
+        "Nach einmaliger Nutzung entsorgen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Information steht typischerweise in einer Stückliste?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k7_10.jpg"
+      },
+      "answers": [
+        "Benötigte Teile mit Anzahl",
+        "Nur die Farbe des Produkts",
+        "Namen aller Käufer",
+        "Werbe-Slogan des Herstellers"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    }
+  ]
+}

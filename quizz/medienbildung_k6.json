@@ -1,0 +1,195 @@
+{
+  "subject": "Medienbildung Klasse 6 – Sicher online starten",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was solltest du tun, wenn dir ein fremder Account privat schreibt?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k6_01.jpg"
+      },
+      "answers": [
+        "Vorsichtig sein und einer vertrauten erwachsenen Person Bescheid geben",
+        "Sofort persönliche Daten schicken",
+        "Den Account sofort treffen",
+        "Das Passwort teilen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Information sollte man im Profil besser nicht öffentlich zeigen?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k6_02.jpg"
+      },
+      "answers": [
+        "Wohnadresse",
+        "Lieblingsfarbe",
+        "Hobby Fußball",
+        "Lieblingsfach Kunst"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum ist ein Klassenchat mit Regeln sinnvoll?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k6_03.jpg"
+      },
+      "answers": [
+        "Damit alle respektvoll und fair schreiben",
+        "Damit nur eine Person schreiben darf",
+        "Damit Hausaufgaben geheim bleiben",
+        "Damit niemand Fragen stellen kann"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet Urheberrecht bei Bildern?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k6_04.jpg"
+      },
+      "answers": [
+        "Bilder dürfen nicht einfach ohne Erlaubnis verwendet werden",
+        "Alle Bilder im Internet sind automatisch frei",
+        "Nur Erwachsene müssen Quellen nennen",
+        "Urheberrecht gilt nur für Musik"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie erkennst du Werbung in einem Video oft?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k6_05.jpg"
+      },
+      "answers": [
+        "Durch Hinweise wie 'Anzeige' oder Produktplatzierung",
+        "An der Lautstärke",
+        "Nur am Hintergrundbild",
+        "Gar nicht, Werbung ist immer unsichtbar"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist bei Passwörtern richtig?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k6_06.jpg"
+      },
+      "answers": [
+        "Für wichtige Konten unterschiedliche Passwörter nutzen",
+        "Passwort auf Zettel am Monitor kleben",
+        "Passwort mit Freundesgruppe teilen",
+        "Immer denselben einfachen Namen nutzen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum sollte man vor dem Posten eines Fotos fragen?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k6_07.jpg"
+      },
+      "answers": [
+        "Weil andere über ihre Bilder mitentscheiden dürfen",
+        "Weil Fotos automatisch gelöscht werden",
+        "Weil Kamera sonst kaputtgeht",
+        "Weil nur Lehrkräfte posten dürfen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was tust du bei beleidigenden Nachrichten am besten?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k6_08.jpg"
+      },
+      "answers": [
+        "Nachricht sichern, blockieren und Hilfe holen",
+        "Sofort zurückbeleidigen",
+        "Alles öffentlich weiterleiten",
+        "Account-Passwort aufgeben"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum sind Bildschirmzeiten wichtig?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k6_09.jpg"
+      },
+      "answers": [
+        "Pausen schützen Augen und Konzentration",
+        "Lange Zeiten verbessern immer jede Note",
+        "Pausen sind nur am Wochenende nötig",
+        "Bildschirmzeit hat keine Wirkung"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Quelle ist bei Referaten im Netz besser?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k6_10.jpg"
+      },
+      "answers": [
+        "Seite mit Autor, Datum und nachvollziehbaren Quellen",
+        "Seite ohne Impressum und Quellen",
+        "Anonymer Kommentar ohne Belege",
+        "Beliebiger Werbetext"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    }
+  ]
+}

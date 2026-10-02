@@ -1,0 +1,195 @@
+{
+  "subject": "Medienbildung Klasse 8 – Datenschutz und digitale Öffentlichkeit",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was meint der Begriff 'digitaler Fußabdruck'?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k8_01.jpg"
+      },
+      "answers": [
+        "Spuren, die man durch Online-Aktivitäten hinterlässt",
+        "Die Größe eines Smartphone-Displays",
+        "Ein Virenschutzprogramm",
+        "Nur Standortdaten im Auto"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum ist Datensparsamkeit wichtig?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k8_02.jpg"
+      },
+      "answers": [
+        "Weniger gespeicherte Daten bedeuten oft weniger Risiko",
+        "Mehr Daten sind immer besser",
+        "Datenschutz gilt nur für Behörden",
+        "Daten löschen ist verboten"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Einstellung reduziert Tracking in Apps am ehesten?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k8_03.jpg"
+      },
+      "answers": [
+        "Standortzugriff nur bei Nutzung erlauben",
+        "Alle Berechtigungen dauerhaft erlauben",
+        "Automatisches Teilen aktivieren",
+        "Nutzungsbedingungen nie lesen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein mögliches Problem bei Gesichtserkennung?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k8_04.jpg"
+      },
+      "answers": [
+        "Fehler und Benachteiligung durch verzerrte Trainingsdaten",
+        "Sie funktioniert ohne Strom",
+        "Sie benötigt keine Datengrundlage",
+        "Sie ist immer neutral"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum sollten Metadaten bei Fotos beachtet werden?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k8_05.jpg"
+      },
+      "answers": [
+        "Sie können Ort und Zeit verraten",
+        "Sie verbessern automatisch die Bildqualität",
+        "Sie sind immer gelöscht",
+        "Sie enthalten nie persönliche Informationen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet Einwilligung im Datenschutzkontext?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k8_06.jpg"
+      },
+      "answers": [
+        "Bewusste Zustimmung zur Datennutzung für einen Zweck",
+        "Automatische Zustimmung durch App-Installation",
+        "Schweigen gilt immer als Zustimmung",
+        "Einwilligung kann nie widerrufen werden"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie erkennt man manipulative Designs (Dark Patterns)?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k8_07.jpg"
+      },
+      "answers": [
+        "Wenn Abmelden oder Ablehnen absichtlich versteckt ist",
+        "Wenn Buttons klar gleichwertig sind",
+        "Wenn Datenschutzeinstellungen leicht erreichbar sind",
+        "Wenn Werbung eindeutig markiert ist"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum ist Quellenangabe bei Referaten mit Internetmaterial wichtig?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k8_08.jpg"
+      },
+      "answers": [
+        "Sie macht Informationen nachvollziehbar und fair",
+        "Sie ist nur bei Bildern nötig",
+        "Sie ersetzt die eigene Erklärung",
+        "Sie wird nur in der Oberstufe verlangt"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was kann gegen Hate Speech im Klassenumfeld helfen?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k8_09.jpg"
+      },
+      "answers": [
+        "Melden, Gegenrede und klare Schulregeln",
+        "Ignorieren und weiterverbreiten",
+        "Anonyme Beleidigungen zurückschicken",
+        "Screenshots löschen ohne Meldung"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Rolle hat der öffentlich-rechtliche Rundfunk in Deutschland?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k8_10.jpg"
+      },
+      "answers": [
+        "Er soll unabhängige Information und Bildung anbieten",
+        "Er darf nur Werbung senden",
+        "Er ist nur für Sport zuständig",
+        "Er ersetzt alle privaten Medien"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    }
+  ]
+}

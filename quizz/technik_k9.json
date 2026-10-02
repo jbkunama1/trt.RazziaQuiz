@@ -1,0 +1,195 @@
+{
+  "subject": "Technik Klasse 9 – Elektronik und Fertigung",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Wofür nutzt man einen Transistor in einfachen Schaltungen oft?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k9_01.jpg"
+      },
+      "answers": [
+        "Als elektronischen Schalter",
+        "Als mechanische Feder",
+        "Als Gehäusematerial",
+        "Als Spannungsmesser"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt der elektrische Widerstand?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k9_02.jpg"
+      },
+      "answers": [
+        "Wie stark ein Bauteil den Stromfluss hemmt",
+        "Wie schnell ein Motor dreht",
+        "Wie laut ein Lautsprecher ist",
+        "Wie hell eine Lampe leuchtet"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Vorteil entsteht durch modulare Bauweise bei Produkten?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k9_03.jpg"
+      },
+      "answers": [
+        "Defekte Teile lassen sich leichter austauschen",
+        "Produkte können nicht erweitert werden",
+        "Es braucht mehr Spezialwerkzeug für jede Reparatur",
+        "Alle Teile müssen verklebt sein"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist der Hauptzweck einer CAD-Zeichnung?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k9_04.jpg"
+      },
+      "answers": [
+        "Bauteile präzise digital zu entwerfen",
+        "Nur Fotos zu bearbeiten",
+        "Musikdateien zu speichern",
+        "Passwörter zu verwalten"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum wird beim Löten Flussmittel eingesetzt?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k9_05.jpg"
+      },
+      "answers": [
+        "Es verbessert die Benetzung und reduziert Oxidation",
+        "Es kühlt das Lötzinn sofort auf null Grad",
+        "Es ersetzt das Lötzinn vollständig",
+        "Es erhöht die Batteriespannung"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Aussage zu Toleranzen in technischen Zeichnungen ist richtig?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k9_06.jpg"
+      },
+      "answers": [
+        "Sie geben zulässige Maßabweichungen an",
+        "Sie sind nur bei Holzprojekten erlaubt",
+        "Sie machen Messen überflüssig",
+        "Sie ersetzen Materialangaben"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Gefahr entsteht bei falsch dimensionierten Leitungen?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k9_07.jpg"
+      },
+      "answers": [
+        "Überhitzung bis hin zum Brand",
+        "Bessere Signalqualität",
+        "Geringerer Energieverbrauch automatisch",
+        "Höhere Akku-Lebensdauer"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was zeigt ein Blockschaltbild?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k9_08.jpg"
+      },
+      "answers": [
+        "Funktionale Zusammenhänge zwischen Teilsystemen",
+        "Die Lackfarbe eines Produkts",
+        "Nur den Verkaufspreis",
+        "Nur die Schraubengrößen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum ist eine Lebenszyklusanalyse technisch relevant?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k9_09.jpg"
+      },
+      "answers": [
+        "Sie bewertet Umweltwirkungen von Herstellung bis Entsorgung",
+        "Sie zählt nur die Verpackungsfarbe",
+        "Sie ersetzt Sicherheitsprüfungen vollständig",
+        "Sie betrifft nur Lebensmittel"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Messgröße wird mit einem Oszilloskop sichtbar gemacht?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k9_10.jpg"
+      },
+      "answers": [
+        "Zeitlicher Verlauf elektrischer Signale",
+        "Masse eines Werkstücks",
+        "Härte von Holz",
+        "Lautstärke im Klassenraum ohne Mikrofon"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    }
+  ]
+}

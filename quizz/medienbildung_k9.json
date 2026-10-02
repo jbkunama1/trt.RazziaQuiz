@@ -1,0 +1,195 @@
+{
+  "subject": "Medienbildung Klasse 9 – Plattformen, Macht und Verantwortung",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Wie beeinflussen Empfehlungsalgorithmen oft den Medienkonsum?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k9_01.jpg"
+      },
+      "answers": [
+        "Sie priorisieren Inhalte, die hohe Interaktion versprechen",
+        "Sie zeigen immer zufällig alles gleich",
+        "Sie entfernen automatisch jede Werbung",
+        "Sie verhindern jede Meinungsbildung"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist bei Deepfakes das größte Risiko?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k9_02.jpg"
+      },
+      "answers": [
+        "Täuschend echte Falschdarstellungen können Vertrauen untergraben",
+        "Sie verbessern nur die Tonqualität",
+        "Sie sind leicht ohne Technik zu erkennen",
+        "Sie betreffen nur Spielfilme"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Maßnahme hilft gegen Desinformation am wirksamsten?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k9_03.jpg"
+      },
+      "answers": [
+        "Mehrere seriöse Quellen vergleichen und Faktenchecks nutzen",
+        "Nur Überschriften teilen",
+        "Informationen nur nach Likes bewerten",
+        "Screenshots ohne Kontext verbreiten"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum können Influencer-Kooperationen problematisch sein?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k9_04.jpg"
+      },
+      "answers": [
+        "Werbung ist nicht immer sofort erkennbar",
+        "Produkte werden dadurch kostenlos",
+        "Kooperationen sind gesetzlich verboten",
+        "Nur Erwachsene dürfen Werbung sehen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt der Begriff 'Medienkonvergenz'?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k9_05.jpg"
+      },
+      "answers": [
+        "Verschmelzung von Text, Audio, Video und Interaktion auf Plattformen",
+        "Trennung aller Medienkanäle",
+        "Nur lineares Fernsehen ohne Internet",
+        "Ausschließlich gedruckte Medien"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Verantwortung haben Plattformen bei strafbaren Inhalten?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k9_06.jpg"
+      },
+      "answers": [
+        "Sie müssen Meldewege anbieten und rechtswidrige Inhalte bearbeiten",
+        "Sie tragen nie Verantwortung",
+        "Sie dürfen keine Moderation betreiben",
+        "Sie müssen jeden Beitrag ungeprüft dauerhaft speichern"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein möglicher Effekt permanenter Selbstinszenierung online?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k9_07.jpg"
+      },
+      "answers": [
+        "Psychischer Druck durch ständigen Vergleich",
+        "Automatisch bessere Schulnoten",
+        "Vollständige Privatsphäre",
+        "Weniger Bildschirmzeit"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum ist Mediennutzung in Krisenzeiten besonders sensibel?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k9_08.jpg"
+      },
+      "answers": [
+        "Gerüchte verbreiten sich schnell und können Schaden auslösen",
+        "Falschmeldungen verschwinden automatisch",
+        "Nur Fernsehen kann informieren",
+        "Quellenprüfung ist dann unnötig"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Aussage zur Meinungsfreiheit ist korrekt?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k9_09.jpg"
+      },
+      "answers": [
+        "Sie endet dort, wo Rechte anderer verletzt oder Straftaten begangen werden",
+        "Sie erlaubt jede Form von Bedrohung",
+        "Sie gilt nur offline",
+        "Sie verbietet Kritik an Medien"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Woran erkennt man transparente journalistische Arbeit eher?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k9_10.jpg"
+      },
+      "answers": [
+        "Korrekturen werden offen dokumentiert",
+        "Fehler werden heimlich gelöscht",
+        "Quellen bleiben grundsätzlich geheim",
+        "Überschriften ersetzen den gesamten Inhalt"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    }
+  ]
+}

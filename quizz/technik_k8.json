@@ -1,0 +1,195 @@
+{
+  "subject": "Technik Klasse 8 – Energie und Systeme",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Welche Energieumwandlung passiert bei einer LED-Taschenlampe?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k8_01.jpg"
+      },
+      "answers": [
+        "Elektrische Energie wird zu Lichtenergie",
+        "Lichtenergie wird zu elektrischer Energie",
+        "Wärmeenergie wird zu chemischer Energie",
+        "Schallenergie wird zu Bewegungsenergie"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum nutzt man in Getrieben unterschiedlich große Zahnräder?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k8_02.jpg"
+      },
+      "answers": [
+        "Um Drehzahl und Kraft zu verändern",
+        "Um Strom zu speichern",
+        "Um Kabel zu isolieren",
+        "Um Gewicht zu verdoppeln"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wodurch erkennt man in einem Schaltplan einen Taster?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k8_03.jpg"
+      },
+      "answers": [
+        "Er schließt den Kontakt nur beim Drücken",
+        "Er speichert dauerhaft Strom",
+        "Er misst den Widerstand",
+        "Er ersetzt die Batterie"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Aussage zum Wirkungsgrad ist richtig?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k8_04.jpg"
+      },
+      "answers": [
+        "Ein Teil der Energie geht meist als Wärme verloren",
+        "Wirkungsgrad kann über 100 Prozent liegen",
+        "Wirkungsgrad ist immer genau 0 Prozent",
+        "Wirkungsgrad gilt nur für Computer"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Verfahren passt, um ein Modellteil aus Kunststoff präzise zu erzeugen?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k8_05.jpg"
+      },
+      "answers": [
+        "3D-Druck",
+        "Freihandsägen ohne Vorlage",
+        "Kneten per Hand",
+        "Gießen ohne Form"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was prüft man mit einer Funktionsprobe am Ende eines Projekts?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k8_06.jpg"
+      },
+      "answers": [
+        "Ob das Produkt wie geplant arbeitet",
+        "Ob die Verpackung bunt genug ist",
+        "Ob die Bauzeit lang war",
+        "Ob das Produkt am teuersten ist"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Sensorart misst die Helligkeit?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k8_07.jpg"
+      },
+      "answers": [
+        "Lichtsensor",
+        "Temperatursensor",
+        "Drucksensor",
+        "Feuchtigkeitssensor"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum ist eine technische Dokumentation wichtig?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k8_08.jpg"
+      },
+      "answers": [
+        "Damit andere den Aufbau nachvollziehen und reparieren können",
+        "Damit das Produkt schwerer wird",
+        "Damit kein Schaltplan nötig ist",
+        "Damit nur eine Person es bedienen kann"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Größe beschreibt die elektrische Leistung eines Geräts?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k8_09.jpg"
+      },
+      "answers": [
+        "Watt",
+        "Meter",
+        "Sekunde",
+        "Liter"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Kriterium für eine gute Produktbewertung im Unterricht?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/technik_k8_10.jpg"
+      },
+      "answers": [
+        "Funktion, Sicherheit und Verarbeitung werden begründet beurteilt",
+        "Nur das Aussehen zählt",
+        "Nur die Meinung einer Person zählt",
+        "Nur der Materialpreis zählt"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    }
+  ]
+}

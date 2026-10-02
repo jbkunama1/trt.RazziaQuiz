@@ -1,0 +1,195 @@
+{
+  "subject": "Informatik Klasse 8 – Programmierung und Daten",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was ist ein Array in vielen Programmiersprachen?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k8_01.jpg"
+      },
+      "answers": [
+        "Eine geordnete Liste von Werten",
+        "Ein Netzwerkprotokoll",
+        "Ein Virenschutzprogramm",
+        "Eine Druckerwarteschlange"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum trennt man in Programmen oft Eingabe, Verarbeitung und Ausgabe?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k8_02.jpg"
+      },
+      "answers": [
+        "Damit der Code übersichtlicher und wartbarer wird",
+        "Damit Programme nur einmal laufen",
+        "Damit keine Variablen nötig sind",
+        "Damit Bildschirmfarben zufällig wechseln"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche SQL-Anweisung liest Daten aus einer Tabelle?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k8_03.jpg"
+      },
+      "answers": [
+        "SELECT",
+        "DELETE",
+        "DROP",
+        "ALTER"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt der Begriff 'Debugging'?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k8_04.jpg"
+      },
+      "answers": [
+        "Fehler im Programm systematisch suchen und beheben",
+        "Dateien zufällig umbenennen",
+        "Software ohne Test veröffentlichen",
+        "Nur Kommentare löschen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Aussage zu Open-Source-Software stimmt?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k8_05.jpg"
+      },
+      "answers": [
+        "Der Quellcode ist öffentlich einsehbar",
+        "Sie ist immer kostenpflichtig",
+        "Sie darf nie verändert werden",
+        "Sie läuft nur auf Linux"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Vorteil von Versionskontrolle wie Git?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k8_06.jpg"
+      },
+      "answers": [
+        "Änderungen sind nachvollziehbar und rücksetzbar",
+        "Passwörter werden automatisch öffentlich",
+        "Code kann nicht mehr getestet werden",
+        "Nur eine Person darf gleichzeitig arbeiten"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wodurch verbessert man die Laufzeit bei großer Datenmenge oft am stärksten?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k8_07.jpg"
+      },
+      "answers": [
+        "Durch passende Algorithmen und Datenstrukturen",
+        "Durch bunte Icons im Programm",
+        "Durch längere Dateinamen",
+        "Durch mehr Hintergrundmusik"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist bei personenbezogenen Daten in Apps wichtig?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k8_08.jpg"
+      },
+      "answers": [
+        "Datensparsamkeit und klare Einwilligung",
+        "Möglichst viele Daten ohne Zweck sammeln",
+        "Daten unbegrenzt speichern ohne Hinweis",
+        "Passwort im Klartext speichern"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Darstellung nutzt man oft zur Planung von Programmabläufen?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k8_09.jpg"
+      },
+      "answers": [
+        "Flussdiagramm",
+        "Notensystem",
+        "Landkarte",
+        "Farbkreis"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum sind Unit-Tests hilfreich?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k8_10.jpg"
+      },
+      "answers": [
+        "Sie prüfen Funktionen automatisch und frühzeitig",
+        "Sie ersetzen jede Dokumentation und jedes Review",
+        "Sie machen Fehler unmöglich",
+        "Sie sind nur für Spiele gedacht"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    }
+  ]
+}

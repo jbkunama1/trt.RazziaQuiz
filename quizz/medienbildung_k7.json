@@ -1,0 +1,195 @@
+{
+  "subject": "Medienbildung Klasse 7 – Informationen bewerten",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was ist ein Hinweis auf eine mögliche Falschmeldung?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k7_01.jpg"
+      },
+      "answers": [
+        "Reißerische Überschrift ohne überprüfbare Quelle",
+        "Sachlicher Text mit belegten Daten",
+        "Artikel mit Impressum und Autor",
+        "Meldung aus mehreren unabhängigen Quellen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum sollte man Bilder rückwärts suchen (Reverse Image Search)?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k7_02.jpg"
+      },
+      "answers": [
+        "Um Herkunft und Kontext eines Bildes zu prüfen",
+        "Um das WLAN-Passwort zu ändern",
+        "Um Bildqualität automatisch zu erhöhen",
+        "Um Kommentare zu löschen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Wirkung haben Filterblasen in sozialen Medien?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k7_03.jpg"
+      },
+      "answers": [
+        "Man sieht oft nur ähnliche Meinungen",
+        "Alle Meinungen werden automatisch gleich oft gezeigt",
+        "Sie schützen immer vor Werbung",
+        "Sie löschen Hasskommentare"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet Quellenkritik?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k7_04.jpg"
+      },
+      "answers": [
+        "Informationen nach Autor, Ziel und Belegen prüfen",
+        "Nur Überschrift lesen",
+        "Immer der ersten Suchtrefferseite glauben",
+        "Kommentare als Fakten übernehmen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie gehst du mit Kettennachrichten am besten um?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k7_05.jpg"
+      },
+      "answers": [
+        "Nicht ungeprüft weiterleiten, erst Fakten checken",
+        "Sofort an alle Kontakte senden",
+        "Immer mit persönlicher Adresse antworten",
+        "An den Absender Geld schicken"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Woran erkennt man ein sicheres Profil in sozialen Netzwerken eher?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k7_06.jpg"
+      },
+      "answers": [
+        "Privatsphäre-Einstellungen sind aktiv gesetzt",
+        "Alle Beiträge sind öffentlich",
+        "Standortfreigabe ist immer eingeschaltet",
+        "Passwort steht im Profiltext"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist bei Memes wichtig?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k7_07.jpg"
+      },
+      "answers": [
+        "Humor kann trotzdem verletzend oder diskriminierend sein",
+        "Memes sind nie problematisch",
+        "Memes brauchen keine Bildrechte",
+        "Memes sind immer wahr"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum sollte man bei Online-Gewinnspielen vorsichtig sein?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k7_08.jpg"
+      },
+      "answers": [
+        "Manche sammeln nur Daten oder sind Betrug",
+        "Jedes Gewinnspiel ist staatlich geprüft",
+        "Man gewinnt sicher beim ersten Klick",
+        "Betrug gibt es nur offline"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Aussage über Creative-Commons-Lizenzen stimmt?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k7_09.jpg"
+      },
+      "answers": [
+        "Sie legen fest, wie Werke genutzt werden dürfen",
+        "Sie verbieten immer jede Weitergabe",
+        "Sie gelten nur für gedruckte Bücher",
+        "Sie ersetzen Quellenangaben"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein gutes Verhalten bei Diskussionen online?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/medienbildung_k7_10.jpg"
+      },
+      "answers": [
+        "Sachlich argumentieren und andere ausreden lassen",
+        "Beleidigen bei anderer Meinung",
+        "Nur in Großbuchstaben schreiben",
+        "Gerüchte als Fakten darstellen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    }
+  ]
+}

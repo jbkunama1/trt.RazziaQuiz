@@ -1,0 +1,195 @@
+{
+  "subject": "Informatik Klasse 6 – Digitale Grundlagen",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Welche Aufgabe hat die CPU in einem Computer?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k6_01.jpg"
+      },
+      "answers": [
+        "Sie verarbeitet Befehle und Daten",
+        "Sie druckt Papier aus",
+        "Sie zeigt Bilder auf dem Tisch",
+        "Sie ersetzt das Internet"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wofür ist der Arbeitsspeicher (RAM) wichtig?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k6_02.jpg"
+      },
+      "answers": [
+        "Für kurzfristige Daten während Programme laufen",
+        "Für dauerhafte Archivierung über Jahre",
+        "Für den Internetvertrag",
+        "Für Lautsprecherklang"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Dateiformat ist typisch für ein Bild?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k6_03.jpg"
+      },
+      "answers": [
+        "PNG",
+        "TXT",
+        "MP3",
+        "CSV"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet 'speichern unter'?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k6_04.jpg"
+      },
+      "answers": [
+        "Datei mit neuem Namen oder Ort ablegen",
+        "Datei automatisch löschen",
+        "Nur drucken ohne Speichern",
+        "Internetzugang sperren"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum sollte man ein starkes Passwort nutzen?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k6_05.jpg"
+      },
+      "answers": [
+        "Damit Unbefugte nicht leicht auf das Konto zugreifen",
+        "Damit der Bildschirm heller wird",
+        "Damit Programme schneller starten",
+        "Damit Dateien automatisch sortiert werden"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Browser?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k6_06.jpg"
+      },
+      "answers": [
+        "Programm zum Anzeigen von Webseiten",
+        "Gerät zum Aufladen des Akkus",
+        "Werkzeug zum Löten",
+        "App nur für Musik"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Eingabe ist ein Beispiel für einen Algorithmus?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k6_07.jpg"
+      },
+      "answers": [
+        "Eine genaue Schritt-für-Schritt-Anleitung",
+        "Eine zufällige Idee ohne Reihenfolge",
+        "Nur das Endergebnis",
+        "Ein Bild ohne Text"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was passiert beim Kopieren und Einfügen einer Datei?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k6_08.jpg"
+      },
+      "answers": [
+        "Die Originaldatei bleibt erhalten und eine Kopie entsteht",
+        "Die Originaldatei wird automatisch gelöscht",
+        "Nur der Dateiname wird kopiert",
+        "Die Datei wird ins Internet hochgeladen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wozu dient die Suchfunktion in einem Dokument?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k6_09.jpg"
+      },
+      "answers": [
+        "Sie findet schnell bestimmte Wörter",
+        "Sie ändert automatisch alle Bilder",
+        "Sie macht das Dokument kürzer",
+        "Sie löscht Seiten"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum sind regelmäßige Updates sinnvoll?",
+      "media": {
+        "type": "image",
+        "url": "https://example.com/placeholder/informatik_k6_10.jpg"
+      },
+      "answers": [
+        "Sie schließen Sicherheitslücken und verbessern Funktionen",
+        "Sie machen Passwörter unnötig",
+        "Sie verringern immer den Speicherplatz auf null",
+        "Sie ersetzen Datensicherung"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    }
+  ]
+}
