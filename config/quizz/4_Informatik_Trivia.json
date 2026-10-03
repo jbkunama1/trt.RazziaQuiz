@@ -1,0 +1,321 @@
+{
+  "subject": "4_Informatik_Trivia",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was ist ein Algorithmus?: Trivia-Frage 1 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist ein Algorithmus?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Programm?: Trivia-Frage 2 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist ein Programm?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Variable?: Trivia-Frage 3 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist eine Variable?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Schleife?: Trivia-Frage 4 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist eine Schleife?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Bedingung?: Trivia-Frage 5 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist eine Bedingung?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist Python?: Trivia-Frage 6 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist Python?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist Scratch?: Trivia-Frage 7 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist Scratch?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Bug?: Trivia-Frage 8 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist ein Bug?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist Debugging?: Trivia-Frage 9 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist Debugging?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Array?: Trivia-Frage 10 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist ein Array?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Algorithmus?: Trivia-Frage 11 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist ein Algorithmus?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Programm?: Trivia-Frage 12 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist ein Programm?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Variable?: Trivia-Frage 13 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist eine Variable?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Schleife?: Trivia-Frage 14 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist eine Schleife?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Bedingung?: Trivia-Frage 15 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist eine Bedingung?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist Python?: Trivia-Frage 16 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist Python?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist Scratch?: Trivia-Frage 17 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist Scratch?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Bug?: Trivia-Frage 18 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist ein Bug?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist Debugging?: Trivia-Frage 19 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist Debugging?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Array?: Trivia-Frage 20 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist ein Array?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

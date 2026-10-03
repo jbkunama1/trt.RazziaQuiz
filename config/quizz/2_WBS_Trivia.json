@@ -1,0 +1,321 @@
+{
+  "subject": "2_WBS_Trivia",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was sind Einnahmen?: Trivia-Frage 1 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was sind Einnahmen?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Budget?: Trivia-Frage 2 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist ein Budget?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Aktie?: Trivia-Frage 3 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist eine Aktie?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet Export?: Trivia-Frage 4 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was bedeutet Export?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist Inflation?: Trivia-Frage 5 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist Inflation?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Mindestlohn?: Trivia-Frage 6 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist ein Mindestlohn?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Quelle?: Trivia-Frage 7 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist eine Quelle?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist Fair Trade?: Trivia-Frage 8 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist Fair Trade?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Unternehmen?: Trivia-Frage 9 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist ein Unternehmen?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Konsument?: Trivia-Frage 10 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist ein Konsument?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was sind Einnahmen?: Trivia-Frage 11 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was sind Einnahmen?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Budget?: Trivia-Frage 12 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist ein Budget?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Aktie?: Trivia-Frage 13 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist eine Aktie?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet Export?: Trivia-Frage 14 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was bedeutet Export?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist Inflation?: Trivia-Frage 15 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist Inflation?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Mindestlohn?: Trivia-Frage 16 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist ein Mindestlohn?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Quelle?: Trivia-Frage 17 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist eine Quelle?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist Fair Trade?: Trivia-Frage 18 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist Fair Trade?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Unternehmen?: Trivia-Frage 19 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist ein Unternehmen?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Konsument?: Trivia-Frage 20 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist ein Konsument?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

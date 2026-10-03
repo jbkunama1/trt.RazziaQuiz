@@ -1,0 +1,171 @@
+{
+  "subject": "8 – BW Heimatkunde (10 Fragen)",
+  "questions": [
+    {
+      "type": "single",
+      "question": "BW Heimatkunde: Wissensfrage 1 für Klasse 8 – Welche Antwort ist richtig?",
+      "answers": [
+        "Richtige Antwort zu BW Heimatkunde",
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "BW Heimatkunde: Wissensfrage 2 für Klasse 8 – Welche Antwort ist richtig?",
+      "answers": [
+        "Richtige Antwort zu BW Heimatkunde",
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "BW Heimatkunde: Wissensfrage 3 für Klasse 8 – Welche Antwort ist richtig?",
+      "answers": [
+        "Richtige Antwort zu BW Heimatkunde",
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "BW Heimatkunde: Wissensfrage 4 für Klasse 8 – Welche Antwort ist richtig?",
+      "answers": [
+        "Richtige Antwort zu BW Heimatkunde",
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "BW Heimatkunde: Wissensfrage 5 für Klasse 8 – Welche Antwort ist richtig?",
+      "answers": [
+        "Richtige Antwort zu BW Heimatkunde",
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "BW Heimatkunde: Wissensfrage 6 für Klasse 8 – Welche Antwort ist richtig?",
+      "answers": [
+        "Richtige Antwort zu BW Heimatkunde",
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "BW Heimatkunde: Wissensfrage 7 für Klasse 8 – Welche Antwort ist richtig?",
+      "answers": [
+        "Richtige Antwort zu BW Heimatkunde",
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "BW Heimatkunde: Wissensfrage 8 für Klasse 8 – Welche Antwort ist richtig?",
+      "answers": [
+        "Richtige Antwort zu BW Heimatkunde",
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "BW Heimatkunde: Wissensfrage 9 für Klasse 8 – Welche Antwort ist richtig?",
+      "answers": [
+        "Richtige Antwort zu BW Heimatkunde",
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "BW Heimatkunde: Wissensfrage 10 für Klasse 8 – Welche Antwort ist richtig?",
+      "answers": [
+        "Richtige Antwort zu BW Heimatkunde",
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 25,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    }
+  ]
+}

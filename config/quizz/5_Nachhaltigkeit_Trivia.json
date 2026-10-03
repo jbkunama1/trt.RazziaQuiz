@@ -1,0 +1,321 @@
+{
+  "subject": "5_Nachhaltigkeit_Trivia",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was bedeutet Nachhaltigkeit?: Trivia-Frage 1 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was bedeutet Nachhaltigkeit?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist Recycling?: Trivia-Frage 2 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist Recycling?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Energie ist erneuerbar?: Trivia-Frage 3 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Welche Energie ist erneuerbar?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum Wasser sparen?: Trivia-Frage 4 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Warum Wasser sparen?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist Mülltrennung?: Trivia-Frage 5 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist Mülltrennung?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Verkehrsmittel ist umweltfreundlich?: Trivia-Frage 6 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Welches Verkehrsmittel ist umweltfreundlich?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein CO2-Fußabdruck?: Trivia-Frage 7 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist ein CO2-Fußabdruck?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum sind Bäume wichtig?: Trivia-Frage 8 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Warum sind Bäume wichtig?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist Plastikmüll?: Trivia-Frage 9 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist Plastikmüll?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie kann man Energie sparen?: Trivia-Frage 10 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Wie kann man Energie sparen?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet Nachhaltigkeit?: Trivia-Frage 11 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was bedeutet Nachhaltigkeit?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist Recycling?: Trivia-Frage 12 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist Recycling?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Energie ist erneuerbar?: Trivia-Frage 13 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Welche Energie ist erneuerbar?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum Wasser sparen?: Trivia-Frage 14 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Warum Wasser sparen?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist Mülltrennung?: Trivia-Frage 15 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist Mülltrennung?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Verkehrsmittel ist umweltfreundlich?: Trivia-Frage 16 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Welches Verkehrsmittel ist umweltfreundlich?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein CO2-Fußabdruck?: Trivia-Frage 17 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist ein CO2-Fußabdruck?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum sind Bäume wichtig?: Trivia-Frage 18 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Warum sind Bäume wichtig?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist Plastikmüll?: Trivia-Frage 19 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Was ist Plastikmüll?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie kann man Energie sparen?: Trivia-Frage 20 – Was ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Wie kann man Energie sparen?",
+        "Falsche A",
+        "Falsche B",
+        "Falsche C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}
