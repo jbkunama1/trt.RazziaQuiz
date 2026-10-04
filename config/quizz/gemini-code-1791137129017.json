@@ -1,0 +1,228 @@
+{
+  "subject": "8 – Technik",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Welches Verfahren gehört zu den 'trennenden' Fertigungsverfahren in der Werkstatt?",
+      "answers": [
+        "Löten",
+        "Schweißen",
+        "Sägen (oder Feilen)",
+        "Kleben"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was besagt das Ohmsche Gesetz in der Elektrotechnik?",
+      "answers": [
+        "Spannung ist gleich Widerstand mal Stromstärke (U = R * I)",
+        "Leistung ist gleich Zeit geteilt durch Kraft",
+        "Strom fließt nur bei Dunkelheit",
+        "Widerstand ist immer null"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie unterscheidet sich Nadelholz (z.B. Fichte) meistens von Laubholz (z.B. Eiche)?",
+      "answers": [
+        "Nadelholz ist immer schwerer als Laubholz",
+        "Nadelhölzer wachsen meist schneller, haben Nadeln und Zapfen und sind oft weicher",
+        "Laubhölzer brennen nicht",
+        "Es gibt keinen biologischen Unterschied"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Bauteil in einem elektronischen Stromkreis begrenzt den Stromfluss und schützt empfindliche Teile (wie LEDs)?",
+      "answers": [
+        "Ein Kondensator",
+        "Ein Transistor",
+        "Ein Widerstand",
+        "Eine Spule"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist der Zweck einer technischen Zeichnung mit Maßangaben?",
+      "answers": [
+        "Dass ein Werkstück von jedem Handwerker exakt nach Plan gebaut werden kann",
+        "Dass das Papier schöner aussieht",
+        "Um zu prüfen, ob der Bleistift spitz ist",
+        "Um Kosten zu berechnen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Werkzeugart wird zum Feilen von Metall im Technikraum genutzt?",
+      "answers": [
+        "Holzraspel",
+        "Hiebfeile (Metallfeile)",
+        "Schmirgelpapier",
+        "Laubsäge"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein elektronischer 'Sensor'?",
+      "answers": [
+        "Ein Bauteil, das physikalische Größen (z.B. Licht, Temperatur, Entfernung) misst und in Signale umwandelt",
+        "Ein Motor, der sich dreht",
+        "Eine Batterie, die Strom speichert",
+        "Ein Schalter zum Ausschalten"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie nennt man den Vorgang, bei dem zwei Metallteile durch Erhitzen und Hinzufügen von Zusatzwerkstoff (unter dem Schmelzpunkt) stoffschlüssig verbunden werden?",
+      "answers": [
+        "Schrauben",
+        "Nageln",
+        "Kleben",
+        "Löten"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches thermoplastische Kunststoffverfahren wird im Alltag oft genutzt, um Plastikbecher oder Gehäusedeile in Formen zu pressen?",
+      "answers": [
+        "Tiefziehen / Spritzgießen",
+        "Holz sägen",
+        "Gewindeschneiden",
+        "Löten"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter einer Parallelschaltung von Verbrauchern (z.B. Lampen)?",
+      "answers": [
+        "Alle Lampen hängen nacheinander an einem einzigen Kabel",
+        "Jede Lampe hat einen eigenen Stromweg; fällt eine aus, leuchten die anderen weiter",
+        "Es fließt gar kein Strom",
+        "Die Lampen wechseln sich ab"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Unfallverhütungsvorschrift gilt beim Bohren an der Ständerbohrmaschine unbedingt?",
+      "answers": [
+        "Schutzbrille tragen, keine Handschuhe tragen, Haare zusammenbinden und Werkstück festspannen",
+        "Das Werkstück mit der Hand festhalten",
+        "Die Maschine mit offenem Riemenschutz betreiben",
+        "Ohne Licht arbeiten"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist die Einheit der elektrischen Leistung?",
+      "answers": [
+        "Volt (V)",
+        "Ampere (A)",
+        "Watt (W)",
+        "Ohm (Ω)"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Werkstoffe gehören zu den Metallen?",
+      "answers": [
+        "Glas und Porzellan",
+        "Kupfer, Aluminium und Stahl",
+        "Eiche und Buche",
+        "PVC und Plexiglas"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bewirkt ein Flaschenzug in der Mechanik?",
+      "answers": [
+        "Er verringert die aufzuwendende Kraft zum Heben schwerer Lasten (nach dem Gesetz der Physik)",
+        "Er macht Lasten schwerer",
+        "Er erzeugt Strom aus Muskelkraft",
+        "Er beschleunigt Gegenstände"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Eigenschaft haben Duroplaste (Kunststoffe)?",
+      "answers": [
+        "Sie lassen sich bei Hitze beliebig oft verformen",
+        "Sie schmelzen sofort bei Raumtemperatur",
+        "Sie sind flüssig",
+        "Sie zersetzen sich bei starker Erhitzung, ohne vorher zu schmelzen (sind also nicht formschmelzbar)"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

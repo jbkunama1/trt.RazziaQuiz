@@ -1,0 +1,228 @@
+{
+  "subject": "7 – Allgemein",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Welches ist der längste Fluss Europas?",
+      "answers": [
+        "Donau",
+        "Rhein",
+        "Wolga",
+        "Themse"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie heißt die Hauptstadt von Großbritannien?",
+      "answers": [
+        "Dublin",
+        "London",
+        "Edinburgh",
+        "Paris"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wer war der erste römische Kaiser?",
+      "answers": [
+        "Julius Cäsar",
+        "Nero",
+        "Caligula",
+        "Augustus"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1579294576307-e5df485a3c94?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist das größte Organ des menschlichen Körpers?",
+      "answers": [
+        "Die Haut",
+        "Das Herz",
+        "Die Leber",
+        "Die Lunge"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie nennt man in der Physik die Kraft, die uns auf dem Boden hält?",
+      "answers": [
+        "Reibungskraft",
+        "Fliehkraft",
+        "Schwerkraft (Gravitation)",
+        "Magnetismus"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "In welchem Aggregatzustand befindet sich Eis?",
+      "answers": [
+        "Flüssig",
+        "Fest",
+        "Gasförmig",
+        "Klebrig"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Welches Gebirge bildet die geografische Grenze zwischen Europa und Asien?",
+      "answers": [
+        "Die Alpen",
+        "Der Himalaya",
+        "Die Anden",
+        "Der Ural"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie nennt man die historische Epoche direkt VOR dem Mittelalter?",
+      "answers": [
+        "Antike",
+        "Neuzeit",
+        "Romantik",
+        "Barock"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Planet unseres Sonnensystems ist als 'der rote Planet' bekannt?",
+      "answers": [
+        "Jupiter",
+        "Venus",
+        "Mars",
+        "Saturn"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Mit welcher Währung bezahlt man in der Schweiz?",
+      "answers": [
+        "Euro",
+        "Schweizer Franken",
+        "Pfund",
+        "Dollar"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Vogel ist für sein schwarz-weißes Gefieder bekannt und soll (angeblich) glänzende Dinge stehlen?",
+      "answers": [
+        "Rabe",
+        "Sperling",
+        "Amsel",
+        "Elster"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1444464666168-49b626d49c97?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie nennt man in der Biologie die Blutgefäße, die das Blut zum Herzen ZURÜCK führen?",
+      "answers": [
+        "Venen",
+        "Arterien",
+        "Nerven",
+        "Kapillaren"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Meer liegt zwischen Südeuropa und Nordafrika?",
+      "answers": [
+        "Ostsee",
+        "Nordsee",
+        "Mittelmeer",
+        "Rotes Meer"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches europäische Land sieht auf der Landkarte aus wie ein Stiefel?",
+      "answers": [
+        "Griechenland",
+        "Italien",
+        "Spanien",
+        "Kroatien"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie viele Bundesländer (Bundesländer) hat das Nachbarland Österreich?",
+      "answers": [
+        "16",
+        "12",
+        "5",
+        "9"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

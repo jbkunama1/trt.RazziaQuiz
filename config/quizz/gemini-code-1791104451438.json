@@ -1,0 +1,228 @@
+{
+  "subject": "7 – Informatik",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Wofür ist der Prozessor (CPU) im Computer zuständig?",
+      "answers": [
+        "Er speichert Bilder dauerhaft",
+        "Er macht den Ton laut",
+        "Er ist das 'Gehirn', rechnet und steuert alle Prozesse",
+        "Er verbindet den PC mit dem Internet"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welcher Speicher verliert alle seine Daten, sobald der Computer ausgeschaltet wird?",
+      "answers": [
+        "Die Festplatte (SSD)",
+        "Der Arbeitsspeicher (RAM)",
+        "Der USB-Stick",
+        "Die SD-Karte"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet das Wort 'Binär' im Zusammenhang mit Computern?",
+      "answers": [
+        "Ein Bildschirm mit zwei Farben",
+        "Das Stromkabel",
+        "Ein System, das nur aus zwei Zeichen (0 und 1) besteht",
+        "Ein Spiel für zwei Spieler"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was macht eine Firewall auf dem Computer?",
+      "answers": [
+        "Sie schützt das Netzwerk vor unerlaubten Zugriffen (Hacker/Viren)",
+        "Sie kühlt den Prozessor",
+        "Sie macht den Bildschirm heller",
+        "Sie speichert E-Mails"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein 'Server'?",
+      "answers": [
+        "Ein Kellner im Restaurant",
+        "Eine besondere Tastatur",
+        "Ein zentraler Computer, der Daten oder Dienste für andere Rechner bereitstellt",
+        "Ein Drucker-Kabel"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wofür nutzt man ein Präsentationsprogramm (z.B. PowerPoint oder Impress)?",
+      "answers": [
+        "Zum Schreiben von Briefen",
+        "Um Vorträge mit digitalen Folien zu unterstützen",
+        "Um Tabellen zu berechnen",
+        "Um Musik zu schneiden"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein 'Ordner' (Verzeichnis) auf dem Computer?",
+      "answers": [
+        "Ein Buch aus Pappe",
+        "Ein Antiviren-Programm",
+        "Die Mülltonne des PCs",
+        "Ein virtueller Ort, um Dateien strukturiert zu sortieren"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1544390503-455b5d1a5563?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt ein Megabyte (MB) am ehesten?",
+      "answers": [
+        "Eine Dateigröße (Speicherplatz), z.B. für ein Handyfoto",
+        "Die Lautstärke des Computers",
+        "Die Schnelligkeit der Maus",
+        "Die Größe des Bildschirms in Zentimetern"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie nennt man ein Programm, das sich ungewollt verbreitet und Schaden anrichtet?",
+      "answers": [
+        "Browser",
+        "Treiber",
+        "Malware (Computervirus)",
+        "App"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist der Unterschied zwischen 'Speichern' und 'Speichern unter'?",
+      "answers": [
+        "Es gibt keinen",
+        "'Speichern unter' legt eine neue Datei bzw. Kopie an",
+        "'Speichern' löscht die alte Datei",
+        "'Speichern' speichert im Internet, 'unter' auf dem PC"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine IP-Adresse?",
+      "answers": [
+        "Die Wohnadresse des Programmierers",
+        "Ein Passwort",
+        "Das Kabel zum Router",
+        "Die eindeutige Nummer eines Geräts im Netzwerk"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1520869562399-e772f042f422?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wofür steht 'www' vor einer Internetadresse?",
+      "answers": [
+        "World Wide Web",
+        "Wo Wer Was",
+        "Wide World Web",
+        "Windows Web World"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Begriff beschreibt das Suchen und Beheben von Fehlern im Programmcode?",
+      "answers": [
+        "Surfen",
+        "Zocken",
+        "Debugging",
+        "Chatten"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was passiert beim Komprimieren (Zippen) von Dateien?",
+      "answers": [
+        "Sie werden gelöscht",
+        "Die Dateigröße wird verringert, um Speicherplatz zu sparen",
+        "Sie werden in ein Video umgewandelt",
+        "Sie werden ausgedruckt"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Aufgabe hat das 'Betriebssystem' (z.B. Windows, iOS)?",
+      "answers": [
+        "Es ist das Basisprogramm, auf dem alle anderen Apps und Programme laufen",
+        "Es ist ein Textprogramm",
+        "Es baut den Computer zusammen",
+        "Es ist ein Internetbrowser"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

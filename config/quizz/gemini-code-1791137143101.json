@@ -1,0 +1,228 @@
+{
+  "subject": "9 – Allgemein",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Welches geschichtliche Ereignis beendete im Jahr 1989 die deutsche Teilung symbolisch?",
+      "answers": [
+        "Die Reichsgründung",
+        "Der Fall der Berliner Mauer",
+        "Die Unterzeichnung des Grundgesetzes",
+        "Die Einführung des Euro"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie lautet die chemische Summenformel für Kochsalz?",
+      "answers": [
+        "H2O",
+        "CO2",
+        "NaCl",
+        "HCl"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Organ im menschlichen Körper ist für die Entgiftung des Blutes (u.a. von Alkohol und Medikamenten) hauptverantwortlich?",
+      "answers": [
+        "Die Leber",
+        "Das Herz",
+        "Die Milz",
+        "Der Magen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie nennt man die Staatsform, in der das Volk durch Wahlen die Regierung und das Parlament bestimmt?",
+      "answers": [
+        "Monarchie",
+        "Diktatur",
+        "Demokratie",
+        "Oligarchie"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher berühmte Physiker entwickelte die Spezielle Relativitätstheorie (Formel E = mc²)?",
+      "answers": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Niels Bohr"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "In welcher Epoche der europäischen Kulturgeschichte entstanden prunkvolle Bauten und Kunstwerke voller Verzierung (ca. 1600–1750, z. B. Schloss Versailles)?",
+      "answers": [
+        "Mittelalter",
+        "Barock",
+        "Romantik",
+        "Klassik"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Welcher Ozean ist der flächenmäßig größte der Erde?",
+      "answers": [
+        "Der Atlantischer Ozean",
+        "Der Indischer Ozean",
+        "Der Pazifische Ozean (Pazifik)",
+        "Der Arktische Ozean"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter dem Begriff 'Inflation' in einer Volkswirtschaft?",
+      "answers": [
+        "Das Sinken der Preise über einen längeren Zeitraum",
+        "Eine Steigerung des allgemeinen Preisniveaus, wodurch der Wert des Geldes sinkt",
+        "Die Zunahme der Arbeitslosigkeit",
+        "Ein Exportüberschuss im Handel"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Gas macht den größten prozentualen Anteil (ca. 78%) an der Erdatmosphäre aus?",
+      "answers": [
+        "Sauerstoff",
+        "Kohlendioxid",
+        "Stickstoff",
+        "Wasserstoff"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wer war der erste Bundeskanzler der Bundesrepublik Deutschland nach dem Zweiten Weltkrieg?",
+      "answers": [
+        "Willy Brandt",
+        "Helmut Kohl",
+        "Konrad Adenauer",
+        "Ludwig Erhard"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche mathematische Konstante (Kreiszahl, ca. 3,14159) gibt das Verhältnis des Umfangs eines Kreises zu seinem Durchmesser an?",
+      "answers": [
+        "Pi ($\pi$)",
+        "Die Eulersche Zahl ($e$)",
+        "Der Goldene Schnitt",
+        "Die Wurzel aus 2"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Land besitzt die längste Landgrenze der Welt?",
+      "answers": [
+        "Russland",
+        "China",
+        "Kanada und USA (gemeinsame Grenze)",
+        "Brasilien"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Organ im menschlichen Körper produziert Insulin, das für die Blutzuckerregulation wichtig ist?",
+      "answers": [
+        "Die Bauchspeicheldrüse (Pankreas)",
+        "Die Schilddrüse",
+        "Die Niere",
+        "Die Galle"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches literarische Werk von William Shakespeare handelt von einem dänischen Prinzen, der den Mord an seinem Vater rächen will?",
+      "answers": [
+        "Romeo und Julia",
+        "Hamlet",
+        "Macbeth",
+        "Ein Sommernachtstraum"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Schicht der Erdatmosphäre liegt der Erdoberfläche am nächsten und ist der Ort, an dem sich das Wetter abspielt?",
+      "answers": [
+        "Die Stratosphäre",
+        "Die Thermosphäre",
+        "Die Troposphäre",
+        "Die Mesosphäre"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

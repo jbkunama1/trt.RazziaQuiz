@@ -1,0 +1,228 @@
+{
+  "subject": "8 – BW Heimatkunde",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Wie heißt die Landeshauptstadt von Baden-Württemberg?",
+      "answers": [
+        "Karlsruhe",
+        "Mannheim",
+        "Freiburg",
+        "Stuttgart"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches große Mittelgebirge im Südwesten von Baden-Württemberg ist für seine Kuckucksuhren bekannt?",
+      "answers": [
+        "Die Schwäbische Alb",
+        "Der Schwarzwald",
+        "Der Odenwald",
+        "Der Taunus"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher große Fluss bildet im Westen und Süden die natürliche Grenze zu Frankreich und der Schweiz?",
+      "answers": [
+        "Der Rhein",
+        "Die Donau",
+        "Der Neckar",
+        "Die Elbe"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was zeigen die drei schwarzen Löwen auf goldenem Grund im Wappen von Baden-Württemberg?",
+      "answers": [
+        "Sie stehen für die Flüsse Rhein, Neckar und Donau",
+        "Sie sind das Wappen des schwäbischen Adelsgeschlechts der Staufer",
+        "Sie zeigen, dass es in BW früher viele Löwen gab",
+        "Sie stehen für die drei größten Städte"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie viele Regierungsbezirke gibt es in Baden-Württemberg?",
+      "answers": [
+        "2",
+        "4 (Stuttgart, Karlsruhe, Freiburg, Tübingen)",
+        "6",
+        "3"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welcher riesige See liegt im Süden von Baden-Württemberg (und grenzt an Österreich und die Schweiz)?",
+      "answers": [
+        "Chiemsee",
+        "Müritz",
+        "Bodensee",
+        "Titisee"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Wer meldete 1886 in Mannheim das Patent für das erste Automobil mit Verbrennungsmotor an?",
+      "answers": [
+        "Robert Bosch",
+        "Carl Benz",
+        "Ferdinand Porsche",
+        "Gottlieb Daimler"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "In welcher baden-württembergischen Stadt befindet sich der höchste Kirchturm der Welt?",
+      "answers": [
+        "Ulm (Ulmer Münster)",
+        "Stuttgart",
+        "Heidelberg",
+        "Freiburg"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche historische Burg (Stammsitz des ehemaligen deutschen Kaiserhauses) liegt am Rand der Schwäbischen Alb?",
+      "answers": [
+        "Burg Frankenstein",
+        "Schloss Neuschwanstein",
+        "Burg Hohenzollern",
+        "Wartburg"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "In welchem Jahr wurde das Land Baden-Württemberg gegründet (durch den Zusammenschluss von Württemberg-Baden, Baden und Württemberg-Hohenzollern)?",
+      "answers": [
+        "1945",
+        "1990",
+        "1871",
+        "1952"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher deutsche Fluss entspringt im Schwarzwald und fließt quer durch Europa bis ins Schwarze Meer?",
+      "answers": [
+        "Donau",
+        "Rhein",
+        "Neckar",
+        "Main"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1502444330042-d1a1ddf9bb5b?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches berühmte Volksfest findet jährlich im Herbst in Stuttgart statt?",
+      "answers": [
+        "Oktoberfest",
+        "Cannstatter Wasen",
+        "Kieler Woche",
+        "Dom"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Stadt in BW ist berühmt für ihr Schloss, die älteste Universität Deutschlands und den Philosophenweg?",
+      "answers": [
+        "Tübingen",
+        "Heidelberg",
+        "Mannheim",
+        "Karlsruhe"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "In welcher baden-württembergischen Stadt befindet sich das Bundesverfassungsgericht (das höchste Gericht Deutschlands)?",
+      "answers": [
+        "Baden-Baden",
+        "Stuttgart",
+        "Heilbronn",
+        "Karlsruhe"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches der folgenden Nachbarbundesländer grenzt NICHT an Baden-Württemberg?",
+      "answers": [
+        "Hessen",
+        "Rheinland-Pfalz",
+        "Thüringen",
+        "Bayern"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

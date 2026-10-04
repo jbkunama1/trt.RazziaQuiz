@@ -1,0 +1,228 @@
+{
+  "subject": "10 – Nachhaltigkeit",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was versteht man unter dem Begriff 'Geoengineering' als umstrittenem Ansatz im Klimaschutz?",
+      "answers": [
+        "Das Bauen von besonders energieeffizienten Häusern aus Holz",
+        "Künstliche, großtechnische Eingriffe in das Klimasystem der Erde (z.B. Sonneneinstrahlung reflektieren), um die Erderwärmung zu bremsen",
+        "Die genaue Vermessung von geschützten Regenwaldgebieten per Satellit",
+        "Das Verbot von Verbrennungsmotoren in Großstädten"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Ziele verfolgt die Europäische Union mit dem 'Green Deal'?",
+      "answers": [
+        "Die Senkung der Mehrwertsteuer auf alle Elektrogeräte",
+        "Den Kontinent Europa bis 2050 als ersten klimaneutralen Raum weltweit zu gestalten",
+        "Den Verbot jeglicher industrieller Produktion in der EU",
+        "Die Subventionierung von Öl- und Kohlekraftwerken"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist das Hauptproblem bei der Deponierung von herkömmlichem Plastikmüll?",
+      "answers": [
+        "Es brennt spontan bei starker Hitze",
+        "Es nimmt zu viel Platz ein und zersetzt sich in der Natur über Hunderte von Jahren (wobei es zu Mikroplastik zerfällt)",
+        "Es ist extrem giftig für das Grundwasser in geschlossenen Räumen",
+        "Es zieht gefährliche Insekten an"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Rolle spielen sogenannte 'Kippelemente' im Klimasystem der Erde?",
+      "answers": [
+        "Sie zeigen an, wann ein Sturm aufzieht",
+        "Es sind Schwellenwerte, bei deren Überschreiten sich ein Teilsystem der Erde (wie der Golfstrom) unumkehrbar und abrupt verändert",
+        "Sie messen den aktuellen CO2-Gehalt in der Atmosphäre",
+        "Sie sorgen für eine schnelle Abkühlung der Polkappen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter dem Begriff 'Circular Economy' (Kreislaufwirtschaft)?",
+      "answers": [
+        "Ein Wirtschaftssystem, das darauf abzielt, Abfall und Ressourcenverbrauch durch langlebiges Design, Wiederverwendung und Recycling zu minimieren",
+        "Ein System, bei dem Produkte nach einmaliger Nutzung verbrannt werden",
+        "Die Verlagerung aller Fabriken in kreisförmige Industrieparks",
+        "Den Verzicht auf jeglichen Warentransport im Kreis"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Sektoren verursachen weltweit den größten Ausstoß von Treibhausgasen?",
+      "answers": [
+        "Die Raumfahrt und der Schiffsverkehr",
+        "Energiewirtschaft (Strom/Wärme), Industrie, Verkehr sowie Landwirtschaft und Gebäude",
+        "Private Haushalte (nur Kochen und Beleuchtung)",
+        "Sport und Freizeitaktivitäten"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Was besagt das Konzept der 'Generationengerechtigkeit' im Kontext von Nachhaltigkeit?",
+      "answers": [
+        "Dass ältere Menschen mehr Rechte haben als jüngere",
+        "Dass heutige Generationen ihre Bedürfnisse befriedigen müssen, ohne die Lebensgrundlagen zukünftiger Generationen zu gefährden",
+        "Dass alle Generationen exakt dieselbe Rente erhalten",
+        "Dass Jugendliche über die Politik entscheiden dürfen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welchen Vorteil bietet die Erzeugung von grünem Wasserstoff gegenüber grauem Wasserstoff?",
+      "answers": [
+        "Er wird mithilfe von erneuerbaren Energien (Elektrolyse von Wasser) hergestellt und ist komplett CO2-neutral",
+        "Er ist wesentlich billiger in der Massenproduktion",
+        "Er lässt sich ohne Druck in normalen Plastikflaschen lagern",
+        "Er explodiert im Gegensatz zu grauem Wasserstoff überhaupt nicht"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist der Zweck des europäischen Emissionshandels (ETS)?",
+      "answers": [
+        "Firmen Zertifikate für den Ausstoß von CO2 zu verkaufen, wobei die Gesamtmenge jedes Jahr sinkt, um Anreize zur Einsparung zu schaffen",
+        "Den weltweiten Import von Erdöl komplett zu verbieten",
+        "Staaten zu bestrafen, die keine Solaranlagen bauen",
+        "Den Preis für Benzin an Tankstellen künstlich niedrig zu halten"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet 'Suffizienz' als Handlungsstrategie für eine nachhaltige Lebensweise?",
+      "answers": [
+        "Immer mehr technische Geräte zu besitzen",
+        "Das Streben nach Genügsamkeit und einem geringeren materiellen Verbrauch zur Schonung der Ressourcen",
+        "Die Maximierung des eigenen Einkommens",
+        "Das vollständige Auswandern in die Wildnis"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum gilt die Vernichtung von Primärwäldern (Urwäldern) als doppelt schädlich für das Klima?",
+      "answers": [
+        "Weil es danach in diesen Regionen zu kalt wird",
+        "Weil dadurch gigantische Mengen an gespeichertem CO2 freigesetzt werden und gleichzeitig wichtige CO2-Speicher für immer verschwinden",
+        "Weil die Holzpreise weltweit drastisch fallen",
+        "Weil sich dadurch die Erdrotation verlangsamt"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche ökologische Auswirkung hat die Überfischung der Ozeane?",
+      "answers": [
+        "Das Wasser in den Meeren wird versalzen",
+        "Das marine Nahrungsnetz bricht zusammen, und ganze Arten sowie Korallenriffe sterben aus",
+        "Die Gezeiten (Ebbe und Flut) hören auf",
+        "Es gibt zu viele Algen im Wasser"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist das Prinzip von 'Corporate Social Responsibility' (CSR) bei Unternehmen?",
+      "answers": [
+        "Die freiwillige Übernahme gesellschaftlicher und ökologischer Verantwortung über gesetzliche Vorgaben hinaus",
+        "Die Pflicht, alle Gewinne an die Mitarbeiter zu verteilen",
+        "Das Vermeiden jeglicher Werbung in sozialen Medien",
+        "Die Senkung der Unternehmenssteuern"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Problem ist mit dem massiven Anbau von Monokulturen (z.B. Palmöl) verbunden?",
+      "answers": [
+        "Die Pflanzen wachsen viel zu schnell",
+        "Verlust der Biodiversität, Bodenerosion und oft Zerstörung wertvoller Regenwälder",
+        "Der Boden wird extrem nährstoffreich für andere Pflanzen",
+        "Es entsteht kein Sauerstoff mehr"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Bedeutung haben die 17 Nachhaltigkeitsziele (SDGs) der Vereinten Nationen (UN)?",
+      "answers": [
+        "Es sind unverbindliche Vorschläge für Museen",
+        "Sie bilden einen weltweiten Aktionsplan zur Bekämpfung von Armut, Ungleichheit und Klimaschutz bis 2030",
+        "Sie regeln ausschließlich den internationalen Flugverkehr",
+        "Sie sind Gesetze, die von der NATO kontrolliert werden"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

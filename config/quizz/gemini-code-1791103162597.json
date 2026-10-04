@@ -1,0 +1,228 @@
+{
+  "subject": "6 – Nachhaltigkeit",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was bedeutet Nachhaltigkeit einfach erklärt?",
+      "answers": [
+        "Dinge schnell wegzuwerfen, wenn man sie nicht mehr mag",
+        "Wir nutzen die Natur nur so stark, dass auch unsere Kinder später noch gut auf der Erde leben können",
+        "Dass alles aus Holz bestehen muss",
+        "Dass wir gar keinen Strom mehr verbrauchen dürfen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was passiert beim Recycling?",
+      "answers": [
+        "Der Müll wird in den Wald geworfen",
+        "Müll wird ins Ausland verkauft",
+        "Fahrradfahren (Cycling) im Regen",
+        "Aus altem Müll (z.B. Papier) werden neue Produkte hergestellt"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "In welche Tonne gehört altes, trockenes Papier?",
+      "answers": [
+        "In die Papiertonne (meist blau oder grün)",
+        "In die Restmülltonne",
+        "In den Gelben Sack",
+        "In die Biotonne"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche dieser Energiequellen ist 'erneuerbar' (geht also nicht aus)?",
+      "answers": [
+        "Erdgas",
+        "Kohle",
+        "Windkraft",
+        "Erdöl"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist der Treibhauseffekt?",
+      "answers": [
+        "Wenn man im Garten Tomaten pflanzt",
+        "Gase (wie CO2) halten die Wärme auf der Erde fest, ähnlich wie ein Glasdach im Gewächshaus",
+        "Ein Effekt, der für mehr Regen sorgt",
+        "Das Aussterben von Tieren"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist Mikroplastik?",
+      "answers": [
+        "Eine kleine Plastiktüte",
+        "Plastikspielzeug",
+        "Bakterien aus Plastik",
+        "Winzig kleine Plastikteilchen, die für Meereslebewesen gefährlich sind"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Warum ist es klimafreundlicher, Äpfel aus der eigenen Region statt aus Neuseeland zu kaufen?",
+      "answers": [
+        "Weil die Transportwege viel kürzer sind und weniger Abgase entstehen",
+        "Weil Äpfel aus Neuseeland giftig sind",
+        "Weil sie immer besser schmecken",
+        "Weil man sie nicht waschen muss"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1590779033100-9f60a05a013d?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet Upcycling?",
+      "answers": [
+        "Viel Fahrrad fahren",
+        "Müll auf der Straße sammeln",
+        "Aus scheinbarem Müll etwas Neues, Schönes basteln",
+        "Bäume pflanzen"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie kann man im Alltag ganz einfach Wasser sparen?",
+      "answers": [
+        "Indem man den Kühlschrank offen lässt",
+        "Indem man beim Zähneputzen den Wasserhahn abdreht",
+        "Indem man Wasser in Flaschen kauft",
+        "Indem man sich nie wäscht"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt der Begriff 'Ökologischer Fußabdruck'?",
+      "answers": [
+        "Wie groß die Schuhe von Naturschützern sind",
+        "Die Abdrücke von Tieren im Schlamm",
+        "Ein Logo auf Bio-Verpackungen",
+        "Wie viel Platz und Ressourcen ein Mensch auf der Erde für seinen Lebensstil verbraucht"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wofür steht das Fairtrade-Siegel (z.B. auf Schokolade)?",
+      "answers": [
+        "Dass die Bauern einen fairen Preis für ihre Ernte bekommen und Kinderarbeit verboten ist",
+        "Dass die Schokolade besonders süß ist",
+        "Dass sie in Deutschland angebaut wurde",
+        "Dass man die Schokolade fair mit Freunden teilen muss"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1556740749-887f6717d7e4?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine gute Möglichkeit, um Strom im Zimmer zu sparen?",
+      "answers": [
+        "Fenster dauerhaft auflassen",
+        "Heizung auf höchste Stufe drehen",
+        "Geräte ganz ausschalten statt im Standby-Modus zu lassen",
+        "Eine stärkere Glühbirne kaufen"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was meint man mit 'Food Waste' (Lebensmittelverschwendung)?",
+      "answers": [
+        "Das Kochen von ungesundem Essen",
+        "Das Wegwerfen von gutem, noch essbarem Essen",
+        "Das Waschen von Obst",
+        "Das Einkaufen im Supermarkt"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet es, wenn Obst oder Gemüse 'saisonal' ist?",
+      "answers": [
+        "Es ist in Plastik verpackt",
+        "Es kommt immer aus dem Ausland",
+        "Es ist mit Salz und Pfeffer gewürzt",
+        "Es wächst in der aktuellen Jahreszeit bei uns auf dem Feld"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Transportmittel ist für den Schulweg oft am klimafreundlichsten?",
+      "answers": [
+        "Fahrrad oder zu Fuß",
+        "Ein großes Auto",
+        "Das Elterntaxi",
+        "Ein Helikopter"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

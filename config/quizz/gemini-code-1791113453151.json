@@ -1,0 +1,228 @@
+{
+  "subject": "8 – Berufsorientierung",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was ist das Hauptziel eines Schülerpraktikums?",
+      "answers": [
+        "Möglichst viel Geld zu verdienen",
+        "Einen Einblick in den Berufsalltag zu bekommen und zu prüfen, ob der Beruf zu einem passt",
+        "Sich vor der Schule zu drücken",
+        "Einen festen Arbeitsvertrag zu unterschreiben"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter einer 'dualen Ausbildung'?",
+      "answers": [
+        "Eine Ausbildung, die abwechselnd im Ausbildungsbetrieb und in der Berufsschule stattfindet",
+        "Man macht zwei Ausbildungen gleichzeitig",
+        "Eine Ausbildung, die man komplett von zu Hause aus macht",
+        "Ein Studium an zwei Universitäten"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Unterlagen gehören klassischerweise zu einer vollständigen Bewerbungsmappe?",
+      "answers": [
+        "Nur das letzte Zeugnis",
+        "Ein Foto vom letzten Urlaub",
+        "Anschreiben, Lebenslauf und Kopien der wichtigsten Zeugnisse",
+        "Ein langer Text über die eigenen Hobbys"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was regelt das Jugendarbeitsschutzgesetz (JArbSchG)?",
+      "answers": [
+        "Wie viel Taschengeld Jugendliche bekommen",
+        "Ab wann Jugendliche einen Führerschein machen dürfen",
+        "Es schützt Kinder und Jugendliche vor Arbeit, die zu früh beginnt, zu schwer oder gefährlich ist",
+        "Welche Berufe Jugendliche wählen müssen"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was sind sogenannte 'Soft Skills'?",
+      "answers": [
+        "Persönliche, soziale und methodische Fähigkeiten (z. B. Teamfähigkeit, Pünktlichkeit)",
+        "Sehr weiche Werkzeuge im Handwerk",
+        "Computerprogramme für das Büro",
+        "Gute Noten in Mathematik und Deutsch"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie lange darf ein 14-jähriger Schüler im Praktikum nach dem Jugendarbeitsschutzgesetz maximal am Tag arbeiten?",
+      "answers": [
+        "10 Stunden",
+        "4 Stunden",
+        "8 Stunden",
+        "7 Stunden"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Was ist der Unterschied zwischen Brutto- und Nettogehalt?",
+      "answers": [
+        "Netto ist ohne Steuern, Brutto ist das Gehalt nach dem Abzug",
+        "Bruttogehalt ist das Gehalt vor Abzug von Steuern und Sozialabgaben, Netto ist der Auszahlungsbetrag",
+        "Es gibt keinen Unterschied",
+        "Brutto bekommt man auf das Konto, Netto bekommt man bar auf die Hand"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Einrichtung hilft bei der Berufsberatung und der Vermittlung von Ausbildungsplätzen?",
+      "answers": [
+        "Die Polizei",
+        "Die Agentur für Arbeit",
+        "Das Finanzamt",
+        "Das Bürgerbüro"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie sollte der Lebenslauf (Curriculum Vitae) für eine Bewerbung aufgebaut sein?",
+      "answers": [
+        "Als langer Fließtext, wie ein Aufsatz",
+        "Tabellarisch, übersichtlich und meist antichronologisch (das Neueste zuerst)",
+        "Als bunte Mindmap",
+        "Mündlich als Sprachnachricht"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein 'Assessment-Center'?",
+      "answers": [
+        "Ein großes Einkaufszentrum",
+        "Ein spezielles Auswahlverfahren für Bewerber, bei dem sie verschiedene Aufgaben lösen müssen",
+        "Die Anmeldung in der Berufsschule",
+        "Ein Zentrum für Gesundheitschecks"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Versicherung gehört NICHT zu den gesetzlichen Sozialversicherungen in Deutschland?",
+      "answers": [
+        "Kfz-Haftpflichtversicherung",
+        "Krankenversicherung",
+        "Rentenversicherung",
+        "Arbeitslosenversicherung"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Tarifvertrag?",
+      "answers": [
+        "Ein Vertrag über die Kosten beim Handy",
+        "Ein Vertrag, in dem man sich für eine Ausbildung anmeldet",
+        "Ein Vertrag zwischen Gewerkschaften und Arbeitgebern, der Löhne und Arbeitsbedingungen für eine Branche regelt",
+        "Ein Vertrag über die Miete einer Wohnung"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet es, wenn in einer Stellenanzeige von 'Hard Skills' die Rede ist?",
+      "answers": [
+        "Freundlichkeit und Pünktlichkeit",
+        "Nachweisbare, fachliche Qualifikationen (z.B. Schulabschluss, Fremdsprachen, PC-Kenntnisse)",
+        "Körperliche Stärke",
+        "Die Hobbys des Bewerbers"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wozu dient das Anschreiben in der Bewerbungsmappe?",
+      "answers": [
+        "Um sich vorzustellen und überzeugend zu erklären, warum man die Stelle haben möchte",
+        "Um alle Noten aus der Grundschule aufzuzählen",
+        "Um nach dem Gehalt zu fragen",
+        "Um den Weg zur Firma zu beschreiben"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet 'Probezeit' bei einer Ausbildung?",
+      "answers": [
+        "In dieser Zeit bekommt man kein Geld",
+        "Eine Phase (meist 1-4 Monate) am Anfang, in der beide Seiten den Vertrag ohne Frist kündigen können, falls es nicht passt",
+        "Man muss jeden Tag eine Prüfung schreiben",
+        "Man darf in dieser Zeit nicht in die Berufsschule"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

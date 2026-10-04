@@ -1,0 +1,228 @@
+{
+  "subject": "6 – Allgemein",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was ist die Landeshauptstadt von Baden-Württemberg?",
+      "answers": [
+        "München",
+        "Karlsruhe",
+        "Stuttgart",
+        "Freiburg"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie viele Kontinente gibt es auf der Erde?",
+      "answers": [
+        "7",
+        "5",
+        "8",
+        "6"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Farbe entsteht, wenn man Blau und Gelb mischt?",
+      "answers": [
+        "Lila",
+        "Grün",
+        "Orange",
+        "Braun"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie lautet die europaweite Notrufnummer für die Feuerwehr?",
+      "answers": [
+        "110",
+        "116",
+        "19222",
+        "112"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Planet unseres Sonnensystems ist der Sonne am nächsten?",
+      "answers": [
+        "Venus",
+        "Merkur",
+        "Erde",
+        "Mars"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welcher dieser Bäume hat Nadeln statt Blätter?",
+      "answers": [
+        "Eiche",
+        "Buche",
+        "Tanne",
+        "Ahorn"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Welches berühmte Märchen stammt von den Gebrüdern Grimm?",
+      "answers": [
+        "Hänsel und Gretel",
+        "Harry Potter",
+        "Die kleine Meerjungfrau",
+        "Peter Pan"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Bei wie viel Grad Celsius kocht Wasser normalerweise?",
+      "answers": [
+        "50°C",
+        "80°C",
+        "120°C",
+        "100°C"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Land ist ein Nachbarland von Deutschland?",
+      "answers": [
+        "Spanien",
+        "Frankreich",
+        "Italien",
+        "Schweden"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches dieser Instrumente gehört zu den Streichinstrumenten?",
+      "answers": [
+        "Trompete",
+        "Klavier",
+        "Geige",
+        "Schlagzeug"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Fluss ist der längste in Deutschland?",
+      "answers": [
+        "Rhein",
+        "Donau",
+        "Elbe",
+        "Main"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1469521669194-babbdf900920?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet es, wenn eine Tierart als 'ausgestorben' gilt?",
+      "answers": [
+        "Sie schläft im Winter",
+        "Es gibt sie auf der ganzen Welt nicht mehr",
+        "Sie lebt nur noch im Zoo",
+        "Sie hat ihre Farbe gewechselt"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Jahreszeit haben wir in Deutschland im Dezember?",
+      "answers": [
+        "Frühling",
+        "Sommer",
+        "Herbst",
+        "Winter"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie nennt man die Gewinnung von Strom aus Sonnenlicht?",
+      "answers": [
+        "Wasserkraft",
+        "Windenergie",
+        "Photovoltaik",
+        "Geothermie"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie viele Zähne hat das vollständige Gebiss eines Erwachsenen (inkl. Weisheitszähne)?",
+      "answers": [
+        "32",
+        "28",
+        "24",
+        "36"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

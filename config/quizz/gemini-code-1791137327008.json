@@ -1,0 +1,228 @@
+{
+  "subject": "9 – Nachhaltigkeit",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was versteht man unter dem Drei-Säulen-Modell der Nachhaltigkeit?",
+      "answers": [
+        "Ökonomie (Wirtschaft), Ökologie (Umwelt) und Soziales (Gesellschaft)",
+        "Strom, Wasser und Gas",
+        "Vergangenheit, Gegenwart und Zukunft",
+        "Regierung, Wirtschaft und Schulen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches der folgenden Abkommen ist das wichtigste internationale Klimaschutzabkommen zur Begrenzung der Erderwärmung?",
+      "answers": [
+        "Das Kyoto-Protokoll",
+        "Das Pariser Klimaabkommen",
+        "Die Genfer Konvention",
+        "Der Vertrag von Maastricht"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist der 'Earth Overshoot Day' (Erd-Überlastungstag)?",
+      "answers": [
+        "Der Tag, an dem die Sommerzeit endet",
+        "Der Tag im Jahr, an dem die Menschheit alle Ressourcen verbraucht hat, die die Erde in diesem Jahr regenerieren kann",
+        "Ein Feiertag zum Schutz der Wälder",
+        "Der Tag, an dem die meisten Unwetter stattfinden"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt der Begriff 'Rebound-Effekt' im Kontext von Umweltschutz?",
+      "answers": [
+        "Das Recycling von Sportbällen",
+        "Wenn Energiesparmaßnahmen (z. B. sparsamere Autos) durch ein Mehr an Nutzung am Ende zu keinem oder geringerem Gesamtspareffekt führen",
+        "Das plötzliche Umschlagen des Wetters",
+        "Eine Methode zur Mülltrennung"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Treibhausgas besitzt ein Vielfaches an klimaschädlicher Wirkung von CO2 und wird u.a. in der Massentierhaltung freigesetzt?",
+      "answers": [
+        "Helium",
+        "Methan (CH4)",
+        "Sauerstoff",
+        "Stickstoff"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein wesentliches Merkmal der 'Degrowth'-Bewegung (Postwachstumsökonomie)?",
+      "answers": [
+        "Die Forderung, dass Wirtschaftswachstum nicht das oberste Ziel sein darf, da unendliches Wachstum auf einer endlichen Erde unmöglich ist",
+        "Dass Fabriken komplett abgeschaltet werden",
+        "Dass die Bevölkerung weltweit schrumpfen soll",
+        "Ein Verbot von elektronischen Geräten"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Welches Problem ist typisch für die Herstellung von Elektronik (z.B. Smartphones) in Bezug auf Nachhaltigkeit?",
+      "answers": [
+        "Die Geräte verbrauchen zu viel Wasser beim Telefonieren",
+        "Der Abbau seltener Erden und Metalle erfolgt oft unter menschenunwürdigen Bedingungen und massiver Umweltzerstörung",
+        "Smartphones dürfen nach einem Jahr nicht mehr genutzt werden",
+        "Es gibt zu wenig Plastik auf der Welt"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet 'geplante Obsoleszenz'?",
+      "answers": [
+        "Das umweltfreundliche Entsorgen von Altgeräten",
+        "Das absichtliche Design von Produkten, damit sie nach einer bestimmten Zeit oder Nutzung kaputtgehen oder veraltet sind",
+        "Eine Garantie für 10 Jahre",
+        "Das recyceln von alten Autos"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Siegel steht für besonders strenge Richtlinien im ökologischen Landbau in Deutschland?",
+      "answers": [
+        "Das EU-Bio-Siegel sowie noch strengere Verbandslogos wie Demeter oder Bioland",
+        "Das TÜV-Siegel",
+        "Das CE-Zeichen",
+        "Der blaue Engel"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welchen Vorteil hat die Nutzung von grünem Wasserstoff (H2) für die Energiewende?",
+      "answers": [
+        "Er lässt sich billiger herstellen als Benzin",
+        "Er wird mit erneuerbaren Energien durch Wasserelektrolyse erzeugt und verbrennt CO2-frei zu Wasser",
+        "Er ist absolut ungefährlich und brennt nicht",
+        "Er ersetzt das Trinkwasser in Städten"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter 'Greenwashing'?",
+      "answers": [
+        "Das Streichen von Häusern in umweltfreundlicher Farbe",
+        "Eine Marketing-Täuschung, bei der Unternehmen sich ein grünes, umweltfreundliches Image geben, ohne dass dies der Realität entspricht",
+        "Das Reinigen verschmutzter Solaranlagen",
+        "Eine Steuer für den CO2-Ausstoß"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welcher Sektor verursacht in Deutschland traditionell den größten Anteil am Treibhausgasausstoß?",
+      "answers": [
+        "Die Landwirtschaft",
+        "Die Energiewirtschaft (Strom- und Wärmeerzeugung) sowie der Verkehr",
+        "Der Tourismus",
+        "Private Haushalte (nur Kochen)"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist der Sinn von CO2-Zertifikaten im europäischen Emissionshandel?",
+      "answers": [
+        "Jeder Bürger bekommt eine Urkunde für den CO2-Verbrauch",
+        "Unternehmen müssen für den Ausstoß von CO2 bezahlen; die Gesamtmenge an erlaubten Zertifikaten wird schrittweise gesenkt",
+        "Sie erlauben Fabriken unbegrenzt CO2 auszustoßen",
+        "Sie dienen als Gutschein für Solaranlagen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Warum ist die Zerstörung von Mangrovenwäldern oder Korallenriffen besonders fatal für das globale Ökosystem?",
+      "answers": [
+        "Weil dadurch weniger Touristen anreisen",
+        "Sie dienen als hocheffektive CO2-Senken, Küstenschutz und unersetzliche Kinderstuben für Meereslebewesen",
+        "Sie geben giftige Dämpfe ab",
+        "Sie blockieren den Schiffsverkehr"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet der Begriff 'Suffizienz' als Strategie für Nachhaltigkeit?",
+      "answers": [
+        "Das Erfinden immer neuer technischer Hilfsmittel",
+        "Die Verbrauchssteigerung zur Ankurbelung der Wirtschaft",
+        "Ein genügsamer Lebensstil mit einem geringeren Verbrauch von Ressourcen und Energie durch bewussten Verzicht",
+        "Die absolute Einsparung von Steuern"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

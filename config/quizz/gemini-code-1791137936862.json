@@ -1,0 +1,228 @@
+{
+  "subject": "10 – WBS",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Welches wirtschaftspolitische Ziel gehört zum klassischen 'magischen Viereck' in Deutschland?",
+      "answers": [
+        "Vollbeschäftigung (hoher Beschäftigungsstand)",
+        "Maximale Steuereinnahmen für den Bund",
+        "Verbot von ausländischen Importen",
+        "Kostenloses Wohnen für alle Bürger"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter einer 'Rezession' im Konjunkturzyklus?",
+      "answers": [
+        "Eine Phase des extremen wirtschaftlichen Wachstums (Boom)",
+        "Einen wirtschaftlichen Abschwung mit sinkender Wirtschaftsleistung über mindestens zwei Quartale",
+        "Die Phase maximaler Vollbeschäftigung",
+        "Eine staatliche Preisbindung für Lebensmittel"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wer entscheidet über die Höhe des Leitzinses im Euroraum?",
+      "answers": [
+        "Die Deutsche Bundesregierung",
+        "Die Europäische Zentralbank (EZB)",
+        "Die Frankfurter Wertpapierbörse",
+        "Der Internationale Währungsfonds (IWF)"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist der Hauptunterschied zwischen einer GmbH (Gesellschaft mit beschränkter Haftung) und einem Einzelunternehmen bezüglich der Haftung?",
+      "answers": [
+        "Bei der GmbH haftet man unbeschränkt mit dem Privatvermögen",
+        "Bei der GmbH ist die Haftung grundsätzlich auf das Gesellschaftsvermögen beschränkt, während der Einzelunternehmer meist mit seinem Privatvermögen haftet",
+        "Es gibt keinen Unterschied",
+        "Einzelunternehmer haften niemals für Schulden"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Aufgabe hat das Bundeskartellamt in Deutschland?",
+      "answers": [
+        "Es kontrolliert den Export von Waffen",
+        "Es schützt den Wettbewerb, bekämpft Monopole und verbietet illegale Preisabsprachen",
+        "Es legt die Höhe der Einkommensteuer fest",
+        "Es verwaltet die staatlichen Schulen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet es, wenn ein Staat eine hohe Staatsverschuldung hat?",
+      "answers": [
+        "Dass die Bürger keine Steuern mehr zahlen müssen",
+        "Dass der Staat im Laufe der Zeit mehr Kredite aufgenommen hat, als er zurückgezahlt hat",
+        "Dass die Wirtschaft des Landes extrem stark wächst",
+        "Dass es im Land keine Banken gibt"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Welche Funktion erfüllt die Sozialversicherung in Deutschland?",
+      "answers": [
+        "Sie dient der privaten Vermögensbildung an der Börse",
+        "Sie schützt Arbeitnehmer solidarisch vor Lebensrisiken wie Krankheit, Arbeitslosigkeit, Alter, Pflegebedürftigkeit und Arbeitsunfällen",
+        "Sie bezahlt den Urlaub von Politikern",
+        "Sie finanziert den Straßenbau"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein 'Börsengang' (IPO - Initial Public Offering)?",
+      "answers": [
+        "Die Schließung einer Bank",
+        "Der erstmalige Verkauf von Aktien einer Gesellschaft an der Börse, um Kapital von Anlegern einzusammeln",
+        "Der Kauf von Immobilien durch den Staat",
+        "Die Pleite eines großen Unternehmens"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Kennzahl wird herangezogen, um die Preissteigerung (Teuerung) für private Haushalte in Deutschland zu bestimmen?",
+      "answers": [
+        "Der DAX",
+        "Das Bruttoinlandsprodukt",
+        "Der Verbraucherpreisindex",
+        "Die Arbeitslosenquote"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter 'Globalisierung' im ökonomischen Sinne?",
+      "answers": [
+        "Die weltweite Verflechtung von Märkten, Produktion, Arbeitsteilung und Kapitalströmen",
+        "Die Einführung einer weltweiten Einheitswährung",
+        "Die Abschaffung von Zollgebühren weltweit",
+        "Die Verstaatlichung aller globalen Konzerne"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Auswirkung hat eine expansive Geldpolitik (niedrige Zinsen, Gelddrucken durch Zentralbanken) meist auf die Wirtschaft?",
+      "answers": [
+        "Kredite werden teurer und die Wirtschaft kühlt ab",
+        "Kredite werden günstiger, Investitionen und Konsum steigen, kann aber auch Inflation anheizen",
+        "Es hat keinerlei Einfluss auf Unternehmen",
+        "Sparer bekommen sehr hohe Zinsen auf ihr Geld"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist das Prinzip des freien Welthandels nach der Welthandelsorganisation (WTO)?",
+      "answers": [
+        "Der Abbau von Handelshemmnissen wie Zöllen und Importquoten, um den globalen Warenaustausch zu erleichtern",
+        "Die Erhebung von Strafzöllen auf alle Importe",
+        "Dass nur noch Entwicklungsländer Waren exportieren dürfen",
+        "Die weltweite Preisbindung für Rohstoffe"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein 'Business Angel' in der Wirtschaft?",
+      "answers": [
+        "Ein Versicherungsagent für Unternehmen",
+        "Ein erfahrener Investor, der junge Start-up-Unternehmen in der Gründungsphase mit Kapital und Know-how unterstützt",
+        "Ein staatlicher Prüfer für Steuern",
+        "Ein Bankangestellter für Kredite"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Maßnahme kann der Staat ergreifen, um in einer Wirtschaftskrise die Nachfrage anzukurbeln (Fiskalpolitik)?",
+      "answers": [
+        "Steuern erhöhen und staatliche Ausgaben stark kürzen",
+        "Staatliche Investitionen erhöhen (z.B. in Infrastruktur) und Steuern senken, um den Konsum zu stärken",
+        "Alle Banken schließen",
+        "Die Arbeitszeit gesetzlich verdoppeln"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was besagt das Konzept der 'sozialen Verantwortung von Unternehmen' (Corporate Social Responsibility - CSR)?",
+      "answers": [
+        "Dass Unternehmen ausschließlich auf ihren maximalen Gewinn schauen müssen",
+        "Dass Unternehmen freiwillig soziale und ökologische Verantwortung über die gesetzlichen Vorgaben hinaus in ihrem Geschäftsbetrieb übernehmen",
+        "Dass der Staat alle Unternehmen leitet",
+        "Dass Angestellte keine Steuern zahlen müssen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

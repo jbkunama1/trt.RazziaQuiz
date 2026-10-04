@@ -1,0 +1,228 @@
+{
+  "subject": "10 – Sport",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Welche Energiebereitstellung ist bei einer extrem kurzen, explosiven Belastung wie dem 100-Meter-Sprint primär aktiv?",
+      "answers": [
+        "Die aerobe Glykolyse mit Sauerstoff",
+        "Die anaerob-alaktazide Energiegewinnung über ATP und Kreatinphosphat",
+        "Die reine Fettverbrennung",
+        "Der Abbau von Aminosäuren"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt das Prinzip der 'Superkompensation' im sportlichen Trainingsprozess?",
+      "answers": [
+        "Die Erschöpfung direkt nach dem Training",
+        "Die vorübergehende Überlastung des Herzmuskels",
+        "Nach einer Belastung und ausreichender Erholung passt sich der Körper an und steigert das Leistungsniveau über den Ausgangswert hinaus",
+        "Den Zustand völliger Muskelentspannung"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche motorischen Hauptbeanspruchungsformen unterscheidet man in der Sportwissenschaft im Wesentlichen?",
+      "answers": [
+        "Kraft, Ausdauer, Schnelligkeit, Beweglichkeit und Koordination",
+        "Nur Kraft und Schnelligkeit",
+        "Größe, Gewicht und Alter",
+        "Geschicklichkeit und Taktik"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter einer 'konzentrischen' Muskelarbeit?",
+      "answers": [
+        "Der Muskel spannt sich an, ohne seine Länge zu verändern (statisch)",
+        "Der Muskel zieht sich zusammen (verkürzt sich) gegen einen Widerstand",
+        "Der Muskel wird unter Belastung gedehnt (nachgebend)",
+        "Der Muskel erschlafft komplett"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches System misst die Herz-Kreislauf-Aktivität und zeigt die Anzahl der Herzschläge pro Minute an?",
+      "answers": [
+        "Der Blutdruck",
+        "Die Atemfrequenz",
+        "Die Herzfrequenz (Puls)",
+        "Die Sauerstoffsättigung"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Sportart beinhaltet die Teildisziplinen Schwimmen, Radfahren und Laufen in genau dieser Reihenfolge?",
+      "answers": [
+        "Zehnkampf",
+        "Biathlon",
+        "Triathlon",
+        "Moderner Fünfkampf"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Was ist die korrekte Vorgehensweise bei der Behandlung akuter Sportverletzungen nach der PECH-Regel?",
+      "answers": [
+        "Pause, Eis kühlen, Compression (Druckverband), Hochlagern",
+        "Tabletten einnehmen, weiter trainieren, Dehnen, Hitze",
+        "Massage, Ausruhen, Duschen, Essen",
+        "Sofort die betroffene Stelle dehnen und belasten"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1576678927484-cc907957088c?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie wird im Volleyball ein verbotener Angriffsschlag eines Hinterspieler-Spielers genannt, der hinter der Angriffsmarkierung abspringt?",
+      "answers": [
+        "Ein Netzfehler",
+        "Ein Hinteragriff (vollendet vor der Linie)",
+        "Ein Aufstellungsfehler",
+        "Ein Rotationsfehler"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche koordinative Fähigkeit ist besonders wichtig, wenn man einen anfliegenden Ball in der Luft präzise mit dem Fuß annehmen muss?",
+      "answers": [
+        "Reaktionsfähigkeit und Auge-Hand/Auge-Fuß-Koordination",
+        "Maximalkraft",
+        "Ausdauer",
+        "Basale Körpergröße"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was besagt das Prinzip der 'Vielseitigkeit' im sportlichen Schultraining?",
+      "answers": [
+        "Dass man immer nur eine einzige Sportart betreiben soll",
+        "Dass eine breite sportliche Grundausbildung in verschiedenen Bereichen Verletzungen vorbeugt und die motorische Entwicklung fördert",
+        "Dass man im Sportunterricht keine Regeln einhalten muss",
+        "Dass Sportnoten gewürfelt werden"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Muskelkontraktion bremst eine Bewegung ab (z. B. beim Kontrollierten Hinablassen einer Hantel)?",
+      "answers": [
+        "Konzentrisch (überwindend)",
+        "Exzentrisch (nachgebend)",
+        "Isometrisch (statisch)",
+        "Dynamisch-explosiv"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist die offizielle Spielzeit eines regulären Handballspiels im Erwachsenenbereich?",
+      "answers": [
+        "2 x 30 Minuten",
+        "2 x 45 Minuten",
+        "4 x 10 Minuten",
+        "60 Minuten durchgehend"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher physische Test misst im Rahmen des Sportunterrichts (oft beim Bundesjugendspiel) die explosive Schnellkraft der Beine?",
+      "answers": [
+        "Der Cooper-Test",
+        "Der Standweitsprung",
+        "Das Liegestütz-Halten",
+        "Der 3000-Meter-Lauf"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Auswirkungen hat ein dauerhaftes Ausdauertraining auf das menschliche Herz?",
+      "answers": [
+        "Das Herz verkleinert sich und schlägt schneller",
+        "Das Sportherz vergrößert sich (Hypertrophie), schlägt in Ruhe langsamer und pumpt mehr Blut pro Schlag",
+        "Das Herz nimmt keinerlei Schaden oder Nutzen",
+        "Es führt zu dauerhaft hohem Blutdruck"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter 'Doping' im Sinne des Weltdopingcodes (WADA)?",
+      "answers": [
+        "Das Einhalten einer strengen Diät vor dem Wettkampf",
+        "Das Aufwärmen vor dem Start",
+        "Das Vorliegen eines oder mehrerer Verstöße gegen Anti-Doping-Bestimmungen, wie die Verwendung verbotener Substanzen oder Methoden",
+        "Die Nutzung von isotonischen Getränken"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

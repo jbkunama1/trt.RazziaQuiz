@@ -1,0 +1,228 @@
+{
+  "subject": "6 – Medienbildung",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was versteht man unter 'Cybermobbing'?",
+      "answers": [
+        "Wenn das Internet zu langsam ist",
+        "Ein Spiel auf dem Handy",
+        "Das absichtliche Beleidigen oder Bloßstellen von Personen im Internet",
+        "Wenn ein Computer überhitzt"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wofür ist die USK (Unterhaltungssoftware Selbstkontrolle) zuständig?",
+      "answers": [
+        "Sie prüft Spiele und vergibt Altersfreigaben (z.B. ab 6, 12 Jahren)",
+        "Sie repariert Handys",
+        "Sie löscht Viren vom PC",
+        "Sie kontrolliert, ob man Hausaufgaben gemacht hat"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie sollte man mit Kettenbriefen auf WhatsApp umgehen?",
+      "answers": [
+        "An alle Kontakte weiterleiten",
+        "Ignorieren, löschen und nicht unter Druck setzen lassen",
+        "Den Anweisungen im Brief genau folgen",
+        "Die Polizei rufen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was sind In-App-Käufe?",
+      "answers": [
+        "Kostenlose Updates für Apps",
+        "Das Herunterladen einer neuen App",
+        "Eine Fehlermeldung",
+        "Zusätzliche kostenpflichtige Käufe innerhalb einer scheinbar kostenlosen App"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was sind Fake News?",
+      "answers": [
+        "Lange Zeitungsartikel",
+        "Die Abendnachrichten im Fernsehen",
+        "Absichtlich erfundene oder gefälschte Nachrichten",
+        "Filme im Kino"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet 'Recht am eigenen Bild'?",
+      "answers": [
+        "Niemand darf Fotos von mir ohne meine Erlaubnis veröffentlichen",
+        "Ich darf jedes Bild im Internet speichern",
+        "Ich muss jeden Tag ein Selfie machen",
+        "Bilder gehören immer Google"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Wer oder was ist ein Influencer?",
+      "answers": [
+        "Ein neues Handy-Modell",
+        "Jemand mit vielen Followern im Netz, der oft Trends oder Meinungen beeinflusst",
+        "Jemand, der das Internet repariert",
+        "Ein Virus"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Warum ist Datenschutz im Internet wichtig?",
+      "answers": [
+        "Damit das Internet schneller ist",
+        "Damit Handys nicht kaputt gehen",
+        "Weil es verboten ist, ins Internet zu gehen",
+        "Damit Fremde meine persönlichen Daten (Adresse, Passwörter) nicht missbrauchen können"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was schützt das Urheberrecht?",
+      "answers": [
+        "Es schützt vor Cybermobbing",
+        "Es schützt das Smartphone vor Diebstahl",
+        "Es schützt Erfinder und Künstler davor, dass ihre Werke (Bilder, Musik) ungefragt kopiert werden",
+        "Es erlaubt das kostenlose Herunterladen von Spielen"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie sollte dein Social-Media-Profil (z.B. bei Instagram oder TikTok) am besten eingestellt sein?",
+      "answers": [
+        "Auf 'Privat' – nur Leute, die ich kenne und bestätige, sehen meine Inhalte",
+        "Auf 'Öffentlich' – jeder soll alles sehen",
+        "Komplett ohne Passwort",
+        "Mit meiner genauen Wohnadresse im Profil"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum gibt man bei Schul-Referaten Quellen an?",
+      "answers": [
+        "Damit der Text bunter wird",
+        "Um ehrlich zu zeigen, woher man die Informationen oder Bilder hat",
+        "Damit das Referat länger dauert",
+        "Weil man Bilder nicht ausdrucken darf"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Darfst du dein Passwort an deine besten Freunde weitergeben?",
+      "answers": [
+        "Ja, gute Freunde dürfen alles wissen",
+        "Ja, aber nur für Spiele",
+        "Nur wenn sie mir ihres geben",
+        "Nein, Passwörter sind immer geheim und nur für dich selbst (und deine Eltern)"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet 'Streaming'?",
+      "answers": [
+        "Das Ausdrucken von Fotos",
+        "Ein Fluss, der aus dem Ufer tritt",
+        "Das direkte Ansehen oder Anhören von Videos/Musik im Internet, ohne sie fest zu speichern",
+        "Ein Virus auf dem Handy"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Warum ist es ungesund, das Smartphone direkt vor dem Einschlafen im Bett zu nutzen?",
+      "answers": [
+        "Das blaue Licht des Bildschirms kann das Gehirn wachhalten und den Schlaf stören",
+        "Das Handy verliert nachts den Empfang",
+        "Man bekommt davon Kopfschmerzen",
+        "Weil es im Dunkeln kaputt gehen kann"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was sind Cookies im Internet?",
+      "answers": [
+        "Eine Sorte Kekse, die man beim Surfen essen sollte",
+        "Kleine Dateien, die Webseiten auf deinem Gerät speichern, um dich 'wiederzuerkennen'",
+        "Ein neues Soziales Netzwerk",
+        "Viren, die den PC sperren"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

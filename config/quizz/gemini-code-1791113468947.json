@@ -1,0 +1,228 @@
+{
+  "subject": "8 – Medienbildung",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was versteht man unter dem 'Recht am eigenen Bild'?",
+      "answers": [
+        "Ich darf jedes Bild im Internet herunterladen",
+        "Bilder von mir dürfen grundsätzlich nur mit meiner Erlaubnis veröffentlicht oder verbreitet werden",
+        "Ich muss jeden Tag ein Foto von mir posten",
+        "Die Kamera gehört demjenigen, der auf dem Bild ist"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine 'Filterblase' (Echo Chamber) in sozialen Netzwerken?",
+      "answers": [
+        "Eine Einstellung, um Fotos schöner zu machen",
+        "Ein technischer Defekt am Bildschirm",
+        "Ein Effekt durch Algorithmen, durch den Nutzer fast nur noch Meinungen sehen, die ihrer eigenen entsprechen",
+        "Ein Chatfilter gegen Schimpfwörter"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist das Hauptmerkmal von 'Fake News'?",
+      "answers": [
+        "Sie werden absichtlich fabriziert und verbreitet, um zu täuschen, Klicks zu generieren oder Stimmung zu machen",
+        "Sie laufen nur nachts im Fernsehen",
+        "Sie sind meistens auf Englisch",
+        "Sie berichten über historische Ereignisse"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was passiert beim 'Phishing'?",
+      "answers": [
+        "Man fängt Viren mit einem Programm ein",
+        "Das Handy fällt ins Wasser",
+        "Betrüger versuchen durch gefälschte Mails oder Websites an vertrauliche Daten (Passwörter, Bankdaten) zu kommen",
+        "Das WLAN bricht ab"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Darf man aktuelle Chart-Musik einfach so als Hintergrundmusik für ein YouTube-Video oder TikTok nutzen, das man öffentlich hochlädt?",
+      "answers": [
+        "Ja, wenn man den Titel nennt",
+        "Nein, außer die Plattform hat eine offizielle Lizenzvereinbarung (Audio-Bibliothek), sonst verletzt es das Urheberrecht",
+        "Ja, solange das Video keine Werbung enthält",
+        "Ja, weil alles im Internet frei ist"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein 'Shitstorm'?",
+      "answers": [
+        "Eine Welle massiver, oft beleidigender Kritik und Empörung gegen Personen oder Unternehmen im Internet",
+        "Ein Unwetter, das Serveranlagen zerstört",
+        "Ein Virus auf dem Handy",
+        "Wenn man das WLAN-Passwort vergisst"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet 'Clickbait' (Klickköder)?",
+      "answers": [
+        "Eine neue Art von Computermouse",
+        "Ein Spiel, bei dem man sehr schnell klicken muss",
+        "Reißerische Überschriften oder Vorschaubilder, die Neugier wecken sollen, auch wenn der Inhalt oft enttäuschend ist",
+        "Das versehentliche Löschen einer Datei"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Gesetz greift in Deutschland, wenn jemand das intellektuelle Eigentum (Texte, Bilder, Songs) eines anderen ungefragt kopiert?",
+      "answers": [
+        "Das Jugendschutzgesetz",
+        "Das Urheberrechtsgesetz",
+        "Das Grundgesetz",
+        "Das Strafgesetzbuch"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie reagiert man am besten auf einen 'Troll' (jemanden, der im Chat nur provozieren und nerven will)?",
+      "answers": [
+        "Blockieren und nicht darauf eingehen ('Don't feed the troll')",
+        "Zweimal so hart zurück beleidigen",
+        "Die eigene Adresse schicken",
+        "Ihm Geld überweisen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt der Begriff 'Cyber-Grooming'?",
+      "answers": [
+        "Das Pflegen des Computers",
+        "Wenn Erwachsene im Internet (oft unter falscher Identität) gezielt Kontakt zu Minderjährigen aufbauen, um sie sexuell auszubeuten",
+        "Das Sortieren von E-Mails",
+        "Ein Schönheitsfilter für Fotos"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was sind Cookies im Internet?",
+      "answers": [
+        "Kleine Textdateien, die Webseiten auf dem Gerät speichern, um Nutzerverhalten zu tracken oder Einstellungen zu merken",
+        "Werbevideos, die nicht wegzuklicken sind",
+        "Viren, die Dateien löschen",
+        "Eine Belohnung bei Spielen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1563986768494-4dee2763ff0f?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wofür nutzt man eine Zwei-Faktor-Authentifizierung (2FA)?",
+      "answers": [
+        "Um sich doppelt so schnell anzumelden",
+        "Als zusätzliche Sicherheitsschicht beim Login (z.B. Passwort + Code per SMS)",
+        "Um zwei Accounts gleichzeitig zu nutzen",
+        "Um das Internet zu beschleunigen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum sind Algorithmen in Social Media (wie der TikTok 'For You'-Feed) oft so designt?",
+      "answers": [
+        "Um den Nutzern möglichst viel Langeweile zu bereiten",
+        "Um die Nutzer möglichst lange in der App zu halten, damit sie mehr Werbung sehen",
+        "Damit die App weniger Akku verbraucht",
+        "Damit Jugendliche besser lernen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist das 'Darknet'?",
+      "answers": [
+        "Ein versteckter Teil des Internets, der nur mit spezieller Software (z. B. Tor-Browser) erreichbar ist und oft Anonymität bietet",
+        "Das Internet, wenn man den Dark-Mode am Handy aktiviert hat",
+        "Eine Webseite nur für Kriminelle",
+        "Das Internet in der Nacht"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet es, wenn ein Dienst eine 'Ende-zu-Ende-Verschlüsselung' (wie WhatsApp) nutzt?",
+      "answers": [
+        "Nur der Sender und der Empfänger können die Nachricht lesen; niemand dazwischen (nicht mal der Betreiber)",
+        "Die Nachricht wird nach dem Senden sofort gelöscht",
+        "Man kann nur am Ende des Tages Nachrichten verschicken",
+        "Die App funktioniert nur mit zwei Geräten"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "subject": "5_Nachhaltigkeit_Trivia",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was bedeutet Nachhaltigkeit?",
+      "answers": [
+        "Dass alles aus Holz bestehen muss",
+        "Dinge möglichst schnell wegwerfen",
+        "Nur so viel verbrauchen, dass auch zukünftige Generationen gut leben können",
+        "Dass Produkte extrem teuer sind"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was passiert beim Recycling?",
+      "answers": [
+        "Müll wird einfach im Wald vergraben",
+        "Aus altem Müll oder Abfallstoffen werden neue Produkte hergestellt",
+        "Müll wird mit dem Flugzeug abtransportiert",
+        "Man kauft alles neu"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Energiequelle ist erneuerbar?",
+      "answers": [
+        "Erdgas",
+        "Kohle",
+        "Erdöl",
+        "Windkraft"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Warum sollten wir Wasser sparen?",
+      "answers": [
+        "Weil die Menge an sauberem Trinkwasser auf der Erde begrenzt ist",
+        "Weil Wasser teurer als Gold ist",
+        "Weil Wasser sonst schlecht wird",
+        "Damit die Flüsse nicht überlaufen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum ist Mülltrennung so wichtig?",
+      "answers": [
+        "Damit der Müll nicht stinkt",
+        "Weil der Müllmann sonst streikt",
+        "Damit wertvolle Rohstoffe wie Papier und Plastik recycelt werden können",
+        "Damit die Mülltonnen schöner aussehen"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches dieser Verkehrsmittel ist am umweltfreundlichsten?",
+      "answers": [
+        "Das Auto",
+        "Das Flugzeug",
+        "Das Kreuzfahrtschiff",
+        "Das Fahrrad"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt der CO2-Fußabdruck?",
+      "answers": [
+        "Wie tief ein Reifenprofil ist",
+        "Wie viel Treibhausgase eine Person durch ihren Lebensstil verursacht",
+        "Die Menge an Sauerstoff in einem Raum",
+        "Wie groß die Schuhe von Klimaaktivisten sind"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum ist der Regenwald (z.B. beim Kakaoanbau) so wichtig für das Klima?",
+      "answers": [
+        "Bäume nehmen klimaschädliches CO2 auf und produzieren Sauerstoff",
+        "Die Bäume kühlen den Erdkern",
+        "Dort wächst das Geld für Fairtrade",
+        "Er liefert Bauholz für Fabriken"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Warum ist Plastikmüll in den Meeren so gefährlich?",
+      "answers": [
+        "Er lässt das Eis schmelzen",
+        "Er sorgt für höhere Wellen",
+        "Meerestiere verwechseln ihn mit Nahrung und verhungern oft daran",
+        "Er macht das Wasser salziger"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie kann man im Alltag am einfachsten Energie sparen?",
+      "answers": [
+        "Das Fenster im Winter immer offen lassen",
+        "Licht und Geräte ausschalten, wenn man den Raum verlässt",
+        "Den Kühlschrank offen stehen lassen",
+        "Jeden Tag ein Bad statt einer kurzen Dusche nehmen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist 'Upcycling'?",
+      "answers": [
+        "Das Fahrradfahren bergauf",
+        "Müll wird einfach verbrannt",
+        "Dinge im Internet teuer verkaufen",
+        "Aus scheinbarem Abfall werden neue, nützliche Dinge gebastelt"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist Mikroplastik?",
+      "answers": [
+        "Winzige Plastikteilchen, die oft im Meer oder in Kosmetik landen",
+        "Sehr kleine Plastiktüten aus dem Supermarkt",
+        "Bakterien, die Plastik fressen",
+        "Eine spezielle Art von LEGO-Steinen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet der 'Treibhauseffekt'?",
+      "answers": [
+        "Dass es im Sommer immer regnet",
+        "Die Luft in der Schule ist zu warm",
+        "Gase in der Atmosphäre verhindern, dass die Sonnenwärme wieder ins All entweicht",
+        "Man baut Tomaten im Gewächshaus an"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Warum sind regionale Lebensmittel oft besser für das Klima?",
+      "answers": [
+        "Sie müssen nicht gekocht werden",
+        "Sie haben kürzere Transportwege und verursachen dadurch weniger Abgase",
+        "Sie schmecken immer süßer",
+        "Sie sind teurer und der Staat verdient mehr"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter 'Fast Fashion'?",
+      "answers": [
+        "Kleidung für Läufer",
+        "Sehr teure Markenkleidung",
+        "Kleidung, die man beim Essen trägt",
+        "Billig produzierte Kleidung, die oft schnell kaputt geht oder weggeworfen wird"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Woran erkennt man Bio-Landwirtschaft?",
+      "answers": [
+        "Die Früchte sind immer perfekt rund",
+        "Es werden nur Maschinen statt Menschen eingesetzt",
+        "Bauern verzichten auf chemische Pflanzenschutzmittel und künstlichen Dünger",
+        "Die Bauern arbeiten nur nachts"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet 'Biodiversität'?",
+      "answers": [
+        "Die Vielfalt an verschiedenen Tier- und Pflanzenarten auf der Erde",
+        "Dass es viele verschiedene Bio-Märkte gibt",
+        "Die Menge an Bäumen in einem Wald",
+        "Ein Studiengang an der Universität"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist das Ziel einer fairen und nachhaltigen Lieferkette (z.B. bei Schokolade)?",
+      "answers": [
+        "Dass Schokolade umsonst ist",
+        "Dass alle Arbeiter vom Kakaobauer bis zum Verkäufer gerecht behandelt und bezahlt werden",
+        "Dass der LKW-Fahrer eine Kette trägt",
+        "Dass die Schokolade möglichst schnell im Laden ankommt"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum ist ein extrem hoher Fleischkonsum oft schlecht für das Klima?",
+      "answers": [
+        "Weil es keine Schlachter mehr gibt",
+        "Weil Kühe den Regenwald fressen",
+        "Fleisch verbraucht beim Braten zu viel Strom",
+        "Tiere brauchen viel Fläche, Futter und stoßen klimaschädliches Methangas aus"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet 'saisonales' Essen?",
+      "answers": [
+        "Man isst jeden Tag das Gleiche",
+        "Man isst nur im Winter",
+        "Man isst das Obst und Gemüse, das zur jeweiligen Jahreszeit in der Region natürlich reif wird",
+        "Man würzt sein Essen sehr stark (Seasoning)"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "subject": "3_Medienbildung_Trivia",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was ist ein Browser (z.B. Firefox, Chrome)?",
+      "answers": [
+        "Ein Suchbegriff bei Google",
+        "Ein Teil der Tastatur",
+        "Ein Programm, mit dem man Internetseiten aufrufen und ansehen kann",
+        "Ein Gerät zum Scannen von Dokumenten"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine E-Mail?",
+      "answers": [
+        "Eine SMS auf dem Handy",
+        "Eine elektronische Nachricht, die über das Internet verschickt wird",
+        "Ein ausgedruckter Brief",
+        "Ein Päckchen, das mit der Post kommt"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie sieht ein sehr sicheres Passwort aus?",
+      "answers": [
+        "Das Wort 'Passwort'",
+        "Es ist mein Vorname und mein Geburtsdatum",
+        "Es besteht nur aus fünf Zahlen (z.B. 12345)",
+        "Es ist lang, enthält Groß-/Kleinbuchstaben, Zahlen und Sonderzeichen"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist die Hauptaufgabe einer Suchmaschine (z.B. Google, DuckDuckGo)?",
+      "answers": [
+        "Sie durchsucht das Internet nach Webseiten zu einem bestimmten Suchbegriff",
+        "Sie brennt CDs und DVDs",
+        "Sie schützt den PC vor Viren",
+        "Sie übersetzt Texte in andere Sprachen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was passiert bei einem Download?",
+      "answers": [
+        "Daten werden von der Festplatte gelöscht",
+        "Der Computer fährt sich herunter",
+        "Dateien werden aus dem Internet auf das eigene Gerät heruntergeladen",
+        "Man schickt ein Bild an einen Freund"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Upload?",
+      "answers": [
+        "Das Starten des Computers",
+        "Das Aufladen des Akkus",
+        "Das Lesen eines Wikipedia-Artikels",
+        "Das Hochladen von eigenen Dateien ins Internet (z.B. ein Foto posten)"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wofür steht die Abkürzung WLAN?",
+      "answers": [
+        "Für eine Art von Virus",
+        "Für ein lokales Funknetzwerk ohne Kabel",
+        "Für eine Web-Linie ans Netz",
+        "Für ein Computerkabel"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Computervirus?",
+      "answers": [
+        "Ein schädliches Programm, das Daten stehlen oder den PC zerstören kann",
+        "Ein Fehler im Stromkabel",
+        "Ein kaputter Bildschirm",
+        "Eine Krankheit, die man vom Computer bekommt"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Warum ist Datenschutz im Internet wichtig?",
+      "answers": [
+        "Weil es ein neues Gesetz verbietet, online zu sein",
+        "Damit das Internet schneller funktioniert",
+        "Damit persönliche Informationen nicht geklaut und missbraucht werden",
+        "Damit der Computer nicht überhitzt"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine App?",
+      "answers": [
+        "Ein Internet-Browser für den Fernseher",
+        "Ein Anwendungsprogramm, meistens für Smartphones oder Tablets",
+        "Ein spezielles Passwort",
+        "Ein Bauteil der Smartphone-Kamera"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist Cybermobbing?",
+      "answers": [
+        "Wenn das Internet zu langsam ist",
+        "Das Spielen von Online-Spielen mit Fremden",
+        "Ein Virus, der das Handy sperrt",
+        "Das absichtliche Beleidigen, Bedrohen oder Bloßstellen von Personen im Internet"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter Fake News?",
+      "answers": [
+        "Absichtlich erfundene oder gefälschte Nachrichten",
+        "Die Nachrichten im Radio",
+        "Nachrichten, die älter als ein Jahr sind",
+        "Filme, die im Kino laufen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was schützt das Urheberrecht?",
+      "answers": [
+        "Es erlaubt jedem, alles im Internet kostenlos herunterzuladen",
+        "Es regelt, wer das Internet erfunden hat",
+        "Es schützt die Erschaffer von Werken (z.B. Bilder oder Musik) davor, dass andere diese ungefragt kopieren",
+        "Es schützt vor Viren"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist 'Spam'?",
+      "answers": [
+        "Ein besonders wichtiges Dokument",
+        "Unerwünschte Werbe- oder Quatsch-Mails, die massenhaft verschickt werden",
+        "Ein Chatprogramm für die Schule",
+        "Ein Teil der Computertastatur"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was passiert beim 'Phishing'?",
+      "answers": [
+        "Man aktualisiert sein Betriebssystem",
+        "Das Internet wird vom Anbieter abgeschaltet",
+        "Man angelt Fische in einem Online-Spiel",
+        "Betrüger versuchen durch falsche E-Mails, an Passwörter oder Bankdaten zu kommen"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Firewall?",
+      "answers": [
+        "Eine Wand im Computergehäuse",
+        "Ein Hintergrundbild mit Feuer",
+        "Ein Schutzprogramm, das den Computer vor unerwünschten Zugriffen aus dem Internet abschirmt",
+        "Ein Programm, das den PC vor Überhitzung schützt"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was sind Cookies im Internet?",
+      "answers": [
+        "Kleine Dateien, die sich merken, was du auf einer Webseite gemacht oder angeklickt hast",
+        "Kekse, die man beim Surfen essen sollte",
+        "Kleine Werbevideos, die man nicht wegklicken kann",
+        "Viren, die den Computer zerstören"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wofür steht 'URL'?",
+      "answers": [
+        "Für einen neuen Internet-Browser",
+        "Für die genaue Adresse einer Internetseite (z.B. www.beispiel.de)",
+        "Für das WLAN-Passwort",
+        "Für einen USB-Stick"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Influencer?",
+      "answers": [
+        "Jemand, der eine Grippe hat",
+        "Der Chef eines großen Tech-Unternehmens",
+        "Ein Programm zum Bilder bearbeiten",
+        "Jemand, der im Internet viele Follower hat und dadurch Meinungen oder Trends beeinflusst"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet 'Quellenkritik'?",
+      "answers": [
+        "Sich über einen Text aus dem Internet lustig zu machen",
+        "Das Internet auszuschalten",
+        "Zu prüfen, ob eine Information oder ein Bild aus dem Internet wirklich wahr und vertrauenswürdig ist",
+        "Einen Text fehlerfrei abzuschreiben"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

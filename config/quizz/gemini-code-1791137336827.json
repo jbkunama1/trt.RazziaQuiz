@@ -1,0 +1,228 @@
+{
+  "subject": "9 – Technik",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was ist die Hauptfunktion einer Diode in einem elektronischen Stromkreis?",
+      "answers": [
+        "Sie verstärkt elektrische Signale",
+        "Sie lässt den Strom nur in eine Richtung durch (als elektronisches Ventil)",
+        "Sie speichert elektrische Energie wie eine Batterie",
+        "Sie erzeugt Wechselstrom aus Gleichstrom"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Fertigungsverfahren gehört zu den 'spanenden' bzw. 'trennenden' Verfahren mit geometrisch bestimmter Schneide?",
+      "answers": [
+        "Gießen",
+        "Schweißen",
+        "Drehen oder Fräsen",
+        "Kleben"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter einem 'Transistor' in der Elektronik?",
+      "answers": [
+        "Ein Halbleiterbauelement, das zum Schalten oder Verstärken von elektrischen Signalen genutzt wird",
+        "Ein Bauteil zur Messung der Temperatur",
+        "Ein dicker Kupferdraht",
+        "Eine Schutzsicherung gegen Kurzschlüsse"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Werkstoffeigenschaften zeichnen die meisten Metalle aus?",
+      "answers": [
+        "Gute elektrische und thermische Leitfähigkeit, Verformbarkeit und metallischer Glanz",
+        "Schlechte Leitfähigkeit und extreme Sprödigkeit",
+        "Hohe Elastizität wie Gummi",
+        "Dass sie bei Raumtemperatur immer gasförmig sind"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist der Zweck einer Pulsweitenmodulation (PWM), wie sie z. B. von Mikrocontrollern genutzt wird?",
+      "answers": [
+        "Um digitale Pins in analoge Signale umzuwandeln und z. B. LEDs zu dimmen oder Motoren in der Geschwindigkeit zu regeln",
+        "Um das WLAN-Signal zu verstärken",
+        "Um Daten schneller über USB zu übertragen",
+        "Um die Spannung auf genau 230 Volt zu erhöhen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie ist ein herkömmlicher Transformator (Trafo) aufgebaut und wozu dient er?",
+      "answers": [
+        "Er besteht aus zwei Spulen um einen Eisenkern und wandelt Wechselspannungen in andere Spannungen um",
+        "Er besteht aus Solarmodulen und macht Sonnenlicht zu Strom",
+        "Er nutzt einen Elektromotor zur Krafterzeugung",
+        "Er besteht aus Plastik und filtert Gleichstrom"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt der Begriff 'Wirkungsgrad' in der Technik?",
+      "answers": [
+        "Das Verhältnis von abgegebener (nutzbarer) Leistung zu zugeführter Leistung (in Prozent)",
+        "Die maximale Lebensdauer einer Maschine",
+        "Die Geschwindigkeit, mit der ein Werkstück gefertigt wird",
+        "Den Stromverbrauch im Standby-Modus"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Werkstoffe zählen zu den 'Verbundwerkstoffen'?",
+      "answers": [
+        "Reines Kupfer und reines Aluminium",
+        "Werkstoffe aus zwei oder mehreren verbundenen Materialien (z. B. Glasfaserverstärkter Kunststoff oder Stahlbeton), die neue Eigenschaften besitzen",
+        "Holzarten, die verleimt wurden",
+        "Kunststoffe aus Erdöl"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist die Aufgabe eines Relais in einer elektrischen Schaltung?",
+      "answers": [
+        "Es ist ein fernbedienbarer, elektromagnetischer Schalter, mit dem ein kleiner Stromkreis einen großen Stromkreis schalten kann",
+        "Es misst den elektrischen Widerstand",
+        "Es wandelt Licht in Strom um",
+        "Es dient als Akku"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet das Härten von Stahl in der Wärmebehandlung?",
+      "answers": [
+        "Das Erhitzen und anschließende schnelle Abkühlen (Abschrecken) von Stahl, um ihn hart und verschleißfest zu machen",
+        "Das Schmelzen von Eisen im Hochofen",
+        "Das Zusammenpressen von Metallpulver",
+        "Das Anbringen einer Schutzschicht gegen Rost"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Funktion hat ein Kondensator in einem elektronischen Schaltkreis?",
+      "answers": [
+        "Er kann elektrische Ladung und Energie für kurze Zeit speichern und wieder abgeben",
+        "Er erzeugt dauerhaft Gleichstrom",
+        "Er brennt bei Kurzschluss sofort durch wie eine Sicherung",
+        "Er regelt die Frequenz von Radiowellen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter dem Begriff 'CAD' in der modernen Technik?",
+      "answers": [
+        "Computer Aided Design (Computerunterstütztes Konstruieren und Zeichnen am Bildschirm)",
+        "Central Automatic Device",
+        "Control And Data",
+        "Computer Aided Drilling"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Gefahr besteht bei der Arbeit an einer Tischfräse oder Kreissäge, wenn das Holz 'rückschlagend' geführt wird?",
+      "answers": [
+        "Das Werkstück wird mit extremer Wucht nach hinten katapultiert, was zu schweren Verletzungen führen kann",
+        "Das Sägeblatt schmilzt sofort",
+        "Die Maschine schaltet sich ab",
+        "Das Holz fängt im Sägeblatt Feuer"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist der Unterschied zwischen Gleichstrom (DC) und Wechselstrom (AC)?",
+      "answers": [
+        "Gleichstrom fließt immer in dieselbe Richtung, während Wechselstrom regelmäßig seine Richtung (Polung) ändert",
+        "Gleichstrom ist gefährlicher als Wechselstrom",
+        "Wechselstrom gibt es nur in Batterien",
+        "Es gibt keinen technischen Unterschied"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche grundlegende Aufgabe hat ein Elektromotor?",
+      "answers": [
+        "Er wandelt elektrische Energie in mechanische Bewegungsenergie (Rotation) um",
+        "Er wandelt mechanische Energie in Strom um",
+        "Er speichert elektrische Energie",
+        "Er blockiert den Stromfluss bei Überlastung"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

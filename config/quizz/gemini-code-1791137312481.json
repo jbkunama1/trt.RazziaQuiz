@@ -1,0 +1,228 @@
+{
+  "subject": "9 – Informatik",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was beschreibt ein 'Boolean' (boolescher Wert) in der Programmierung?",
+      "answers": [
+        "Eine Fließkommazahl mit Nachkommastellen",
+        "Einen Datentyp, der genau zwei Zustände annehmen kann: wahr (true) oder falsch (false)",
+        "Einen Textstring mit beliebigen Zeichen",
+        "Eine Liste von Zahlenwerten"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Datenstruktur arbeitet nach dem LIFO-Prinzip (Last In, First Out)?",
+      "answers": [
+        "Eine Warteschlange (Queue)",
+        "Ein Array",
+        "Ein Stapel (Stack)",
+        "Ein binärer Suchbaum"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist die Hauptaufgabe eines Compilers bei höheren Programmiersprachen?",
+      "answers": [
+        "Er übersetzt den gesamten Quellcode in Maschinencode (Binärcode), damit der Computer ihn ausführen kann",
+        "Er löscht automatisch alle Viren von der Festplatte",
+        "Er verbindet den PC kabellos mit dem Internet",
+        "Er formatiert den Text übersichtlich für den Programmierer"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man in Netzwerken unter dem Begriff 'DNS' (Domain Name System)?",
+      "answers": [
+        "Ein System zur Verschlüsselung von Passwörtern",
+        "Den Namen des Herstellers von WLAN-Routern",
+        "Ein Protokoll, das menschenlesbare Domainnamen (z. B. www.google.de) in IP-Adressen übersetzt",
+        "Eine Firewall für den Datentransfer"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine 'Endlosschleife' (Infinite Loop) beim Programmieren?",
+      "answers": [
+        "Ein Fehler, bei dem eine Schleife niemals abbricht, weil die Abruchbedingung nie erfüllt wird",
+        "Eine Schleife, die besonders schnell läuft",
+        "Ein Netzwerkfehler im Internet",
+        "Eine Programmiersprache ohne Ende"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Protokoll wird für die sichere (verschlüsselte) Übertragung von Webseiten im Internet genutzt?",
+      "answers": [
+        "FTP",
+        "HTTP",
+        "HTTPS",
+        "SMTP"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Was ist der Sinn von 'Kommentaren' im Quellcode eines Programms?",
+      "answers": [
+        "Sie beschleunigen die Ausführung des Programms",
+        "Sie erklären den Code für menschliche Leser und werden vom Computer ignoriert",
+        "Sie dienen als automatisierter Kopierschutz",
+        "Sie verstecken Fehler im Programm vor dem Lehrer"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein 'Array' (oder Feld) in der Programmierung?",
+      "answers": [
+        "Eine Variable, die nur einen einzigen Buchstaben speichern kann",
+        "Eine Datenstruktur, die mehrere Elemente desselben Typs unter einem gemeinsamen Namen speichert",
+        "Ein grafisches Element auf dem Bildschirm",
+        "Eine bestimmte Art von Fehlermeldung"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche logische Verknüpfung liefert das Ergebnis 'wahr' (true), wenn BEIDE Eingabewerte wahr sind?",
+      "answers": [
+        "UND-Gatter (AND)",
+        "ODER-Gatter (OR)",
+        "NICHT-Gatter (NOT)",
+        "ENTWEDER-ODER-Gatter (XOR)"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet Open-Source-Software?",
+      "answers": [
+        "Software, die man nur im Internet kaufen kann",
+        "Software, bei der der Quellcode frei zugänglich ist und bearbeitet werden darf",
+        "Software, die keine Updates benötigt",
+        "Ein Betriebssystem von Microsoft"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Funktion oder Methode in der Softwareentwicklung?",
+      "answers": [
+        "Ein wiederverwendbarer Code-Block, der eine bestimmte Aufgabe ausführt",
+        "Der Startknopf des Computers",
+        "Eine spezielle Computermaus",
+        "Die Benutzeroberfläche eines Programms"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Einheit misst die Taktfrequenz eines Prozessors?",
+      "answers": [
+        "Volt (V)",
+        "Gigabyte (GB)",
+        "Hertz (Hz bzw. GHz)",
+        "Watt (W)"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter 'Phishing' im Bereich der IT-Sicherheit?",
+      "answers": [
+        "Das Ausspionieren von Zugangsdaten durch gefälschte E-Mails oder Websites",
+        "Das Löschen von Festplatten durch Viren",
+        "Das Beschleunigen einer Internetverbindung",
+        "Das Speichern von Dateien in der Cloud"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was macht ein Mikrocontroller wie der Arduino im Vergleich zu einem normalen PC?",
+      "answers": [
+        "Er hat einen viel größeren Bildschirm",
+        "Er ist ein kompakter Ein-Chip-Computer, der vor allem für Steuerung, Sensorik und Aktorik in Projekten genutzt wird",
+        "Er kann nur zum Textschreiben genutzt werden",
+        "Er benötigt keinen Strom"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet der Begriff 'Debugging'?",
+      "answers": [
+        "Das Installieren neuer Spiele",
+        "Das Reinigen des Computergehäuses von Staub",
+        "Das systematische Suchen und Entfernen von Fehlern im Programmcode",
+        "Das Herunterladen von Updates"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

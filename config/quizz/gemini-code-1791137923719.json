@@ -1,0 +1,228 @@
+{
+  "subject": "10 – Nachhaltigkeit",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was versteht man unter dem 'Drei-Säulen-Modell' der Nachhaltigkeit?",
+      "answers": [
+        "Die drei großen Flüsse in Deutschland",
+        "Die Verknüpfung von Ökologie (Umwelt), Ökonomie (Wirtschaft) und Soziales (Gesellschaft)",
+        "Drei gesetzliche Vorschriften für den Umweltschutz",
+        "Die Aufteilung des Stromnetzes in drei Regionen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches weltweite Abkommen gilt als Meilenstein, um die Erderwärmung auf deutlich unter 2 Grad Celsius zu begrenzen?",
+      "answers": [
+        "Das Kyoto-Protokoll",
+        "Das Pariser Klimaabkommen",
+        "Die Genfer Konvention",
+        "Der Vertrag von Lissabon"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt der Begriff 'Earth Overshoot Day' (Erd-Überlastungstag)?",
+      "answers": [
+        "Den Tag, an dem die Sommerzeit umgestellt wird",
+        "Den Tag im Jahr, an dem die Menschheit alle Ressourcen verbraucht hat, die die Erde in diesem Jahr auf natürliche Weise erneuern kann",
+        "Den wärmsten Tag des Jahres",
+        "Den Startschuss für weltweite Müllsammelaktionen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man in der Wirtschaft unter 'Greenwashing'?",
+      "answers": [
+        "Das umweltfreundliche Waschen von Textilien",
+        "Eine Marketing-Täuschung, bei der sich Unternehmen durch Werbung umweltfreundlicher darstellen, als sie tatsächlich sind",
+        "Das Anlegen von Dachgärten auf Fabriken",
+        "Eine staatliche Steuer für umweltschädliche Produkte"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Treibhausgas hat bezogen auf die Masse eine deutlich stärkere Wirkung auf den Treibhauseffekt als CO2, wird aber u.a. in der Massentierhaltung freigesetzt?",
+      "answers": [
+        "Stickstoff",
+        "Sauerstoff",
+        "Methan (CH4)",
+        "Helium"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist das Hauptziel einer 'Kreislaufwirtschaft' (Circular Economy)?",
+      "answers": [
+        "Dass Produkte im Kreis transportiert werden",
+        "Abfälle zu vermeiden, Materialien möglichst lange zu nutzen und durch Recycling im Kreislauf zu halten",
+        "Dass Waren nur noch lokal verkauft werden",
+        "Die Abschaffung von Verpackungen im Supermarkt"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Welche sozialen und ökologischen Probleme sind oft mit der Produktion von Smartphones (Elektronik) verbunden?",
+      "answers": [
+        "Die Geräte verbrauchen zu viel Strom beim Telefonieren",
+        "Umweltschäden und gefährliche Arbeitsbedingungen beim Abbau seltener Erden und Rohstoffe",
+        "Smartphones dürfen nach zwei Jahren nicht mehr genutzt werden",
+        "Es gibt keine nennenswerten Probleme"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was besagt die 'Degrowth'-Bewegung (Postwachstumsökonomie)?",
+      "answers": [
+        "Dass die Weltbevölkerung schrumpfen muss",
+        "Dass unendliches Wirtschaftswachstum auf einer endlichen Erde unmöglich ist und der Fokus auf Lebensqualität statt BIP-Wachstum liegen sollte",
+        "Dass keine neuen Technologien mehr erfunden werden dürfen",
+        "Dass Fabriken komplett abgeschaltet werden"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Siegel garantiert besonders strenge ökologische Standards bei Lebensmitteln in Deutschland und Europa?",
+      "answers": [
+        "Das EU-Bio-Siegel sowie Verbands-Logos wie Demeter oder Bioland",
+        "Das TÜV-Siegel",
+        "Das CE-Prüfzeichen",
+        "Der Blaue Engel"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter 'Emissionshandel' im Klimaschutz?",
+      "answers": [
+        "Einen Markt, auf dem Unternehmen Verschmutzungsrechte (CO2-Zertifikate) kaufen und verkaufen können, um den Gesamtausstoß zu senken",
+        "Den weltweiten Handel mit Elektroautos",
+        "Das Verbot von Fabrikabgasen",
+        "Eine Steuer für den Kauf von Benzin"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Konsequenzen hat das Tauen der Permafrostböden in der Arktis für das globale Klima?",
+      "answers": [
+        "Es wachsen dort mehr Bäume",
+        "Freiwerdendes Methan und CO2 beschleunigen den Treibhauseffekt massiv",
+        "Der Meeresspiegel sinkt weltweit ab",
+        "Die Temperaturen in Europa sinken dauerhaft"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist das Problem der sogenannten 'Fast Fashion' aus ökologischer Sicht?",
+      "answers": [
+        "Kleidung wird zu selten gewaschen",
+        "Enormer Wasserverbrauch, Chemikalieneinsatz, CO2-Emissionen und gigantische Textilmüllberge durch kurzlebige Billigkleidung",
+        "Kleidung ist zu teuer für den Normalverbraucher",
+        "Es werden nur noch synthetische Farben genutzt"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet 'Biodiversität' und warum ist sie für Ökosysteme überlebenswichtig?",
+      "answers": [
+        "Die Vielfalt an Arten, Genen und Ökosystemen; sie sorgt für Stabilität und Anpassungsfähigkeit der Natur",
+        "Die Anzahl von Bäumen in einem städtischen Park",
+        "Die Reinheit des Trinkwassers in Flüssen",
+        "Ein Messwert für Luftverschmutzung"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Bedeutung haben die globalen Nachhaltigkeitsziele (SDGs) der Vereinten Nationen?",
+      "answers": [
+        "Sie gelten ausschließlich für Entwicklungsländer",
+        "Es sind 17 Ziele für eine nachhaltige ökologische, soziale und ökonomische Entwicklung bis 2030, die für alle Staaten gelten",
+        "Sie sind unverbindliche Empfehlungen für den Schulsport",
+        "Sie regeln den internationalen Schiffsverkehr"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter dem Begriff 'Suffizienz' im Kontext der Nachhaltigkeitsstrategien?",
+      "answers": [
+        "Das Erfinden neuer technischer Filteranlagen",
+        "Das maximale Steigern der Energieeffizienz",
+        "Ein genügsamer Lebensstil mit einem geringeren Verbrauch von Gütern und Energie durch verändertes Konsumverhalten",
+        "Die vollständige Automatisierung von Recyclinghöfen"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

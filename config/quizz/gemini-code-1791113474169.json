@@ -1,0 +1,228 @@
+{
+  "subject": "8 – Nachhaltigkeit",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was versteht man unter dem 'Ökologischen Fußabdruck'?",
+      "answers": [
+        "Ein Modell, das berechnet, wie viel Fläche der Erde ein Mensch benötigt, um seinen Lebensstandard (Ressourcen & Abfall) dauerhaft zu halten",
+        "Die Abdrücke von Tieren im Schlamm",
+        "Die Größe der Schuhe, die man aus recyceltem Material kauft",
+        "Ein Waldweg für Wanderer"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie nennt man die Gase, die dafür sorgen, dass weniger Sonnenwärme von der Erde ins All entweichen kann?",
+      "answers": [
+        "Edelgase",
+        "Sauerstoff",
+        "Treibhausgase (wie CO2, Methan)",
+        "Ozongase"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist das Hauptproblem bei der 'Fast Fashion' Industrie?",
+      "answers": [
+        "Kleidung wird zu schnell gewaschen",
+        "Ein enorm hoher Ressourcenverbrauch, Umweltverschmutzung und oft ausbeuterische Arbeitsbedingungen für billige Mode",
+        "Es gibt keine Winterkleidung mehr",
+        "Die Mode ändert sich zu langsam"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1512413911617-e4359db5a1e7?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was garantiert das Fairtrade-Siegel (z. B. auf Schokolade oder Kaffee)?",
+      "answers": [
+        "Dass die Bauern im globalen Süden stabile, existenzsichernde Mindestpreise erhalten und Kinderarbeit verboten ist",
+        "Dass das Produkt komplett aus Deutschland kommt",
+        "Dass das Produkt kalorienfrei ist",
+        "Dass es im Supermarkt verschenkt wird"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist 'Virtuelles Wasser'?",
+      "answers": [
+        "Wasser in einem Videospiel",
+        "Die versteckte Wassermenge, die während der gesamten Produktion eines Produktes (z.B. einer Jeans) verbraucht oder verschmutzt wird",
+        "Regenwasser",
+        "Wasser, das man sich nur vorstellt"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Energiequelle zählt NICHT zu den erneuerbaren (regenerativen) Energien?",
+      "answers": [
+        "Windkraft",
+        "Solarenergie (Sonne)",
+        "Biomasse",
+        "Erdöl"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Warum ist ein sehr hoher Fleischkonsum problematisch für das Klima?",
+      "answers": [
+        "Weil Tiere den Menschen die frische Luft wegatmen",
+        "Die Fleischproduktion benötigt riesige Mengen an Land, Futter und Wasser, und Rinder stoßen sehr viel Methan aus",
+        "Weil es keine Metzger mehr gibt",
+        "Weil der Transport in Kühlschränken verboten ist"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet 'Kreislaufwirtschaft' (Circular Economy)?",
+      "answers": [
+        "Autos dürfen nur im Kreisverkehr fahren",
+        "Ein System, in dem Ressourcen so lange wie möglich genutzt werden und Abfall durch Recycling zu neuen Rohstoffen wird",
+        "Man bezahlt Waren mit Geld, das im Kreis geht",
+        "Die Wirtschaft wächst unendlich weiter"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist Mikroplastik?",
+      "answers": [
+        "Winzige Plastikpartikel (kleiner als 5 mm), die in Flüsse, Ozeane und letztlich in die Nahrungskette gelangen",
+        "Eine kleine Plastiktüte aus dem Supermarkt",
+        "Ein Bakterium, das Plastik frisst",
+        "Spezielles Plastik für Spielzeug"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter 'Greenwashing'?",
+      "answers": [
+        "Das Streichen von Häusern in grüner Farbe",
+        "Eine PR-Strategie von Firmen, um sich umweltfreundlicher darzustellen, als sie tatsächlich sind",
+        "Das Waschen von Kleidung bei sehr niedrigen Temperaturen",
+        "Ein Spülmittel aus der Natur"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine direkte Gefahr der globalen Erwärmung für Küstenregionen?",
+      "answers": [
+        "Das Meer trocknet aus",
+        "Durch das Schmelzen des Polareises und von Gletschern steigt der weltweite Meeresspiegel an",
+        "Es gibt dort keinen Wind mehr",
+        "Die Küsten werden flacher"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter dem Begriff 'Biodiversität'?",
+      "answers": [
+        "Die Produktion von Bio-Lebensmitteln",
+        "Die Vielfalt des Lebens auf der Erde (Artenvielfalt, genetische Vielfalt, Ökosysteme)",
+        "Ein Studiengang an Universitäten",
+        "Dass Tiere im Zoo viele verschiedene Dinge fressen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum gelten 'regionale' und 'saisonale' Lebensmittel oft als nachhaltiger?",
+      "answers": [
+        "Sie haben kürzere Transportwege und müssen nicht in beheizten Gewächshäusern (mit hohem CO2-Ausstoß) gezüchtet werden",
+        "Sie schmecken immer viel süßer",
+        "Sie sind grundsätzlich in Plastik verpackt",
+        "Man muss sie vor dem Essen nicht waschen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist das Problem an der Abholzung des tropischen Regenwalds (z. B. für Soja-Anbau oder Rinderweiden)?",
+      "answers": [
+        "Es wird zu hell am Äquator",
+        "Wertvolle Kohlenstoffspeicher (Bäume) gehen verloren und unzählige Tier- und Pflanzenarten verlieren ihren Lebensraum",
+        "Es gibt kein Holz mehr für Möbel in Europa",
+        "Der Boden wird zu nass"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bezeichnet man als 'Upcycling'?",
+      "answers": [
+        "Die Abwertung von teuren Gegenständen",
+        "Das Aufwerten scheinbar nutzloser Stoffe oder Abfallprodukte in neuwertige Produkte",
+        "Fahrradfahren auf Berge",
+        "Den Müll einfach zu verbrennen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

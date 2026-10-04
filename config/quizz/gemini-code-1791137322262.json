@@ -1,0 +1,228 @@
+{
+  "subject": "9 – Medienbildung",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was versteht man unter dem Begriff 'Deepfake'?",
+      "answers": [
+        "Einen besonders sicheren Passwort-Generator",
+        "Täuschend echte Videos, Bilder oder Audios, die mithilfe von KI manipuliert wurden",
+        "Eine Internetverbindung mit sehr hoher Bandbreite",
+        "Gefälschte Nachrichten in Tageszeitungen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche rechtliche Konsequenzen kann Cybermobbing (z. B. das Verbreiten von Bloßstellungen im Chat) für Jugendliche ab 14 Jahren haben?",
+      "answers": [
+        "Keine, im Internet gilt absolute Freiheit",
+        "Höchstens eine Verwarnung der Eltern",
+        "Es ist eine Straftat und kann zu Geld- oder Jugendstrafen führen",
+        "Man darf für eine Woche kein Handy mehr nutzen"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist die Datenschutz-Grundverordnung (DSGVO)?",
+      "answers": [
+        "Ein europäisches Gesetz zum Schutz der personenbezogenen Daten von Bürgern",
+        "Eine Anleitung zum Bauen von Webseiten",
+        "Ein Antivirenprogramm der Europäischen Union",
+        "Eine Steuer für große Internetkonzerne"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie lässt sich die Glaubwürdigkeit einer Online-Quelle am besten überprüfen?",
+      "answers": [
+        "Indem man schaut, wie viele Likes der Beitrag hat",
+        "Durch den Kreuzcheck mit anderen seriösen Nachrichtenportalen, Impressumsprüfung und Autorenhinweise",
+        "Wenn das Design der Website sehr modern aussieht",
+        "Wenn ein Freund den Beitrag geteilt hat"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein 'Social Bot' in Netzwerken?",
+      "answers": [
+        "Ein menschlicher Mitarbeiter im Kundenservice",
+        "Ein computergesteuertes Programm, das in sozialen Medien automatisiert agiert (z. B. Meinungen beeinflusst)",
+        "Ein besonders beliebtes Profil",
+        "Eine App zum Teilen von Fotos"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Daten sollten niemals öffentlich in sozialen Profilen preisgegeben werden?",
+      "answers": [
+        "Der Musikgeschmack",
+        "Das Lieblingshaustier",
+        "Wohnanschrift, Telefonnummer, Passwörter oder private Dokumente",
+        "Hobbys und Lieblingssportarten"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter 'Urheberrecht' in Bezug auf digitale Inhalte?",
+      "answers": [
+        "Das Recht, jedes Bild im Netz kostenlos herunterzuladen",
+        "Das gesetzliche Recht des Schöpfers an seinem eigenen geistigen Werk (Schutz vor Diebstahl und unlizenzierter Nutzung)",
+        "Ein Patent für Computerhardware",
+        "Die Erlaubnis, Software zu hacken"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Warum ist es riskant, Passwörter mehrfach für verschiedene wichtige Accounts zu verwenden?",
+      "answers": [
+        "Weil man sie sich sonst zu leicht merken kann",
+        "Weil der Computer dadurch langsamer wird",
+        "Weil bei einem Datenleck auf einer unsicheren Website Angreifer Zugriff auf alle anderen Accounts mit demselben Passwort erhalten",
+        "Weil es gegen die Internet-StVO verstößt"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine 'Creative Commons'-Lizenz (CC)?",
+      "answers": [
+        "Eine Lizenz, mit der Urheber der Öffentlichkeit unter bestimmten Bedingungen die Nutzung ihrer Werke erlauben",
+        "Ein kommerzieller Kopierschutz für Hollywoodfilme",
+        "Eine Kreditkarte für Online-Käufe",
+        "Ein Schulabschluss im Fach Medien"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet das Phänomen 'Cyber-Grooming'?",
+      "answers": [
+        "Online-Spiele gemeinsam zu gewinnen",
+        "Die gezielte Kontaktaufnahme von Erwachsenen zu Minderjährigen im Netz mit sexuellen Absichten",
+        "Das Optimieren von Fotos für Social Media",
+        "Das professionelle Bereinigen von Viren"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie wirkt sich die 'Filterblase' auf unsere Meinungsbildung aus?",
+      "answers": [
+        "Man bekommt weltweit alle Nachrichten neutral angezeigt",
+        "Man sieht primär Inhalte, die die eigene Meinung bestätigen, wodurch andere Perspektiven ausgeblendet werden",
+        "Das Internet wird vorübergehend gesperrt",
+        "Werbeanzeigen werden komplett blockiert"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Konsequenz hat es, wenn man dem Betreiber einer Website alle Cookies (Tracking-Cookies) erlaubt?",
+      "answers": [
+        "Das Gerät wird sofort mit Viren infiziert",
+        "Das Surfen wird spürbar schneller",
+        "Das Surfverhalten wird analysiert, um personalisierte Werbung anzuzeigen",
+        "Man muss monatlich eine Gebühr zahlen"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein 'Datenleck' (Data Breach)?",
+      "answers": [
+        "Ein physisches Loch in der Festplatte",
+        "Ein Vorfall, bei dem vertrauliche oder persönliche Daten unabsichtlich an die Öffentlichkeit oder zu Unbefugten gelangen",
+        "Das regelmäßige Sichern von Backups",
+        "Ein Wasserschaden im Serverraum"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche digitale Maßnahme erhöht die Sicherheit beim Login in ein Benutzerkonto am effektivsten?",
+      "answers": [
+        "Ein sehr kurzer Name",
+        "Die Zwei-Faktor-Authentifizierung (2FA)",
+        "Das Speichern des Passworts im Browser",
+        "Das Deaktivieren der Firewall"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum ist die digitale Zivilcourage (z. B. Widersprechen bei Hasskommentaren im Netz) so wichtig?",
+      "answers": [
+        "Weil man dafür Geld von der Regierung bekommt",
+        "Weil Täter im Netz sonst ungestört agieren und das Klima vergiften können; Widerspruch zeigt Haltung",
+        "Weil Algorithmen das automatisch löschen",
+        "Weil es gesetzlich vorgeschrieben ist, jeden Kommentar zu lesen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

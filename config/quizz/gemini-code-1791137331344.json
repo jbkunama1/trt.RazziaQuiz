@@ -1,0 +1,228 @@
+{
+  "subject": "9 – Sport",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Welche Energiebereitstellung (Energiestoffwechsel) dominiert bei einem maximalen 400-Meter-Lauf?",
+      "answers": [
+        "Ausschließlich die Fettverbrennung (aerob)",
+        "Die anaerob-laktazide Energiegewinnung (ohne Sauerstoff mit Milchsäurebildung)",
+        "Rein hochenergetische Phosphate ohne Abfallprodukte",
+        "Die reine Verdauung von Proteinen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter dem 'Superkompensation' im sportlichen Training?",
+      "answers": [
+        "Das Überfordern des Körpers bis zur Erschöpfung ohne Erholung",
+        "Das Prinzip, dass der Körper nach einer Belastung und anschließender Erholung das Leistungsniveau über den Ausgangswert hinaus steigert",
+        "Eine Verletzung durch falsches Dehnen",
+        "Die Einnahme von verbotenen Dopingmitteln"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Element gehört neben Kraft, Schnelligkeit und Ausdauer zu den klassischen motorischen Hauptbeanspruchungsformen?",
+      "answers": [
+        "Glück",
+        "Körpergröße",
+        "Beweglichkeit und Koordination",
+        "Alter"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie lange dauert ein reguläres Basketballspiel nach FIBA-Regeln (ohne Verlängerung)?",
+      "answers": [
+        "4 x 10 Minuten (insgesamt 40 Minuten reine Spielzeit)",
+        "2 x 45 Minuten",
+        "3 x 20 Minuten",
+        "60 Minuten"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Muskelkontraktion liegt vor, wenn sich ein Muskel bei Belastung verkürzt (z. B. das Anheben eines Gewichts beim Bizepscurl)?",
+      "answers": [
+        "Exzentrisch (nachgebend)",
+        "Isometrisch (haltend)",
+        "Konzentrisch (überwindend)",
+        "Statisch"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt der Begriff 'Intervalltraining' im Ausdauersport?",
+      "answers": [
+        "Ein dauerhaft gleichmäßiges Laufen über eine sehr lange Strecke",
+        "Ein gezielter Wechsel von Phasen hoher Belastung und aktiven Erholungspausen",
+        "Das Training nur an jedem zweiten Tag",
+        "Das Aufwärmen vor dem Wettkampf"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Welche Offensivtaktik bzw. Wechslung im Volleyball sorgt dafür, dass Spieler nach dem Aufschlag auf ihre idealen Positionen (z. B. Zuspieler, Diagonalspieler) rücken?",
+      "answers": [
+        "Die Abseitsfalle",
+        "Das Stellungsspiel / Aufstellungs- und Rotationssystem",
+        "Der Raumdeckung",
+        "Das Zeitspiel"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist bei einer Sportverletzung (z.B. einer leichten Prellung oder Zerrung) die empfohlene Sofortmaßnahme?",
+      "answers": [
+        "Die PECH-Regel (Pause, Eis, Compression/Druckverband, Hochlagern)",
+        "Sofort weiter sporteln, um den Schmerz wegzulaufen",
+        "Heiße Bäder nehmen und massieren",
+        "Den Bereich stark dehnen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Sportart zeichnet sich durch Disziplinen wie Turnen, Schwimmen, Fechten, Springreiten und Querfeldeinlauf aus?",
+      "answers": [
+        "Zehnkampf",
+        "Moderner Fünfkampf",
+        "Triathlon",
+        "Ironman"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet 'Doping' im Leistungssport?",
+      "answers": [
+        "Die Einnahme oder Anwendung von verbotenen Substanzen oder Methoden zur Leistungssteigerung",
+        "Ein besonders hartes Krafttraining",
+        "Das Tragen von speziellen High-Tech-Schuhen",
+        "Die physiotherapeutische Behandlung nach einem Muskelriss"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie nennt man die Fähigkeit des Nerv-Muskel-Systems, Bewegungen präzise und harmonisch aufeinander abzustimmen?",
+      "answers": [
+        "Maximalkraft",
+        "Koordination",
+        "Ausdauer",
+        "Schnelligkeit"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Sprungtechnik beim Weitsprung wird von Profis wegen der optimalen Flugstabilität bevorzugt?",
+      "answers": [
+        "Der Hocksprung",
+        "Der Steigerungssprung",
+        "Der Laufsprung (Hangsprung)",
+        "Der Standweitsprung"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter 'intermuskulärer Koordination'?",
+      "answers": [
+        "Das Zusammenspiel verschiedener Muskeln und Muskelgruppen bei einem Bewegungsablauf",
+        "Die Koordination innerhalb eines einzelnen Muskels",
+        "Die Kommunikation zwischen Trainer und Mannschaft",
+        "Die Taktik auf dem Spielfeld"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welcher Schiedsrichter-Entscheid folgt im Fußball auf ein Foulspiel eines Verteidigers im eigenen Strafraum an einem Stürmer?",
+      "answers": [
+        "Indirekter Freiwurf",
+        "Strafstoß (Elfmeter)",
+        "Abstoß",
+        "Schiedsrichterball"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt der 'Ruhepuls' eines Menschen?",
+      "answers": [
+        "Die Herzschlagfrequenz nach einer anstrengenden Trainingseinheit",
+        "Die Anzahl der Herzschläge pro Minute im vollständigen körperlichen und geistigen Ruhezustand (z. B. morgens nach dem Aufwachen)",
+        "Der Puls während des Schlafens bei Fieber",
+        "Der Durchschnittspuls über den gesamten Tag"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

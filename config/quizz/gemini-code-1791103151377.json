@@ -1,0 +1,228 @@
+{
+  "subject": "6 – Informatik",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was bezeichnet man in der Informatik als 'Hardware'?",
+      "answers": [
+        "Das Betriebssystem",
+        "Alle Teile des Computers, die man anfassen kann (z.B. Maus, Bildschirm)",
+        "Programme und Apps",
+        "Das Internet"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wofür steht das EVA-Prinzip?",
+      "answers": [
+        "Elektrisch, Virtuell, Automatisch",
+        "Erkennen, Verstehen, Ausführen",
+        "Energie, Verbindung, Akku",
+        "Eingabe, Verarbeitung, Ausgabe"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Algorithmus?",
+      "answers": [
+        "Eine genaue Schritt-für-Schritt-Anleitung zur Lösung eines Problems",
+        "Ein Computervirus",
+        "Ein Teil der Tastatur",
+        "Ein Programm zum Malen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie sollte ein sicheres Passwort aussehen?",
+      "answers": [
+        "Nur der eigene Vorname",
+        "123456",
+        "Eine Mischung aus Groß-/Kleinbuchstaben, Zahlen und Sonderzeichen",
+        "Das Geburtsdatum"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Browser?",
+      "answers": [
+        "Ein Drucker",
+        "Ein Programm, mit dem man Internetseiten ansehen kann (z.B. Firefox)",
+        "Ein Textverarbeitungsprogramm",
+        "Ein Gerät zum Scannen von Bildern"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welcher dieser Dienste ist eine Suchmaschine?",
+      "answers": [
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Google"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Mit welcher Tastenkombination kann man meistens einen Text kopieren?",
+      "answers": [
+        "Strg + C",
+        "Strg + V",
+        "Strg + P",
+        "Strg + S"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welcher Anschluss wird heute meistens genutzt, um einen Monitor mit dem PC zu verbinden?",
+      "answers": [
+        "USB",
+        "Kopfhöreranschluss",
+        "HDMI",
+        "Netzwerkkabel"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet 'Spam' bei E-Mails?",
+      "answers": [
+        "Eine sehr wichtige Nachricht vom Lehrer",
+        "Unerwünschte Werbe- oder Quatschnachrichten",
+        "Ein Programm-Update",
+        "Der Papierkorb im E-Mail-Programm"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Betriebssystem?",
+      "answers": [
+        "Die Maus und die Tastatur",
+        "Das Stromkabel",
+        "Eine App für Handyspiele",
+        "Das Grundprogramm, das den Computer steuert (z.B. Windows)"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was nennt man in der Informatik einen 'Bug'?",
+      "answers": [
+        "Einen Fehler im Programmcode",
+        "Ein neues Computer-Update",
+        "Ein Kabel",
+        "Das Gehäuse des PCs"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wofür nutzt man Programme wie 'Scratch' oft im Unterricht?",
+      "answers": [
+        "Zum Schreiben von Aufsätzen",
+        "Zum Musik hören",
+        "Um erste Programmier-Grundlagen mit bunten Blöcken zu lernen",
+        "Um Videos zu schneiden"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Festplatte (HDD/SSD)?",
+      "answers": [
+        "Der Lüfter im PC",
+        "Ein Speichermedium, auf dem Daten dauerhaft gesichert werden",
+        "Der Bildschirm",
+        "Ein spezielles Computerkabel"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wofür steht die Abkürzung WLAN?",
+      "answers": [
+        "Web-Linie ans Netz",
+        "World Local Area Network",
+        "Wichtige Leitung",
+        "Wireless Local Area Network (kabelloses Netzwerk)"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was passiert bei einem 'Download'?",
+      "answers": [
+        "Daten werden aus dem Internet auf das eigene Gerät heruntergeladen",
+        "Der Computer wird ausgeschaltet",
+        "Daten werden gelöscht",
+        "Man lädt Bilder ins Internet hoch"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "subject": "Trivia_Quiz_2_Geschichte_Und_Kultur",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Wer malte die Mona Lisa?",
+      "answers": [
+        "Michelangelo",
+        "Raffael",
+        "Leonardo da Vinci",
+        "Donatello"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "In welchem Jahr fiel die Berliner Mauer?",
+      "answers": [
+        "1987",
+        "1989",
+        "1991",
+        "1985"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Zivilisation baute Machu Picchu?",
+      "answers": [
+        "Maya",
+        "Azteken",
+        "Olmeken",
+        "Inka"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wer war der erste Mensch auf dem Mond?",
+      "answers": [
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "Neil Armstrong",
+        "John Glenn"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches alte Wunder existiert noch?",
+      "answers": [
+        "Pyramiden von Gizeh",
+        "Hängende Gärten",
+        "Koloss von Rhodos",
+        "Leuchtturm von Alexandria"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wer komponierte die 9. Sinfonie?",
+      "answers": [
+        "Mozart",
+        "Bach",
+        "Haydn",
+        "Beethoven"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Reich wurde von Alexander dem Großen gegründet?",
+      "answers": [
+        "Römisches Reich",
+        "Makedonien",
+        "Persisches Reich",
+        "Osmanisches Reich"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "In welchem Jahrhundert begann die Industrialisierung?",
+      "answers": [
+        "16. Jahrhundert",
+        "20. Jahrhundert",
+        "18. Jahrhundert",
+        "14. Jahrhundert"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1574513360215-62bb83bf979f?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wer schrieb „Faust\"?",
+      "answers": [
+        "Schiller",
+        "Kafka",
+        "Mann",
+        "Goethe"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Sprache wird in Brasilien gesprochen?",
+      "answers": [
+        "Portugiesisch",
+        "Spanisch",
+        "Englisch",
+        "Französisch"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wer war der erste deutsche Bundeskanzler?",
+      "answers": [
+        "Willy Brandt",
+        "Konrad Adenauer",
+        "Helmut Kohl",
+        "Gerhard Schröder"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Instrument spielte Mozart?",
+      "answers": [
+        "Violine",
+        "Flöte",
+        "Klavier",
+        "Cello"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Epoche folgte auf das Mittelalter?",
+      "answers": [
+        "Barock",
+        "Aufklärung",
+        "Romantik",
+        "Renaissance"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1580136607993-9c884cd8034b?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wer entdeckte Amerika?",
+      "answers": [
+        "Magellan",
+        "Kolumbus",
+        "Vespucci",
+        "Cortés"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Gebäude ist ein Wahrzeichen Indiens?",
+      "answers": [
+        "Taj Mahal",
+        "Angkor Wat",
+        "Chinesische Mauer",
+        "Petra"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Krieg dauerte von 1914 bis 1918?",
+      "answers": [
+        "Zweiter Weltkrieg",
+        "Dreißigjähriger Krieg",
+        "Erster Weltkrieg",
+        "Napoleonische Kriege"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wer malte „Der Schrei\"?",
+      "answers": [
+        "Van Gogh",
+        "Picasso",
+        "Dali",
+        "Munch"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Volk baute das Kolosseum?",
+      "answers": [
+        "Griechen",
+        "Römer",
+        "Ägypter",
+        "Perser"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wer war Königin von Großbritannien im 19. Jahrhundert?",
+      "answers": [
+        "Elisabeth I",
+        "Maria Stuart",
+        "Victoria",
+        "Anne"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches ist das älteste erhaltene Bauwerk der Welt?",
+      "answers": [
+        "Pyramiden",
+        "Stonehenge",
+        "Parthenon",
+        "Colosseum"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

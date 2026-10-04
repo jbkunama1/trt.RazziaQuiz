@@ -1,0 +1,293 @@
+{
+  "subject": "Trivia_Quiz_3_Wissenschaft_Und_Technik",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was ist die chemische Formel für Wasser?",
+      "answers": [
+        "CO2",
+        "O2",
+        "H2O",
+        "NaCl"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Element hat das Symbol O?",
+      "answers": [
+        "Gold",
+        "Sauerstoff",
+        "Silber",
+        "Eisen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie viele Beine hat eine Spinne?",
+      "answers": [
+        "6",
+        "10",
+        "12",
+        "8"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1502444330042-d1a1ddf9bb5b?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was misst ein Barometer?",
+      "answers": [
+        "Temperatur",
+        "Feuchtigkeit",
+        "Luftdruck",
+        "Windgeschwindigkeit"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Planet ist als roter Planet bekannt?",
+      "answers": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Saturn"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist die Einheit für elektrische Spannung?",
+      "answers": [
+        "Watt",
+        "Ohm",
+        "Ampere",
+        "Volt"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Organ pumpt Blut durch den Körper?",
+      "answers": [
+        "Lunge",
+        "Herz",
+        "Leber",
+        "Niere"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet DNA?",
+      "answers": [
+        "Dinatriumacetat",
+        "Dekoxyribonukleinsäure",
+        "Desoxyribonukleinsäure",
+        "Diatom nukleinsäure"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Gas entsteht bei der Fotosynthese?",
+      "answers": [
+        "Kohlendioxid",
+        "Stickstoff",
+        "Wasserstoff",
+        "Sauerstoff"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie viele Zähne hat ein erwachsener Mensch normalerweise?",
+      "answers": [
+        "32",
+        "28",
+        "30",
+        "34"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist das schnellste Landtier?",
+      "answers": [
+        "Löwe",
+        "Gepard",
+        "Pferd",
+        "Antilope"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Element ist ein Edelgas?",
+      "answers": [
+        "Sauerstoff",
+        "Stickstoff",
+        "Helium",
+        "Wasserstoff"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist die hardest natürliche Substanz?",
+      "answers": [
+        "Granit",
+        "Stahl",
+        "Quarz",
+        "Diamant"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1602752250013-17b5e4c6b8eb?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welcher Wissenschaftler entwickelte die Relativitätstheorie?",
+      "answers": [
+        "Newton",
+        "Einstein",
+        "Galileo",
+        "Bohr"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Photon?",
+      "answers": [
+        "Lichtteilchen",
+        "Wasserteilchen",
+        "Luftteilchen",
+        "Erdteilchen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Tier hat den stärksten Biss?",
+      "answers": [
+        "Löwe",
+        "Hai",
+        "Krokodil",
+        "Bär"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist die Einheit für Kraft?",
+      "answers": [
+        "Joule",
+        "Watt",
+        "Pascal",
+        "Newton"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Organ filtert das Blut?",
+      "answers": [
+        "Leber",
+        "Niere",
+        "Herz",
+        "Lunge"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet WWW?",
+      "answers": [
+        "World Web Wide",
+        "Web World Wide",
+        "World Wide Web",
+        "Wide World Web"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches ist das größte Organ des Menschen?",
+      "answers": [
+        "Leber",
+        "Haut",
+        "Herz",
+        "Gehirn"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

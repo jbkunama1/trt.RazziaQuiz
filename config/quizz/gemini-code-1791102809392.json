@@ -1,0 +1,293 @@
+{
+  "subject": "4_Informatik_Trivia",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was ist ein Algorithmus?",
+      "answers": [
+        "Eine bestimmte Art von Computervirus",
+        "Ein Programm zum Bearbeiten von Bildern",
+        "Eine genaue Schritt-für-Schritt-Anleitung zur Lösung eines Problems",
+        "Ein Bauteil im Inneren des Computers"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Programm?",
+      "answers": [
+        "Ein Kabel zur Stromversorgung",
+        "Eine Reihe von Befehlen, die der Computer ausführt",
+        "Die Tastatur und Maus",
+        "Das Gehäuse eines Computers"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Variable?",
+      "answers": [
+        "Das Kabel zum Monitor",
+        "Ein Fehler im Programmcode",
+        "Ein Programm, das sich ständig verändert",
+        "Ein Platzhalter oder Speicherort für Daten (z.B. Punkte in einem Spiel)"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Schleife (Loop)?",
+      "answers": [
+        "Ein Befehl, der dafür sorgt, dass Aktionen mehrfach wiederholt werden",
+        "Ein Knoten im Computerkabel",
+        "Das Herunterfahren des Computers",
+        "Ein Fehler, der das Programm beendet"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Bedingung (z.B. Wenn-Dann)?",
+      "answers": [
+        "Der Preis für eine Software",
+        "Die Voraussetzung, um den PC anzuschalten",
+        "Eine Regel, die entscheidet, welcher Code als Nächstes ausgeführt wird",
+        "Ein Speichermedium"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist Python?",
+      "answers": [
+        "Eine Suchmaschine",
+        "Ein Bauteil auf der Hauptplatine",
+        "Ein beliebtes Computerspiel",
+        "Eine weit verbreitete, textbasierte Programmiersprache"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist Scratch?",
+      "answers": [
+        "Ein Programm zum Musik machen",
+        "Eine Programmiersprache, bei der man visuelle Blöcke zusammensteckt",
+        "Ein Virus aus dem Internet",
+        "Ein spezieller Monitor für Gamer"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Bug?",
+      "answers": [
+        "Ein Fehler im Programmcode",
+        "Eine Funktion, die das Programm schneller macht",
+        "Ein neues Update",
+        "Ein kleines Insekt im Computergehäuse"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet Debugging?",
+      "answers": [
+        "Das Löschen der Festplatte",
+        "Das Herunterladen von Spielen",
+        "Das Suchen und Beheben von Fehlern im Code",
+        "Das Reinigen des Monitors"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Array?",
+      "answers": [
+        "Eine Grafikkarte",
+        "Eine Liste, die mehrere Werte unter einem Namen speichert",
+        "Eine runde CD",
+        "Ein bestimmtes Tastatur-Layout"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist Hardware?",
+      "answers": [
+        "Ein anderes Wort für das Internet",
+        "Ein besonders schwieriges Spiel",
+        "Eine neue App",
+        "Alle Teile eines Computers, die man anfassen kann"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist Software?",
+      "answers": [
+        "Programme, Apps und das Betriebssystem",
+        "Die weichen Teile der Maus",
+        "Der Bildschirm",
+        "Die Plastikhülle des PCs"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist das Binärsystem?",
+      "answers": [
+        "Ein Kabel mit zwei Steckern",
+        "Ein Spiel für zwei Personen",
+        "Ein Zahlensystem, das nur aus 0 und 1 besteht",
+        "Ein Passwort aus zwei Buchstaben"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist das Internet?",
+      "answers": [
+        "Ein Programm von Google",
+        "Ein weltweites Netzwerk aus verbundenen Computern",
+        "Ein großes Rechenzentrum in den USA",
+        "Ein unsichtbares Kabel"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine IP-Adresse?",
+      "answers": [
+        "Die Hausnummer des Internet-Erfinders",
+        "Das Passwort für den WLAN-Router",
+        "Die Adresse, an die man den Computer zur Reparatur schickt",
+        "Die eindeutige Nummer eines Geräts in einem Netzwerk"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter 'Cloud'?",
+      "answers": [
+        "Den Qualm, wenn ein PC überhitzt",
+        "Eine Wetter-App",
+        "Speicherplatz und Programme, die auf Servern im Internet liegen",
+        "Ein lokales Netzwerk in der Schule"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet Open Source?",
+      "answers": [
+        "Der Programmcode ist öffentlich und darf von jedem verändert werden",
+        "Das Gehäuse des Computers ist durchsichtig",
+        "Ein WLAN-Netzwerk ohne Passwort",
+        "Die Kamera am Laptop ist eingeschaltet"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was macht eine Verschlüsselung?",
+      "answers": [
+        "Sie macht den Code schneller",
+        "Sie wandelt Daten so um, dass Fremde sie nicht mehr lesen können",
+        "Sie schließt den Computer ab",
+        "Sie löscht Viren"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Funktion (beim Programmieren)?",
+      "answers": [
+        "Der Startknopf des Computers",
+        "Ein Fehler im Programm",
+        "Die Taste F1 auf der Tastatur",
+        "Ein wiederverwendbarer Code-Block, der eine bestimmte Aufgabe erledigt"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wofür steht HTML?",
+      "answers": [
+        "Ein Chat-Programm",
+        "High-Tech Media Language (Für schnelle Videos)",
+        "Es ist die Beschreibungssprache, mit der Webseiten aufgebaut sind",
+        "Eine Programmiersprache für Roboter"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "subject": "9 – WBS",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was versteht man unter dem Begriff 'Globalisierung'?",
+      "answers": [
+        "Die weltweite Verflechtung in Wirtschaft, Politik, Kultur und Kommunikation",
+        "Ein Programm zur weltweiten Mülltrennung",
+        "Die Entstehung neuer Kontinente durch Plattenverschiebung",
+        "Einheitliche Gesetze für alle Bundesländer in Deutschland"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Institution ist in der Europäischen Union für die Geldpolitik und den Euro zuständig?",
+      "answers": [
+        "Die Weltbank",
+        "Die Europäische Zentralbank (EZB)",
+        "Das Europäische Parlament",
+        "Die Europäische Kommission"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist der Unterschied zwischen einer Aktie und einer Anleihe?",
+      "answers": [
+        "Eine Aktie ist ein zinstragendes Darlehen, eine Anleihe ist ein Unternehmensanteil",
+        "Eine Aktie ist ein Miteigentumsanteil an einer Firma mit Gewinn- und Verlustrisiko, eine Anleihe ist ein festverzinslicher Kredit an ein Unternehmen oder den Staat",
+        "Es gibt keinen Unterschied",
+        "Anleihen sind nur für Banken erlaubt"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was besagt das Gesetz von Angebot und Nachfrage bei freier Preisbildung?",
+      "answers": [
+        "Steigt das Angebot bei gleichbleibender Nachfrage, sinkt in der Regel der Preis",
+        "Der Staat legt den Preis fest",
+        "Die Nachfrage hat keinen Einfluss auf den Preis",
+        "Teure Produkte werden automatisch besser verkauft"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Steuerart wird in Deutschland beim Einkauf von fast allen Waren und Dienstleistungen erhoben?",
+      "answers": [
+        "Einkommensteuer",
+        "Gewerbesteuer",
+        "Mehrwertsteuer (Umsatzsteuer)",
+        "Grundsteuer"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet der Begriff 'Inflation' für den Wert des Geldes?",
+      "answers": [
+        "Das Geld wird wertvoller und man kann sich mehr kaufen",
+        "Das Geld verliert an Kaufkraft, die Preise steigen",
+        "Die Zinsen steigen ins Unendliche",
+        "Es wird kein neues Geld mehr gedruckt"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Was ist das Ziel einer 'sozialen Marktwirtschaft' (wie in Deutschland)?",
+      "answers": [
+        "Reine Willkür der Unternehmen ohne staatliche Einmischung",
+        "Freier Wettbewerb verbunden mit sozialem Ausgleich (z.B. Schutz von Arbeitnehmern, Sozialleistungen)",
+        "Dass alle Menschen exakt denselben Lohn bekommen",
+        "Vollständige staatliche Planung aller Betriebe"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Form der Absicherung ist für Arbeitnehmer in Deutschland gesetzlich vorgeschrieben?",
+      "answers": [
+        "Die gesetzliche Unfallversicherung",
+        "Die private Haftpflichtversicherung",
+        "Die Zahnzusatzversicherung",
+        "Die Kaskoversicherung fürs Auto"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter einem 'Monopol' auf dem Markt?",
+      "answers": [
+        "Es gibt unzählige Anbieter für ein und dasselbe Produkt",
+        "Es gibt nur einen einzigen Anbieter für ein bestimmtes Produkt oder eine Dienstleistung",
+        "Zwei große Firmen teilen sich den Markt",
+        "Der Staat verbietet den Handel komplett"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Businessplan?",
+      "answers": [
+        "Ein privater Urlaubsplan",
+        "Ein schriftlicher Geschäftsplan für die Gründung eines neuen Unternehmens",
+        "Ein Vertrag zwischen Arbeitgeber und Gewerkschaft",
+        "Die Steuererklärung einer Aktiengesellschaft"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Aufgaben hat die Bundesagentur für Arbeit?",
+      "answers": [
+        "Sie kontrolliert die Mieten auf dem Wohnungsmarkt",
+        "Arbeitsvermittlung, Berufsberatung und Zahlung von Arbeitslosengeld",
+        "Sie stellt Pässe und Ausweise aus",
+        "Sie überwacht die Börsenkurse in Frankfurt"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet der Begriff 'Dispositionskredit' (Dispo) bei der Bank?",
+      "answers": [
+        "Ein festes Sparkonto mit hoher Verzinsung",
+        "Ein Kredit für den Hauskauf",
+        "Die Erlaubnis der Bank, das Girokonto bis zu einer vereinbarten Grenze zu überziehen",
+        "Ein internationaler Geldtransfer"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was regelt das deutsche Kündigungsschutzgesetz?",
+      "answers": [
+        "Es schützt Arbeitnehmer in bestimmten Betrieben vor sozial ungerechtfertigten Kündigungen",
+        "Es verbietet Unternehmen, jemals Mitarbeiter zu entlassen",
+        "Es regelt, wie schnell ein Handyvertrag gekündigt werden kann",
+        "Es bestimmt die Öffnungszeiten von Geschäften"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Rechtsform hat ein Handwerksbetrieb, der von einer einzelnen Person allein geführt wird und voll haftet?",
+      "answers": [
+        "Eine Aktiengesellschaft (AG)",
+        "Ein Einzelunternehmen",
+        "Eine eingetragene Genossenschaft",
+        "Ein gemeinnütziger Verein"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum erhebt der Staat Zölle auf bestimmte Importe aus Nicht-EU-Ländern?",
+      "answers": [
+        "Um die Einnahmen der EU zu erhöhen",
+        "Um heimische Wirtschaftszweige vor billigerer ausländischer Konkurrenz zu schützen",
+        "Um den Welthandel komplett zu stoppen",
+        "Um den Transport zu beschleunigen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

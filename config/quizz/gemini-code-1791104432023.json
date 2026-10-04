@@ -1,0 +1,228 @@
+{
+  "subject": "6-7 – Vertretung",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Scherzfrage: Was ist schwerer – ein Kilogramm Federn oder ein Kilogramm Eisen?",
+      "answers": [
+        "Das Eisen",
+        "Die Federn",
+        "Beide sind exakt gleich schwer",
+        "Das kann man nicht wiegen"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Logik: Welcher Monat hat 28 Tage?",
+      "answers": [
+        "Nur der Februar",
+        "Jeder Monat hat mindestens 28 Tage",
+        "Nur in Schaltjahren gibt es 28 Tage",
+        "Keiner"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Rätsel: Was wird beim Trocknen nass?",
+      "answers": [
+        "Die Sonne",
+        "Ein Schwamm",
+        "Ein Föhn",
+        "Ein Handtuch"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1584347712397-15c2bd673b18?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Rätsel: Wer hat am Morgen vier Beine, am Mittag zwei und am Abend drei?",
+      "answers": [
+        "Der Mensch (Krabbeln, Gehen, Stock)",
+        "Eine Spinne",
+        "Ein Hund",
+        "Ein Roboter"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Scherzfrage: Was hat Hände, kann aber nicht klatschen?",
+      "answers": [
+        "Ein Baum",
+        "Ein Fisch",
+        "Eine Uhr",
+        "Ein Tisch"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wissen: Welches dieser Tiere kann NICHT springen?",
+      "answers": [
+        "Känguru",
+        "Elefant",
+        "Frosch",
+        "Floh"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Wissen: Wie viele Farben hat ein klassischer Regenbogen?",
+      "answers": [
+        "5",
+        "3",
+        "9",
+        "7"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1507608226462-8e124806a644?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Rätsel: Was gehört dir, aber deine Freunde benutzen es öfter als du?",
+      "answers": [
+        "Dein Name",
+        "Dein Fahrrad",
+        "Dein Handy",
+        "Dein Rucksack"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Scherzfrage: Welches Wort wird in jedem Wörterbuch falsch geschrieben?",
+      "answers": [
+        "Rechtschreibung",
+        "Fehler",
+        "Falsch",
+        "Buchstabe"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Rätsel: Was hat ein Auge, kann aber nicht sehen?",
+      "answers": [
+        "Ein Blinder",
+        "Eine Nadel",
+        "Ein Zyklop",
+        "Ein Fernglas"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Rätsel: Je mehr es wird, desto weniger siehst du. Was ist das?",
+      "answers": [
+        "Licht",
+        "Glas",
+        "Wasser",
+        "Nebel oder Dunkelheit"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1485236715568-ddc5ee6ca227?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Rätsel: Was geht über das Wasser, wird aber nicht nass?",
+      "answers": [
+        "Eine Brücke (oder ein Schatten)",
+        "Ein Boot",
+        "Ein Schwimmer",
+        "Ein Fisch"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wissen: Welches Tier schläft oft im Stehen?",
+      "answers": [
+        "Hund",
+        "Katze",
+        "Pferd",
+        "Affe"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Rätsel: Was muss man erst brechen, bevor man es benutzen kann?",
+      "answers": [
+        "Einen Stock",
+        "Ein Ei",
+        "Einen Bleistift",
+        "Ein Fenster"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Scherzfrage: Wie oft kann man 1 von der Zahl 10 abziehen?",
+      "answers": [
+        "Zehnmal",
+        "Neunmal",
+        "Unendlich oft",
+        "Nur einmal (danach zieht man von 9 ab)"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

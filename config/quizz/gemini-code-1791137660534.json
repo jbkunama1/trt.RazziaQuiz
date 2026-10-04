@@ -1,0 +1,228 @@
+{
+  "subject": "10 – Medienbildung",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was versteht man unter dem Begriff 'Algorithmen-Bias' (Voreingenommenheit von Algorithmen)?",
+      "answers": [
+        "Dass ein Computerprogramm immer absolut fehlerfrei rechnet",
+        "Dass KI-Systeme oder Algorithmen aufgrund von unausgewogenen Trainingsdaten diskriminierende oder verzerrte Ergebnisse liefern können",
+        "Ein technischer Defekt im Prozessor",
+        "Die automatische Beschleunigung von Videos"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Risiken bergen 'Deepfakes' in der politischen und gesellschaftlichen Kommunikation?",
+      "answers": [
+        "Sie machen Videos lustiger",
+        "Sie können gezielt Falschinformationen, Desinformation und Rufmord verbreiten, weil sie täuschend echt wirken",
+        "Sie beschleunigen das Laden von Webseiten",
+        "Sie ersetzen herkömmliche Kameras komplett"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet 'Medienkompetenz' im Zeitalter von Social Media und Künstlicher Intelligenz?",
+      "answers": [
+        "Die Fähigkeit, Medieninhalte kritisch zu hinterfragen, zu analysieren, verantwortungsvoll zu nutzen und selbst Medieninhalte reflektiert zu erstellen",
+        " Möglichst schnell Tippen zu können",
+        "Teure technische Geräte zu besitzen",
+        "Jedes Computerspiel fehlerfrei durchzuspielen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Ziel verfolgt die EU mit dem 'Digital Services Act' (DSA)?",
+      "answers": [
+        "Den Online-Handel komplett zu verbieten",
+        "Große Plattformbetreiber stärker in die Pflicht zu nehmen, gegen illegale Inhalte, Hassrede und Desinformation vorzugehen",
+        "Das Internet in Europa zu verlangsamen",
+        "Nur noch kostenpflichtige Apps zuzulassen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist 'Stalking' im digitalen Raum (Cyberstalking)?",
+      "answers": [
+        "Das Verfolgen von Trends auf TikTok",
+        "Das hartnäckige, unerwünschte Überwachen, Bedrängen oder Verfolgen von Personen mithilfe digitaler Medien",
+        "Das Spielen von Online-Shootern",
+        "Das Abonnieren von vielen Kanälen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie funktioniert 'Social Engineering' als Angriffsform auf die IT-Sicherheit?",
+      "answers": [
+        "Das Hacken von Servern durch hochentwickelte Supercomputer",
+        "Das bewusste Ausnutzen menschlicher Schwächen (wie Hilfsbereitschaft, Angst oder Naivität), um an vertrauliche Daten oder Passwörter zu gelangen",
+        "Das Programmieren von sozialen Netzwerken",
+        "Die Reparatur von defekten Kabeln"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Welche Rechte räumt die DSGVO (Datenschutz-Grundverordnung) den Bürgern gegenüber Unternehmen ein?",
+      "answers": [
+        "Das Recht auf Auskunft über gespeicherte Daten, Berichtigung und Löschung ('Recht auf Vergessenwerden')",
+        "Das Recht auf kostenlose Smartphones",
+        "Das Recht, im Internet straffrei zu bleiben",
+        "Das Recht, Werbung komplett abzuschaffen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist unter 'Zensur' im Internet zu verstehen?",
+      "answers": [
+        "Das automatische Korrigieren von Rechtschreibfehlern",
+        "Die staatliche oder institutionelle Kontrolle und Sperrung von Informationen, Meinungen oder Kommunikationskanälen",
+        "Das Löschen von privatem Müll in Postfächern",
+        "Eine Kennzeichnung für nicht jugendfreie Spiele"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum ist das Veröffentlichen von Schul- oder Privatdokumenten mit Klarnamen und Noten anderer ein Verstoß gegen den Datenschutz?",
+      "answers": [
+        "Weil Noten Eigentum der Schule sind",
+        "Weil personenbezogene Daten ohne Einwilligung Dritter unzulässig preisgegeben werden und Persönlichkeitsrechte verletzen",
+        "Weil das Papier verschwendet wird",
+        "Weil das Dokument dadurch ungültig wird"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Gefahr droht durch die Nutzung ungesicherter öffentlicher WLAN-Netzwerke (Hotspots)?",
+      "answers": [
+        "Der Akku des Handys entlädt sich in Sekunden",
+        "Angreifer können den unverschlüsselten Datenverkehr mitlesen (Man-in-the-Middle-Angriff)",
+        "Das Display wird dauerhaft beschädigt",
+        "Es fallen automatisch hohe Roaming-Gebühren an"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt der Begriff 'Surveillance Capitalism' (Überwachungskapitalismus)?",
+      "answers": [
+        "Die staatliche Überwachung von Fabriken",
+        "Ein Wirtschaftsmodell, bei dem das menschliche Verhalten als kostenlose Rohstoffquelle zur Vorhersage und Beeinflussung (Zielgruppenwerbung) monetarisiert wird",
+        "Der Handel mit Kryptowährungen an der Börse",
+        "Die Subventionierung von Großkonzernen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Auswirkungen kann exzessiver Medienkonsum auf das Gehirn und den Alltag Jugendlicher haben?",
+      "answers": [
+        "Man wird automatisch intelligenter in allen Fächern",
+        "Es kann zu Schlafstörungen, Konzentrationsproblemen, Bewegungsmangel und im schlimmsten Fall zu einer Verhaltenssucht führen",
+        "Es stärkt nachhaltig die körperliche Fitness",
+        "Es hat keinerlei nachweisbare Effekte"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine 'Open Access'-Publikation in der Wissenschaft?",
+      "answers": [
+        "Ein kostenpflichtiges Magazin nur für Professoren",
+        "Wissenschaftliche Fachliteratur, die für die Öffentlichkeit im Internet frei und ohne Bezahlschranken zugänglich ist",
+        "Eine geheime Forschungsdatenbank",
+        "Ein veraltetes Buch aus der Schulbibliothek"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie kann man sich am besten vor Identitätsdiebstahl im Internet schützen?",
+      "answers": [
+        "Durch starke, unterschiedliche Passwörter, sparsamen Umgang mit persönlichen Daten und Zwei-Faktor-Authentifizierung",
+        "Indem man gar kein Internet mehr nutzt",
+        "Indem man überall denselben Namen angibt",
+        "Durch das Löschen des eigenen Webbrowsers"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Verantwortung tragen Plattformbetreiber und Influencer im Hinblick auf Werbung in sozialen Medien?",
+      "answers": [
+        "Keinerlei Verantwortung, Werbung muss nicht gekennzeichnet werden",
+        "Werbung muss klar als solche erkennbar und gekennzeichnet sein, um Schleichwerbung zu verhindern",
+        "Sie dürfen nur Werbung für Lebensmittel machen",
+        "Werbung ist in sozialen Netzwerken grundsätzlich verboten"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

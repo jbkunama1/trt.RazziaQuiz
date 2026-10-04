@@ -1,0 +1,293 @@
+{
+  "subject": "Trivia_Quiz_4_Sport_Und_Unterhaltung",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Wie viele Spieler hat ein Fußballteam auf dem Feld?",
+      "answers": [
+        "10",
+        "9",
+        "11",
+        "12"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Sportart wird bei Wimbledon gespielt?",
+      "answers": [
+        "Fußball",
+        "Tennis",
+        "Golf",
+        "Rugby"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie oft finden Olympische Sommerspiele statt?",
+      "answers": [
+        "Alle 2 Jahre",
+        "Jährlich",
+        "Alle 5 Jahre",
+        "Alle 4 Jahre"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1569517282132-25d22f4573e6?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Land gewann die Fußball-WM 2014?",
+      "answers": [
+        "Brasilien",
+        "Argentinien",
+        "Deutschland",
+        "Spanien"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wer ist bekannt als „The King of Pop\"?",
+      "answers": [
+        "Michael Jackson",
+        "Elvis Presley",
+        "Prince",
+        "Madonna"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Farbe hat die Mitte der olympischen Ringe?",
+      "answers": [
+        "Blau",
+        "Rot",
+        "Gelb",
+        "Schwarz"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "In welcher Sportart gibt es einen Slam Dunk?",
+      "answers": [
+        "Volleyball",
+        "Basketball",
+        "Handball",
+        "Fußball"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wer malte die Sixtinische Kapelle?",
+      "answers": [
+        "Leonardo",
+        "Raffael",
+        "Michelangelo",
+        "Donatello"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1572522718166-0677569eb210?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welcher Schauspieler spielte Iron Man?",
+      "answers": [
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Mark Ruffalo",
+        "Robert Downey Jr."
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie viele Punkte gibt es für einen Korb beim Basketball?",
+      "answers": [
+        "2 oder 3",
+        "1",
+        "5",
+        "10"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Film gewann den Oscar für den besten Film 2020?",
+      "answers": [
+        "1917",
+        "Parasite",
+        "Joker",
+        "Once Upon a Time in Hollywood"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Mannschaftssportart hat 6 Spieler pro Team?",
+      "answers": [
+        "Basketball",
+        "Handball",
+        "Volleyball",
+        "Fußball"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wer komponierte „Die Zauberflöte\"?",
+      "answers": [
+        "Beethoven",
+        "Bach",
+        "Haydn",
+        "Mozart"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "In welcher Stadt finden die Olympischen Spiele 2024 statt?",
+      "answers": [
+        "Tokio",
+        "Paris",
+        "Los Angeles",
+        "London"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Sport wird auf Eis ausgetragen?",
+      "answers": [
+        "Eishockey",
+        "Fußball",
+        "Tennis",
+        "Golf"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wer spielte den Joker in „The Dark Knight\"?",
+      "answers": [
+        "Joaquin Phoenix",
+        "Jack Nicholson",
+        "Heath Ledger",
+        "Jared Leto"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie lange dauert ein normales Fußballspiel?",
+      "answers": [
+        "60 Minuten",
+        "100 Minuten",
+        "45 Minuten",
+        "90 Minuten"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Musiker ist bekannt für den Song „Bohemian Rhapsody\"?",
+      "answers": [
+        "David Bowie",
+        "Freddie Mercury",
+        "Elton John",
+        "Paul McCartney"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Sportart ist keine Ballsportart?",
+      "answers": [
+        "Fußball",
+        "Basketball",
+        "Schwimmen",
+        "Tennis"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wer schrieb „Harry Potter\"?",
+      "answers": [
+        "Stephen King",
+        "J.K. Rowling",
+        "George R.R. Martin",
+        "Dan Brown"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

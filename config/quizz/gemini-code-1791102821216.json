@@ -1,0 +1,293 @@
+{
+  "subject": "2_WBS_Trivia",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was sind Einnahmen?",
+      "answers": [
+        "Die Miete für eine Wohnung",
+        "Geld, das man für Einkäufe ausgibt",
+        "Geld, das man erhält (z.B. Lohn oder Taschengeld)",
+        "Steuern, die man an den Staat zahlt"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Budget?",
+      "answers": [
+        "Ein anderes Wort für Schulden",
+        "Ein Plan, der zeigt, wie viel Geld zur Verfügung steht und ausgegeben werden darf",
+        "Der Kassenbon im Supermarkt",
+        "Ein Kredit bei der Bank"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Aktie?",
+      "answers": [
+        "Ein Geldschein",
+        "Ein Sparkonto bei der Bank",
+        "Ein staatliches Darlehen",
+        "Ein kleiner Anteil an einem Unternehmen"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1580519542036-ed47c0ce310b?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet Export?",
+      "answers": [
+        "Der Verkauf von heimischen Waren ins Ausland",
+        "Das Tauschen von Waren auf dem Markt",
+        "Das Spenden von Geld",
+        "Der Kauf von Waren aus dem Ausland"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was passiert bei einer Inflation?",
+      "answers": [
+        "Der Staat druckt kein Geld mehr",
+        "Alles wird viel billiger",
+        "Das Geld verliert an Wert und die Preise steigen",
+        "Alle Menschen bekommen mehr Gehalt"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist der gesetzliche Mindestlohn?",
+      "answers": [
+        "Das Geld, das Arbeitslose vom Staat bekommen",
+        "Der Betrag, den man mindestens sparen muss",
+        "Das maximale Gehalt eines Chefs",
+        "Die gesetzliche Untergrenze für die Bezahlung pro Arbeitsstunde"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Warum müssen wir in der Schule (und später) Quellen angeben?",
+      "answers": [
+        "Weil es schöner aussieht",
+        "Um zu zeigen, woher wir bestimmte Informationen oder Bilder haben",
+        "Damit die Texte länger werden",
+        "Damit der Lehrer weniger lesen muss"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet 'Fair Trade' (z.B. beim Kakaoanbau)?",
+      "answers": [
+        "Die Bauern bekommen einen fairen und stabilen Preis für ihre Ernte",
+        "Der Kakao wird im Supermarkt getauscht, nicht gekauft",
+        "Die Schokolade wird verschenkt",
+        "Es dürfen nur Maschinen arbeiten"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1556740749-887f6717d7e4?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist das primäre wirtschaftliche Ziel der meisten Unternehmen?",
+      "answers": [
+        "Möglichst hohe Schulden zu machen",
+        "Alle Waren zu verschenken",
+        "Gewinn zu erwirtschaften",
+        "Keine Steuern zu zahlen"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Konsument?",
+      "answers": [
+        "Jemand, der Produkte in einer Fabrik herstellt",
+        "Eine Person, die Waren oder Dienstleistungen kauft und nutzt",
+        "Ein Politiker",
+        "Der Chef einer großen Firma"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist der Unterschied zwischen Brutto- und Nettolohn?",
+      "answers": [
+        "Netto bekommt man bar, Brutto auf das Konto",
+        "Es gibt keinen Unterschied",
+        "Brutto ist das Gehalt nach dem Abzug aller Steuern",
+        "Netto ist das, was nach Abzug der Steuern und Abgaben ausgezahlt wird"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bestimmt in einer Marktwirtschaft am häufigsten den Preis?",
+      "answers": [
+        "Angebot und Nachfrage",
+        "Das Alter des Produkts",
+        "Der Bundeskanzler",
+        "Der Zufall"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was sind Steuern?",
+      "answers": [
+        "Spenden für gute Zwecke",
+        "Die Zinsen, die man von der Bank bekommt",
+        "Verpflichtende Zahlungen von Bürgern und Unternehmen an den Staat",
+        "Der Preis für eine Versicherung"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet Import?",
+      "answers": [
+        "Die Gründung einer neuen Firma",
+        "Das Einführen und Kaufen von Waren aus dem Ausland",
+        "Der Transport mit dem LKW innerhalb Deutschlands",
+        "Das Verkaufen von Waren ins Ausland"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Monopol?",
+      "answers": [
+        "Wenn viele Firmen exakt das Gleiche herstellen",
+        "Eine Messe für Unternehmen",
+        "Ein Brettspiel",
+        "Wenn es für ein bestimmtes Produkt nur einen einzigen Anbieter gibt"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist das Hauptziel von Marketing (z.B. Werbung)?",
+      "answers": [
+        "Die Steuern für das Unternehmen zu senken",
+        "Kunden davor zu warnen, zu viel Geld auszugeben",
+        "Produkte bekannter zu machen und Kunden zum Kauf zu bewegen",
+        "Mitarbeiter für die Firma zu finden"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Ab welchem Alter ist man in Deutschland in der Regel voll geschäftsfähig?",
+      "answers": [
+        "Ab 18 Jahren",
+        "Ab 21 Jahren",
+        "Ab 14 Jahren",
+        "Ab 16 Jahren"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was sind Zinsen?",
+      "answers": [
+        "Strafen für Falschparker",
+        "Der Preis dafür, dass man sich Geld leiht (oder Geld, das man für Erspartes bekommt)",
+        "Die Kosten für den Versand von Paketen",
+        "Der Lohn für einen Nebenjob"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was sind Schulden?",
+      "answers": [
+        "Das Geld, das auf dem Sparkonto liegt",
+        "Der Gewinn eines Unternehmens",
+        "Taschengeld, das man noch nicht ausgegeben hat",
+        "Geld, das man sich geliehen hat und das man zurückzahlen muss"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Subvention?",
+      "answers": [
+        "Der Mitgliedsbeitrag in einer Gewerkschaft",
+        "Ein anderes Wort für Korruption",
+        "Eine finanzielle Unterstützung vom Staat für bestimmte Unternehmen oder Branchen",
+        "Eine Strafe für umweltschädliche Firmen"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

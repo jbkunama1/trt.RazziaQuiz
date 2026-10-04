@@ -1,0 +1,228 @@
+{
+  "subject": "10 – Allgemein",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Welches Grundprinzip ist im Artikel 1 des deutschen Grundgesetzes ('Die Würde des Menschen ist unantastbar') verankert?",
+      "answers": [
+        "Die Gewaltenteilung",
+        "Der Schutz der Menschenwürde als oberster Verfassungswert",
+        "Das Recht auf freie Berufswahl",
+        "Die Unverletzlichkeit der Wohnung"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie heißt der Prozess, bei dem Pflanzen unter Ausnutzung von Sonnenlicht aus Wasser und CO2 Sauerstoff und Glukose erzeugen?",
+      "answers": [
+        "Atmung",
+        "Gärung",
+        "Fotosynthese",
+        "Osmose"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Organismus bzw. Bereich bildet die Basis jeder terrestrischen Nahrungskette?",
+      "answers": [
+        "Raubtiere",
+        "Pflanzen (Produzenten)",
+        "Aasfresser",
+        "Pilze"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Land hat flächenmäßig die größte Ausdehnung auf der Erde?",
+      "answers": [
+        "China",
+        "USA",
+        "Kanada",
+        "Russland"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wer war der Verfasser des Romans 'Die Verwandlung' und gilt als einer der einflussreichsten deutschsprachigen Autoren des 20. Jahrhunderts?",
+      "answers": [
+        "Franz Kafka",
+        "Friedrich Schiller",
+        "Johann Wolfgang von Goethe",
+        "Heinrich Heine"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt die 'Gewaltenteilung' in einem demokratischen Staat?",
+      "answers": [
+        "Die Trennung von Polizei und Militär",
+        "Die Aufteilung der Staatsgewalt in Legislative (Gesetzgebung), Exekutive (Ausführung) und Judikatur (Rechtsprechung)",
+        "Die Aufteilung des Landes in verschiedene Bundesländer",
+        "Die Trennung von Kirche und Staat"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Welche chemischen Elemente bilden zusammen das Hauptmolekül von Wasser (H2O)?",
+      "answers": [
+        "Helium und Sauerstoff",
+        "Wasserstoff und Sauerstoff",
+        "Stickstoff und Kohlenstoff",
+        "Natrium und Chlor"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "In welchem Jahr endete der Zweite Weltkrieg in Europa?",
+      "answers": [
+        "1939",
+        "1942",
+        "1945",
+        "1950"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Region in Deutschland wird als das 'Silicon Valley Europas' für Start-ups und IT oft bezeichnet?",
+      "answers": [
+        "Das Ruhrgebiet",
+        "Berlin und die Metropolregion München / Stuttgart",
+        "Die Küstenregion an der Ostsee",
+        "Der Schwarzwald"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist die Hauptstadt von Australien?",
+      "answers": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Brisbane"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Planet unseres Sonnensystems besitzt das größte Planetensystem aus Ringen?",
+      "answers": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptun"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter dem Begriff 'Demografie'?",
+      "answers": [
+        "Die Wissenschaft von der Zusammensetzung und Entwicklung der Bevölkerung (z.B. Alter, Geburtenrate)",
+        "Die Lehre von den Gesteinsschichten der Erde",
+        "Die Erforschung von Sternenbildern",
+        "Die Analyse von Staatsformen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches archäologische Zeitalter folgte direkt auf die Steinzeit?",
+      "answers": [
+        "Die Eisenzeit",
+        "Die Bronzezeit",
+        "Das Mittelalter",
+        "Die Industrialisierung"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welcher internationale Gerichtshof hat seinen Sitz in Den Haag (Niederlande) und verurteilt Kriegsverbrecher?",
+      "answers": [
+        "Der Internationale Gerichtshof (IGH) / Internationaler Strafgerichtshof (IStGH)",
+        "Die Europäische Zentralbank",
+        "Der UN-Sicherheitsrat",
+        "Der Europäische Gerichtshof für Menschenrechte"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Theorem der Mathematik besagt, dass in jedem rechtwinkligen Dreieck die Summe der Flächeninhalte der Kathetenquadrate gleich dem Flächeninhalt des Hypotenusenquadrats ist?",
+      "answers": [
+        "Der Satz des Thales",
+        "Der Satz von Pythagoras ($a^2 + b^2 = c^2$)",
+        "Die Binomischen Formeln",
+        "Der Sinussatz"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

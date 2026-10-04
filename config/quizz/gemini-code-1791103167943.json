@@ -1,0 +1,228 @@
+{
+  "subject": "6 – Sport",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Warum ist das Aufwärmen vor dem Sport so wichtig?",
+      "answers": [
+        "Damit der Lehrer Zeit hat, die Halle aufzubauen",
+        "Um schneller zu schwitzen",
+        "Es bereitet die Muskeln vor und schützt vor Verletzungen",
+        "Damit man nach dem Sport nicht duschen muss"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie viele Spieler pro Mannschaft stehen bei einem Fußballspiel regulär auf dem Feld?",
+      "answers": [
+        "11",
+        "9",
+        "13",
+        "7"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein 'Schrittfehler' im Basketball?",
+      "answers": [
+        "Wenn man rückwärts läuft",
+        "Wenn man mit dem Ball läuft, ohne ihn zu dribbeln (zu prellen)",
+        "Wenn man zu kleine Schritte macht",
+        "Wenn man beim Werfen hochspringt"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was passiert beim Völkerball, wenn man vom Ball direkt abgeworfen wird (und er danach den Boden berührt)?",
+      "answers": [
+        "Man bekommt einen Punkt",
+        "Man muss den Ball zurückwerfen",
+        "Man darf weiter im Feld bleiben",
+        "Man muss das Innenfeld verlassen (z.B. nach außen wechseln)"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie viele ineinander verschlungene Ringe hat das olympische Symbol?",
+      "answers": [
+        "4",
+        "7",
+        "5",
+        "3"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Disziplin gehört zur Leichtathletik?",
+      "answers": [
+        "Weitsprung",
+        "Bodenturnen",
+        "Handball",
+        "Kraulschwimmen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Welche der folgenden Techniken ist ein bekannter Schwimmstil?",
+      "answers": [
+        "Springen",
+        "Kraulen",
+        "Rennen",
+        "Dribbeln"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1530549387789-4c1017266635?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet 'Fairplay' im Sport?",
+      "answers": [
+        "Dass man immer gewinnen muss",
+        "Dass der Schiedsrichter immer schuld ist",
+        "Dass man bei Regen nicht spielt",
+        "Dass man Regeln einhält, fair spielt und den Gegner respektiert"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches dieser Geräte gehört zum klassischen Gerätturnen?",
+      "answers": [
+        "Fußball",
+        "Tischtennisschläger",
+        "Reck",
+        "Springseil"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Beim Handball gibt es einen bestimmten Bereich vor dem Tor, den Feldspieler nicht betreten dürfen. Wie heißt er?",
+      "answers": [
+        "Torraum (Kreis)",
+        "Strafraum",
+        "Mittelfeld",
+        "Seitenlinie"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was für eine Art von Spiel ist 'Street Racket'?",
+      "answers": [
+        "Ein Brettspiel",
+        "Ein Rückschlagspiel, bei dem man den Ball mit Schlägern über eine Linie in Felder schlägt",
+        "Ein Laufspiel ohne Ball",
+        "Ein Videospiel auf der Konsole"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1622279457486-62dcc4a631d6?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Bewegung ist wichtig beim Weitsprung?",
+      "answers": [
+        "Ball werfen",
+        "Rückwärts laufen",
+        "Auf dem Kopf stehen",
+        "Schneller Anlauf und kräftiger Absprung mit einem Fuß"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was trainiert man beim Ausdauerlauf (z.B. beim 15-Minuten-Lauf)?",
+      "answers": [
+        "Die Fähigkeit, sehr schwer zu heben",
+        "Die Schnelligkeit auf kurzen Strecken",
+        "Das Herz-Kreislauf-System und langes Durchhalten",
+        "Die Beweglichkeit der Hände"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie nennt man beim Tischtennis den Beginn eines Ballwechsels?",
+      "answers": [
+        "Aufschlag",
+        "Abpfiff",
+        "Dunking",
+        "Elfmeter"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Sportbegriff passt am besten zu Musik, Takt und Choreografie?",
+      "answers": [
+        "Ringen",
+        "Gymnastik/Tanz",
+        "Kugelstoßen",
+        "Gewichtheben"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

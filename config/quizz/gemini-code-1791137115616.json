@@ -1,0 +1,228 @@
+{
+  "subject": "8 – Sport",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Welche körperliche Eigenschaft wird vor allem durch einen 12-Minuten-Dauerlauf (Cooper-Test) überprüft?",
+      "answers": [
+        "Die Maximalkraft",
+        "Die aerobe Ausdauer (Herz-Kreislauf-System)",
+        "Die Sprungkraft",
+        "Die Koordination"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie viele Spieler einer Mannschaft stehen beim Handball gleichzeitig auf dem Spielfeld (inklusive Torwart)?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "11"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Muskelgruppe wird beim Basketball-Dribbling oder beim Kugelstoßen primär benötigt?",
+      "answers": [
+        "Die Wadenmuskulatur",
+        "Die Bauchmuskeln",
+        "Die Oberschenkelmuskulatur",
+        "Die Arm- und Schultermuskulatur"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter 'Fairplay' im Sportunterricht?",
+      "answers": [
+        "Regeltreue, Respekt vor dem Gegner, Ehrlichkeit und partnerschaftliches Verhalten",
+        "Dass man das Spiel bei leichtem Regen sofort abbricht",
+        "Dass die stärkere Mannschaft gewinnt",
+        "Dass man den Schiedsrichter ignoriert"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Sprungtechnik wird im modernen Hochsprung fast ausschließlich angewendet?",
+      "answers": [
+        "Der Straddle-Sprung",
+        "Der Fosbury-Flop",
+        "Der Schersprung",
+        "Der Wälzsprung"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Warum ist das Abkühlen (Cool-down) nach einer intensiven Sporteinheit sinnvoll?",
+      "answers": [
+        "Damit die Sportschuhe trocknen",
+        "Um den Puls langsam herunterzuregeln und Muskelkater durch den Abtransport von Stoffwechselprodukten vorzubeugen",
+        "Damit man schneller schwitzt",
+        "Weil es vom Lehrplan vorgeschrieben ist"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Wie viele Sätze muss man beim Volleyball gewinnen, um ein reguläres Spiel für sich zu entscheiden (Best-of-Five)?",
+      "answers": [
+        "2 Sätze",
+        "3 Sätze",
+        "4 Sätze",
+        "5 Sätze"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1593789196726-258079e0a05a?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Energiebereitstellung dominiert bei einem explosiven 100-Meter-Sprint?",
+      "answers": [
+        "Die anaerobe Energiegewinnung (ohne Sauerstoff, sehr schnell)",
+        "Die aerobe Energiegewinnung mit viel Sauerstoff",
+        "Die Fettverbrennung",
+        "Die Verdauung von Kohlenhydraten"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist bei der Ausführung einer Rolle vorwärts am Boden (Gerätturnen) besonders wichtig für die Wirbelsäule?",
+      "answers": [
+        "Dass man mit gestreckten Beinen landet",
+        "Dass man ein Hohlkreuz macht",
+        "Dass der Rücken rund gemacht und das Kinn auf die Brust gezogen wird",
+        "Dass man sich mit den Händen nicht abstützt"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welcher Begriff beschreibt die Fähigkeit, den Körper in eine bestimmte Richtung zu beschleunigen (Schnelligkeit)?",
+      "answers": [
+        "Reaktionsfähigkeit",
+        "Kraftausdauer",
+        "Aktionsschnelligkeit / Sprintkraft",
+        "Gleichgewichtssinn"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie lang ist ein offizielles Basketballfeld von der Grundlinie zur Grundlinie (ca.)?",
+      "answers": [
+        "14 Meter",
+        "28 Meter",
+        "50 Meter",
+        "100 Meter"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter dem Begriff 'Puls' im Sport?",
+      "answers": [
+        "Die Anzahl der Herzschläge pro Minute",
+        "Die Atemfrequenz",
+        "Die Körpertemperatur",
+        "Den Blutdruck in den Beinen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Sportart kombiniert Langlaufen und Schießen?",
+      "answers": [
+        "Triathlon",
+        "Modernischer Fünfkampf",
+        "Biathlon",
+        "Zehnkampf"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Hilfsmittel wird im Schulsport beim Gerätturnen zur Sicherheit bei schwierigen Sprüngen genutzt?",
+      "answers": [
+        "Eine Weichbodenmatte",
+        "Ein Tischtennisschläger",
+        "Ein Springseil",
+        "Ein Maßband"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Eigenschaft beschreibt die 'Beweglichkeit' (Flexibilität) im Sport?",
+      "answers": [
+        "Die Fähigkeit, schwere Lasten zu heben",
+        "Die Gelenkigkeit des Körpers und die Dehnfähigkeit von Sehnen und Muskeln",
+        "Die Reaktionszeit bei einem Startsignal",
+        "Die Fähigkeit, den Atem lange anzuhalten"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

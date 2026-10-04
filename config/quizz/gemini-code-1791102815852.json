@@ -1,0 +1,293 @@
+{
+  "subject": "1_Technik_Trivia",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Welcher Werkstoff ist nachwachsend?",
+      "answers": [
+        "Plastik",
+        "Stahl",
+        "Holz",
+        "Aluminium"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet PWM (Pulsweitenmodulation) z.B. bei einem Arduino?",
+      "answers": [
+        "Ein Passwort-System",
+        "Eine Methode, um eine LED zu dimmen oder Motoren zu steuern",
+        "Ein Stromkabel für die Steckdose",
+        "Eine Art von WLAN-Verbindung"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "In welcher Einheit wird die elektrische Spannung gemessen?",
+      "answers": [
+        "Watt (W)",
+        "Ohm (Ω)",
+        "Ampere (A)",
+        "Volt (V)"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Mikrocontroller (z.B. Arduino Uno)?",
+      "answers": [
+        "Ein kleiner, programmierbarer Computer auf einem einzigen Chip",
+        "Ein großer Server für Webseiten",
+        "Ein besonders kleiner Motor",
+        "Ein Messgerät für Temperatur"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Antrieb nutzt elektrischen Strom?",
+      "answers": [
+        "Dampfmaschine",
+        "Windmühle",
+        "Elektromotor",
+        "Dieselmotor"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Aufgabe hat ein Ultraschallsensor (HC-SR04)?",
+      "answers": [
+        "Er spielt Musik ab",
+        "Er misst die Raumtemperatur",
+        "Er reagiert auf Helligkeit",
+        "Er misst Entfernungen, z.B. für eine Einparkhilfe"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was macht ein elektrischer Widerstand im Stromkreis?",
+      "answers": [
+        "Er erhöht die Spannung auf 230 Volt",
+        "Er verringert den Stromfluss und schützt Bauteile wie LEDs",
+        "Er schaltet das Gerät automatisch ab",
+        "Er speichert Strom wie eine Batterie"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Relais?",
+      "answers": [
+        "Ein Schalter, der durch Strom (elektromagnetisch) betätigt wird",
+        "Ein Speichermedium für Fotos",
+        "Eine besondere LED",
+        "Ein Werkzeug zum Schrauben"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wofür wird ein Getriebe genutzt?",
+      "answers": [
+        "Um WLAN-Signale zu verstärken",
+        "Um Strom zu erzeugen",
+        "Um Drehzahlen und Kräfte (z.B. von einem Motor) zu verändern",
+        "Um Flüssigkeiten zu pumpen"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet IoT (Internet of Things)?",
+      "answers": [
+        "Ein Kabelanschluss am Fernseher",
+        "Dass alltägliche Gegenstände mit dem Internet verbunden sind",
+        "Ein besonders schnelles WLAN",
+        "Ein neues Smartphone-Modell"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine LED?",
+      "answers": [
+        "Eine Kamera",
+        "Ein Akku",
+        "Ein Laserstrahl",
+        "Eine Leuchtdiode, die Strom in Licht umwandelt"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "In welcher Einheit wird die Stromstärke gemessen?",
+      "answers": [
+        "Ampere (A)",
+        "Watt (W)",
+        "Ohm (Ω)",
+        "Volt (V)"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein geschlossener Stromkreis?",
+      "answers": [
+        "Ein Kreis auf einem Bauplan",
+        "Ein Stromkabel, das in der Wand versteckt ist",
+        "Ein Weg, auf dem Strom vom Plus- zum Minuspol fließen kann",
+        "Eine Batterie in ihrer Verpackung"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wofür nutzt man ein Breadboard (Steckplatine)?",
+      "answers": [
+        "Um den Akku aufzuladen",
+        "Um elektronische Schaltungen schnell ohne Löten aufzubauen",
+        "Als Gehäuse für den Computer",
+        "Um Brot zu schneiden"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was passiert beim Löten?",
+      "answers": [
+        "Schrauben werden festgedreht",
+        "Teile werden mit einem Laser zusammengeschweißt",
+        "Kabel werden zusammengeklebt",
+        "Metallteile werden mit flüssigem, heißem Lötzinn dauerhaft verbunden"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein elektrischer Leiter?",
+      "answers": [
+        "Ein Plastikrohr",
+        "Ein Mensch, der ein Kraftwerk leitet",
+        "Ein Material, durch das Strom gut fließen kann, z.B. Kupfer",
+        "Ein Gummihandschuh"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein elektrischer Isolator?",
+      "answers": [
+        "Ein Material, das keinen Strom leitet, wie z.B. Gummi oder Plastik",
+        "Eine Batterie",
+        "Eine Glühbirne",
+        "Ein Draht aus Gold"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was unterscheidet einen Akkumulator (Akku) von einer normalen Batterie?",
+      "answers": [
+        "Ein Akku liefert keinen echten Strom",
+        "Einen Akku kann man wieder aufladen, eine normale Batterie nicht",
+        "Ein Akku ist immer aus Holz",
+        "Es gibt keinen Unterschied"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wofür steht 'DC' in der Elektrotechnik?",
+      "answers": [
+        "Data Center (Rechenzentrum)",
+        "Digital Cable (Digitales Kabel)",
+        "Double Charge (Doppelte Ladung)",
+        "Direct Current (Gleichstrom)"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was macht ein Transistor?",
+      "answers": [
+        "Er misst die Lautstärke",
+        "Er sendet Radiofrequenzen",
+        "Er kann elektrische Signale steuern, schalten oder verstärken",
+        "Er erzeugt Strom aus Sonne"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

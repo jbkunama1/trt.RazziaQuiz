@@ -1,0 +1,228 @@
+{
+  "subject": "8 – WBS",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was versteht man unter einem 'Kaufvertrag' im rechtlichen Sinne?",
+      "answers": [
+        "Einen Vertrag, den man nur online abschließen kann",
+        "Ein Dokument, das man unterschreiben muss, bevor man einen Supermarkt betritt",
+        "Eine Willenserklärung von zwei Parteien (Käufer und Verkäufer) über den Kauf einer Ware, zustande gekommen durch zwei übereinstimmende Willenserklärungen (Angebot und Annahme)",
+        "Einen Kassenbon"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Ab welchem Alter gilt man in Deutschland laut Bürgerlichem Gesetzbuch (BGB) als 'beschränkt geschäftsfähig'?",
+      "answers": [
+        "Ab 7 Jahren bis zum vollendeten 18. Lebensjahr",
+        "Ab 14 Jahren",
+        "Ab 18 Jahren",
+        "Ab 21 Jahren"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist der 'Taschengeldparagraf' (§ 110 BGB)?",
+      "answers": [
+        "Er besagt, dass Eltern immer das Taschengeld verdoppeln müssen",
+        "Er erlaubt Minderjährigen, einen Kaufvertrag mit Mitteln (Geld) zu bewirken, die ihnen zur freien Verfügung von den Eltern überlassen wurden",
+        "Er verbietet Jugendlichen das Arbeiten",
+        "Er regelt, wie viel Geld man sparen muss"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet es, wenn ein Unternehmen 'Insolvenz' anmelden muss?",
+      "answers": [
+        "Das Unternehmen hat zu viel Gewinn gemacht",
+        "Das Unternehmen ist zahlungsunfähig und kann seine Rechnungen nicht mehr bezahlen",
+        "Das Unternehmen zieht in ein anderes Land um",
+        "Das Unternehmen stellt nur noch neue Mitarbeiter ein"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Funktion hat die Zentralbank (z. B. die Europäische Zentralbank - EZB)?",
+      "answers": [
+        "Sie vergibt Kredite an Schüler",
+        "Sie leitet die Schulen in Europa",
+        "Sie reguliert die Geldmenge, sorgt für Preisstabilität und steuert die Zinsen",
+        "Sie verkauft Aktien an Privatpersonen"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist der Unterschied zwischen Fixkosten und variablen Kosten in einem Haushaltsbudget?",
+      "answers": [
+        "Fixkosten bleiben jeden Monat gleich (z. B. Miete), variable Kosten verändern sich je nach Verbrauch (z. B. Strom, Lebensmittel)",
+        "Fixkosten sind Kosten für das Handy, variable Kosten für die Schule",
+        "Es gibt keinen Unterschied",
+        "Fixkosten zahlt der Staat, variable Kosten zahlt man selbst"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter 'Marketing' in der Wirtschaft?",
+      "answers": [
+        "Den Transport von Waren mit dem Schiff",
+        "Alle Maßnahmen eines Unternehmens zur Marktforschung, Werbung und Kundengewinnung",
+        "Die Steuererklärung einer Firma",
+        "Den Einkauf von Rohstoffen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Zahlungsart bedeutet, dass das Geld sofort beziehungsweise direkt vom Konto abgebucht wird?",
+      "answers": [
+        "Rechnung (Zahlung nach 30 Tagen)",
+        "Ratenzahlung",
+        "EC-Karte / Girocard (Debitkarte)",
+        "Sparbuch"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Aktie?",
+      "answers": [
+        "Ein festverzinsliches Sparkonto",
+        "Ein staatliches Darlehen",
+        "Ein Mietvertrag für eine Wohnung",
+        "Ein Wertpapier, das einen Miteigentumsanteil an einer Aktiengesellschaft verbrieft"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet der Begriff 'Globalisierung'?",
+      "answers": [
+        "Die weltweite Vernetzung und Verflechtung in Wirtschaft, Kultur, Politik und Kommunikation",
+        "Die Erderwärmung durch den Klimawandel",
+        "Wenn alle Länder dieselbe Sprache sprechen",
+        "Ein weltweiter Urlaub"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Institution in Deutschland zieht die Lohn- und Einkommensteuer von den Bürgern ein?",
+      "answers": [
+        "Die Polizei",
+        "Das Finanzamt",
+        "Die Sparkasse",
+        "Das Arbeitsamt"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter dem gesetzlichen Widerrufsrecht beim Online-Kauf?",
+      "answers": [
+        "Man kann bestellte Ware innerhalb einer bestimmten Frist (meist 14 Tage) ohne Angabe von Gründen zurückgeben",
+        "Man darf die Ware niemals umtauschen",
+        "Man muss dem Verkäufer einen Grund per Brief nennen",
+        "Man bekommt das Geld nur als Gutschein zurück"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist der Unterschied zwischen Gewährleistung und Garantie?",
+      "answers": [
+        "Es ist genau dasselbe",
+        "Die Gewährleistung ist gesetzlich vorgeschrieben (2 Jahre für Mängel beim Kauf), während eine Garantie eine freiwillige Zusatzleistung des Herstellers ist",
+        "Die Garantie ist gesetzlich, die Gewährleistung freiwillig",
+        "Garantie gilt nur für Kleidung, Gewährleistung nur für Technik"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist das Bruttoinlandsprodukt (BIP)?",
+      "answers": [
+        "Die Summe aller im Laufe eines Jahres in einem Land hergestellten Waren und Dienstleistungen",
+        "Das Gesamtvermögen aller Bürger",
+        "Die Menge an Müll, die ein Land produziert",
+        "Der Durchschnittslohn aller Arbeiter"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum ist es wichtig, frühzeitig mit dem Sparen und Vorsorgen (z.B. für die Rente) zu beginnen?",
+      "answers": [
+        "Weil das Geld auf dem Konto sonst schlecht wird",
+        "Wegen des Zinseszinseffekts und um finanzielle Absicherung im Alter zu haben",
+        "Weil man sonst keine Ausbildung bekommt",
+        "Weil der Staat das vorschreibt"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

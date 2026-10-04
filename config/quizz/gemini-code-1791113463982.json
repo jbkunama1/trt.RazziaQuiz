@@ -1,0 +1,228 @@
+{
+  "subject": "8 – Informatik",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was ist das Binärsystem?",
+      "answers": [
+        "Ein Programm zur Textverarbeitung",
+        "Ein Zahlensystem, das nur die Ziffern 0 und 1 verwendet",
+        "Eine geheime Programmiersprache",
+        "Die Verbindung zwischen zwei Monitoren"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie viele Bit ergeben ein Byte?",
+      "answers": [
+        "100",
+        "16",
+        "8",
+        "4"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter einem Algorithmus?",
+      "answers": [
+        "Eine exakte, schrittweise Handlungsvorschrift zur Lösung eines Problems",
+        "Ein Bauteil auf der Grafikkarte",
+        "Einen bestimmten Computervirus",
+        "Das Hochfahren des Betriebssystems"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bewirkt eine 'Bedingung' (IF... THEN...) beim Programmieren?",
+      "answers": [
+        "Das Programm wird sofort beendet",
+        "Der Code wird nur ausgeführt, wenn eine bestimmte Voraussetzung erfüllt ist",
+        "Das Programm wird gelöscht",
+        "Ein Bild wird gedreht"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wofür steht die Abkürzung 'HTML'?",
+      "answers": [
+        "HyperText Markup Language (Struktursprache für Webseiten)",
+        "High Technology Machine Learning",
+        "Home Text Media Language",
+        "Hyper Transfer Memory Loop"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist die Hauptaufgabe eines Routers?",
+      "answers": [
+        "Er druckt Dokumente aus",
+        "Er verbindet verschiedene Netzwerke miteinander (z. B. das Heimnetz mit dem Internet)",
+        "Er kühlt den Computer",
+        "Er spielt Musik ab"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Was ist der Unterschied zwischen RAM (Arbeitsspeicher) und einer Festplatte (SSD/HDD)?",
+      "answers": [
+        "Es gibt keinen Unterschied",
+        "RAM speichert dauerhaft, die Festplatte löscht alles",
+        "RAM ist ein flüchtiger, schneller Kurzzeitspeicher für laufende Programme, die Festplatte speichert dauerhaft",
+        "Die Festplatte ist für den Ton zuständig, der RAM für das Bild"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1544390503-455b5d1a5563?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein 'Pixel'?",
+      "answers": [
+        "Ein Ordner auf dem Desktop",
+        "Ein Computervirus",
+        "Ein Werkzeug in Word",
+        "Der kleinste darstellbare Bildpunkt auf einem digitalen Display"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet 'Open Source'?",
+      "answers": [
+        "Software, deren Quellcode öffentlich zugänglich ist und oft frei verändert werden darf",
+        "Ein offenes Computergehäuse",
+        "Ein WLAN-Netz ohne Passwort",
+        "Ein Programm, das sich automatisch öffnet"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine Schleife (Loop) beim Programmieren?",
+      "answers": [
+        "Ein Knoten im Stromkabel",
+        "Eine Anweisung, bei der ein bestimmter Code-Block mehrfach wiederholt wird",
+        "Das Aufhängen des Computers",
+        "Ein Grafikfehler im Spiel"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Aufgabe hat das Mainboard (Motherboard) im PC?",
+      "answers": [
+        "Es ist die zentrale Platine, auf der alle Bauteile stecken und miteinander verbunden sind",
+        "Es erzeugt den Strom",
+        "Es speichert alle Bilder",
+        "Es ist der Monitor"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1593789196726-258079e0a05a?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wofür nutzt man das Prinzip der Verschlüsselung (Kryptografie)?",
+      "answers": [
+        "Um den Computer an den Tisch zu ketten",
+        "Um Nachrichten so umzuwandeln, dass Dritte sie nicht lesen können",
+        "Um Bilder schneller zu laden",
+        "Um Viren zu programmieren"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter 'Cloud Computing'?",
+      "answers": [
+        "Das Nutzen von IT-Diensten, Speicherplatz oder Software über das Internet, statt lokal auf dem eigenen PC",
+        "Das Berechnen des Wetters",
+        "Eine App für Flugzeuge",
+        "Ein Netzwerk, das nur bei Regen funktioniert"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welcher dieser Speichergrößen ist mathematisch am größten?",
+      "answers": [
+        "Kilobyte (KB)",
+        "Gigabyte (GB)",
+        "Terabyte (TB)",
+        "Megabyte (MB)"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt eine IP-Adresse?",
+      "answers": [
+        "Die physikalische, eindeutige Adresse zur Adressierung von Geräten in einem Netzwerk (wie dem Internet)",
+        "Die E-Mail-Adresse des Programmierers",
+        "Das Passwort für den Router",
+        "Eine Adresse im Navigationssystem"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

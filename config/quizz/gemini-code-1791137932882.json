@@ -1,0 +1,228 @@
+{
+  "subject": "10 – Technik",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Welches physikalische Gesetz bildet die Grundlage für die Funktion eines Hydrauliksystems?",
+      "answers": [
+        "Das Gesetz von Archimedes",
+        "Das Pascalschen Gesetz (Druckausbreitung in geschlossenen Flüssigkeiten)",
+        "Das Ohmsche Gesetz",
+        "Die Newtonschen Axiome"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter dem Begriff 'Mikrocontroller' in der Automatisierungstechnik?",
+      "answers": [
+        "Einen großen Zentralrechner im Rechenzentrum",
+        "Einen winzigen Computer auf einem einzigen Chip, der Steuerungs- und Regelungsaufgaben in Geräten übernimmt",
+        "Ein mechanisches Getriebe für Uhren",
+        "Einen Sensor zur Messung von Spannungen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Werkstoffe gehören zur Gruppe der 'Duroplaste'?",
+      "answers": [
+        "Metalle, die sich leicht biegen lassen",
+        "Kunststoffe, die nach ihrer Aushärtung durch Hitze nicht mehr durch erneutes Erwärmen verformt werden können",
+        "Weiche Gummimaterialien",
+        "Thermisch verformbare Verpackungsfolien"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie funktioniert ein Reed-Kontakt (Magnetschalter)?",
+      "answers": [
+        "Er reagiert auf Temperaturveränderungen",
+        "Er wird durch ein äußeres Magnetfeld berührungslos geschaltet",
+        "Er misst die Feuchtigkeit in der Luft",
+        "Er schaltet sich bei Erschütterung ein"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt der Begriff 'Kinematik' in der Technischen Mechanik?",
+      "answers": [
+        "Die Lehre von den Bewegungen von Körpern unabhängig von den ursächlichen Kräften (Wege, Geschwindigkeiten, Beschleunigungen)",
+        "Die Berechnung von Kräften im Gleichgewicht",
+        "Die Materialprüfung auf Festigkeit",
+        "Die Umwandlung von elektrischer Energie"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Bauteil wandelt elektrische Energie in mechanische Drehbewegung um?",
+      "answers": [
+        "Ein Generator",
+        "Ein Transformator",
+        "Ein Elektromotor",
+        "Ein Widerstand"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Was ist der Unterschied zwischen einer Reihenschaltung und einer Parallelschaltung von Spannungsquellen (z.B. Batterien)?",
+      "answers": [
+        "Reihenschaltung erhöht die Spannung, Parallelschaltung erhöht die Kapazität/Stromlieferfähigkeit bei gleicher Spannung",
+        "Parallelschaltung verdoppelt immer die Spannung",
+        "Es gibt keinen messbaren technischen Unterschied",
+        "Reihenschaltung ist nur für Solaranlagen erlaubt"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet das CAD-Verfahren in der technischen Entwicklung?",
+      "answers": [
+        "Computer Aided Design (Rechnerunterstütztes Konstruieren)",
+        "Computer Aided Drilling (Automatisiertes Bohren)",
+        "Control And Diagnosis",
+        "Calculated Automatic Drawing"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Eigenschaft hat ein Thermoelement?",
+      "answers": [
+        "Es erzeugt aus einer Temperaturdifferenz eine kleine elektrische Spannung und dient als Temperatursensor",
+        "Es schützt Stromkreise vor Überhitzung",
+        "Es kühlt elektronische Bauteile aktiv herunter",
+        "Es wandelt Licht direkt in Wärme um"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist das Prinzip eines 3D-Druckers (FDM-Verfahren)?",
+      "answers": [
+        "Ein Werkstück wird aus einem großen Metallblock herausgefräst",
+        "Thermoplastischer Kunststoffdraht (Filament) wird aufgeschmolzen und schichtweise aufgetragen, um ein dreidimensionales Objekt zu erzeugen",
+        "Flüssiges Metall wird in Sandformen gegossen",
+        "Papier wird mit Laser ausgeschnitten und verklebt"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Aufgabe erfüllt ein Relais in einer elektrischen Steuerung?",
+      "answers": [
+        "Es dient als mechanisches Lager",
+        "Es ermöglicht das Schalten eines großen Stromkreises durch einen schwachen Steuerstrom (galvanische Trennung)",
+        "Es misst die Stromstärke sehr präzise",
+        "Es wandelt Wechselstrom in Gleichstrom um"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter dem Wirkungsgrad einer Maschine?",
+      "answers": [
+        "Die maximale Betriebsdauer ohne Wartung",
+        "Das Verhältnis von nutzbarer Ausgangsleistung zu zugeführter Leistung",
+        "Die Geschwindigkeit der Bauteile",
+        "Das Gesamtgewicht der Konstruktion"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Funktion hat eine Schmelzsicherung in einem Elektrogerät?",
+      "answers": [
+        "Sie erhöht den Stromfluss bei Bedarf",
+        "Sie trennt bei Überlastung oder Kurzschluss den Stromkreis durch Durchschmelzen des Drahtes, um Brände und Schäden zu verhindern",
+        "Sie speichert überschüssige Energie",
+        "Sie wandelt Strom in Licht um"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Verfahren zählt zu den 'Fügen'-Fertigungsverfahren?",
+      "answers": [
+        "Sägen",
+        "Bohren",
+        "Schweißen (oder Kleben/Löten)",
+        "Feilen"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt der Begriff 'Industrie 4.0'?",
+      "answers": [
+        "Die Erfindung der Dampfmaschine im 18. Jahrhundert",
+        "Die vierte industrielle Revolution, geprägt durch die Digitalisierung, Automatisierung und Vernetzung von Produktion und Systemen (IoT)",
+        "Den vierten Weltkriegen der Technik",
+        "Die Einführung von Fließbändern bei Ford"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

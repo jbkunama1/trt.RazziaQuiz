@@ -1,0 +1,293 @@
+{
+  "subject": "Trivia_Quiz_1_Geografie_Und_Natur",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Welcher Kontinent ist der größte?",
+      "answers": [
+        "Europa",
+        "Australien",
+        "Asien",
+        "Afrika"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welcher Fluss ist der längste der Welt?",
+      "answers": [
+        "Amazonas",
+        "Nil",
+        "Donau",
+        "Mississippi"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Tier ist das größte Säugetier?",
+      "answers": [
+        "Elefant",
+        "Giraffe",
+        "Nashorn",
+        "Blauwal"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1568430462989-44163eb1752f?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welcher Planet ist der Sonne am nächsten?",
+      "answers": [
+        "Venus",
+        "Erde",
+        "Merkur",
+        "Mars"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie viele Ozeane gibt es?",
+      "answers": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Land hat die meisten Einwohner?",
+      "answers": [
+        "Indien",
+        "USA",
+        "Russland",
+        "China"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welcher Berg ist der höchste der Erde?",
+      "answers": [
+        "K2",
+        "Mount Everest",
+        "Kilimandscharo",
+        "Mont Blanc"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Tier kann fliegen?",
+      "answers": [
+        "Pinguin",
+        "Strauß",
+        "Fledermaus",
+        "Känguru"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1455243872421-26c71c48008a?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Element ist am häufigsten auf der Erde?",
+      "answers": [
+        "Stickstoff",
+        "Wasserstoff",
+        "Kohlenstoff",
+        "Sauerstoff"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Land ist flächenmäßig das größte?",
+      "answers": [
+        "Russland",
+        "China",
+        "USA",
+        "Kanada"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Vogel kann nicht fliegen?",
+      "answers": [
+        "Adler",
+        "Pinguin",
+        "Sperling",
+        "Eule"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Meer ist das salzhaltigste?",
+      "answers": [
+        "Mittelmeer",
+        "Nordsee",
+        "Totes Meer",
+        "Ostsee"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Planet hat Ringe?",
+      "answers": [
+        "Mars",
+        "Venus",
+        "Merkur",
+        "Saturn"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches ist der kleinste Kontinent?",
+      "answers": [
+        "Europa",
+        "Australien",
+        "Antarktis",
+        "Südamerika"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Tier ist ein Reptil?",
+      "answers": [
+        "Eidechse",
+        "Frosch",
+        "Wal",
+        "Adler"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Fluss fließt durch Ägypten?",
+      "answers": [
+        "Amazonas",
+        "Rhein",
+        "Nil",
+        "Donau"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Gas atmen Menschen hauptsächlich ein?",
+      "answers": [
+        "Sauerstoff",
+        "Kohlendioxid",
+        "Wasserstoff",
+        "Stickstoff"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches ist das schnellste Landtier?",
+      "answers": [
+        "Löwe",
+        "Gepard",
+        "Pferd",
+        "Antilope"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Ozean ist der größte?",
+      "answers": [
+        "Atlantik",
+        "Indischer Ozean",
+        "Pazifik",
+        "Arktischer Ozean"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Tier lebt in der Arktis?",
+      "answers": [
+        "Pinguin",
+        "Eisbär",
+        "Löwe",
+        "Känguru"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

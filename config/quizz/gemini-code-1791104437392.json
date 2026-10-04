@@ -1,0 +1,228 @@
+{
+  "subject": "6-8 – Sport Olympia",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Wo fanden die ersten Olympischen Spiele in der Antike statt?",
+      "answers": [
+        "Rom",
+        "Ägypten",
+        "Griechenland",
+        "China"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "In welchem Rhythmus finden die Olympischen Sommerspiele normalerweise statt?",
+      "answers": [
+        "Alle 2 Jahre",
+        "Alle 4 Jahre",
+        "Jedes Jahr",
+        "Alle 10 Jahre"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie viele ineinander verschlungene Ringe hat das olympische Symbol?",
+      "answers": [
+        "4",
+        "3",
+        "6",
+        "5"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1569517282132-25d22f4573e6?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was symbolisieren die olympischen Ringe?",
+      "answers": [
+        "Die 5 Kontinente der Erde, die im Sport vereint sind",
+        "Die 5 besten Sportler der Geschichte",
+        "Die 5 ältesten Sportarten",
+        "Die 5 Ozeane"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Medaille bekommt man, wenn man den zweiten Platz belegt?",
+      "answers": [
+        "Gold",
+        "Bronze",
+        "Silber",
+        "Kupfer"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was wird zur feierlichen Eröffnung der Spiele immer entzündet?",
+      "answers": [
+        "Ein großes Feuerwerk",
+        "Das olympische Feuer",
+        "Ein riesiger Ring",
+        "Eine Kerze"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Welcher Vogel gilt als Symbol des Friedens und wird manchmal bei der Eröffnung gezeigt?",
+      "answers": [
+        "Ein Adler",
+        "Eine Eule",
+        "Ein Schwan",
+        "Eine weiße Taube"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1524317180425-4c07b667ee89?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "In welcher europäischen Hauptstadt fanden die Olympischen Sommerspiele 2024 statt?",
+      "answers": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Madrid"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche dieser Sportarten gehört zu den Olympischen Winterspielen?",
+      "answers": [
+        "Wasserspringen",
+        "Radsport",
+        "Biathlon (Skilanglauf & Schießen)",
+        "Leichtathletik"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was sind die 'Paralympischen Spiele'?",
+      "answers": [
+        "Spiele nur für Kinder",
+        "Olympische Spiele für Sportlerinnen und Sportler mit einer Behinderung",
+        "Ein Testlauf vor den echten Spielen",
+        "Spiele für Sportler, die im Ruhestand sind"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie heißt der traditionelle Lauf über 42,195 Kilometer in der Leichtathletik?",
+      "answers": [
+        "Hürdenlauf",
+        "Sprint",
+        "Staffellauf",
+        "Marathon"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1512413911617-e4359db5a1e7?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Farbe hat KEIN olympischer Ring?",
+      "answers": [
+        "Braun",
+        "Blau",
+        "Schwarz",
+        "Gelb"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Zu wessen Ehren fanden die antiken Olympischen Spiele statt?",
+      "answers": [
+        "Dem König",
+        "Den Soldaten",
+        "Dem griechischen Gott Zeus",
+        "Dem Erfinder des Rades"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bekamen die Sieger in der Antike als Preis (anstelle von Medaillen)?",
+      "answers": [
+        "Viel Geld",
+        "Einen Olivenkranz auf den Kopf",
+        "Ein eigenes Haus",
+        "Ein Schwert"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie lautet das berühmte olympische Motto (auf Deutsch)?",
+      "answers": [
+        "Immer gewinnen, niemals aufgeben",
+        "Mitmachen ist wichtiger als siegen",
+        "Zusammen sind wir unbesiegbar",
+        "Schneller, höher, stärker"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "subject": "10 – Informatik",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was ist der Unterschied zwischen einem symmetrischen und einem asymmetrischen Verschlüsselungsverfahren?",
+      "answers": [
+        "Symmetrisch nutzt denselben Schlüssel für Ver- und Entschlüsselung; asymmetrisch nutzt ein Schlüsselpaar (öffentlich und privat)",
+        "Symmetrisch ist immer unsicher, asymmetrisch gibt es nicht",
+        "Asymmetrisch funktioniert nur ohne Strom",
+        "Symmetrisch wird nur für Passwörter genutzt"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter objektorientierter Programmierung (OOP)?",
+      "answers": [
+        "Ein Programmierstil, bei dem Daten und die darauf operierenden Funktionen in Objekten (Instanzen von Klassen) zusammengefasst werden",
+        "Das Programmieren von reinen Textdateien",
+        "Das Steuern von Bildschirmen mit der Maus",
+        "Eine Sprache, die nur für Datenbanken verwendet wird"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Aufgabe hat das OSI-Schichtenmodell in der Netzwerktechnik?",
+      "answers": [
+        "Es beschreibt den physischen Bau von Computermäusen",
+        "Es teilt die Datenkommunikation in sieben logische Schichten ein, um die Kompatibilität zwischen verschiedenen Systemen zu standardisieren",
+        "Es ist ein Programm zur Fehlersuche im RAM",
+        "Es regelt die Geschwindigkeit von Festplatten"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine 'rekursive Funktion' in der Informatik?",
+      "answers": [
+        "Eine Funktion, die sich im Laufe ihrer Ausführung selbst aufruft",
+        "Eine Schleife, die unendlich läuft",
+        "Ein Programm, das sich selbst löscht",
+        "Eine Funktion ohne Rückgabewert"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt die O-Notation (Landau-Notation) in der Informatik?",
+      "answers": [
+        "Die grafische Auflösung von Bildschirmen",
+        "Die theoretische Analyse der Laufzeit- oder Speicherkomplexität eines Algorithmus in Abhängigkeit von der Eingabegröße",
+        "Die maximale Übertragungsrate von Netzwerkkabeln",
+        "Den Stromverbrauch eines Prozessors"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Datenstruktur arbeitet nach dem FIFO-Prinzip (First In, First Out)?",
+      "answers": [
+        "Ein Stapel (Stack)",
+        "Eine Warteschlange (Queue)",
+        "Ein binärer Baum",
+        "Eine Hash-Tabelle"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine relationale Datenbank (z.B. SQL)?",
+      "answers": [
+        "Eine Sammlung von Textdateien auf dem Desktop",
+        "Ein System zur Speicherung von Daten in tabellarischer Form, bei dem Tabellen über Schlüssel miteinander verknüpft sind",
+        "Ein Chatprogramm für Entwickler",
+        "Ein reiner Bilderspeicher"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein 'Deadlock' (Verklemmung) in Mehrprozessorsystemen?",
+      "answers": [
+        "Ein kompletter Hardwaredefekt des Prozessors",
+        "Ein Zustand, bei dem zwei oder mehr Prozesse blockiert sind, weil jeder auf eine Ressource wartet, die der andere hält",
+        "Ein Netzwerk ohne Internetverbindung",
+        "Ein gelöschtes Betriebssystem"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wofür steht die Abkürzung 'SQL'?",
+      "answers": [
+        "Simple Query Language",
+        "Structured Query Language (Standardsprache für Datenbanken)",
+        "System Quality Link",
+        "Secure Quick Login"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter 'Machine Learning' (Maschinellem Lernen) als Teilbereich der KI?",
+      "answers": [
+        "Dass Computer ohne Strom lernen können",
+        "Systeme, die anhand von Daten und Algorithmen Muster erkennen und sich selbstständig verbessern, statt starr programmiert zu sein",
+        "Das automatische Reparieren von defekten Festplatten",
+        "Das Schreiben von Programmen durch Roboterarme"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Aufgabe hat das Transportprotokoll TCP in Netzwerken?",
+      "answers": [
+        "Es sorgt für eine zuverlässige, geordnete und fehlerüberprüfte Übertragung von Datenpaketen zwischen Endgeräten",
+        "Es verschlüsselt Passwörter beim Login",
+        "Es misst die Kabellänge im Netzwerk",
+        "Es wandelt Webseiten-Namen in IP-Adressen um"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist der Unterschied zwischen einem Client und einem Server?",
+      "answers": [
+        "Der Client fordert Dienste an (z. B. Webbrowser), der Server stellt diese bereit und beantwortet Anfragen",
+        "Der Server ist immer kleiner als der Client",
+        "Es gibt keinen Unterschied, das sind Synonyme",
+        "Der Client verarbeitet nur Bilder, der Server nur Text"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein 'Syntaxfehler' beim Programmieren?",
+      "answers": [
+        "Ein logischer Fehler im Ablauf des Spiels",
+        "Ein Verstoß gegen die Grammatik- und Schreibregeln der Programmiersprache, den der Compiler sofort erkennt",
+        "Ein Fehler in der Hardware des PCs",
+        "Ein schlechtes Design der Benutzeroberfläche"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet 'Open Source' im Kontext von Softwareentwicklung?",
+      "answers": [
+        "Die Software darf nur im geschlossenen Firmennetzwerk laufen",
+        "Der Quellcode ist öffentlich einsehbar und darf von der Community meist frei genutzt, verändert und weitergegeben werden",
+        "Das Programm hat kein Passwort",
+        "Man muss für die Nutzung monatlich bezahlen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches logische Gatter invertiert das Eingangssignal (aus 0 wird 1 und aus 1 wird 0)?",
+      "answers": [
+        "AND-Gatter",
+        "OR-Gatter",
+        "NOT-Gatter (Inverter)",
+        "XOR-Gatter"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

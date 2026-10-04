@@ -1,0 +1,228 @@
+{
+  "subject": "7 – Medienbildung",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was ist ein 'Digitaler Fußabdruck'?",
+      "answers": [
+        "Ein Scanner für Fingerabdrücke am Handy",
+        "Schmutz auf dem Bildschirm",
+        "Alle Spuren und persönlichen Daten, die wir im Internet hinterlassen",
+        "Die Schuhgröße im Online-Shop"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Warum zeigen dir Apps wie TikTok oder Instagram immer wieder Videos an, die genau deinen Geschmack treffen?",
+      "answers": [
+        "Weil zufällig nur solche Videos gemacht werden",
+        "Ein Algorithmus analysiert dein Verhalten, um dich möglichst lange in der App zu halten",
+        "Weil Mitarbeiter dir persönlich Videos schicken",
+        "Das ist reiner Zufall"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet 'Phishing'?",
+      "answers": [
+        "Eine App zum Fische angeln",
+        "Wenn man das Handy ins Wasser fallen lässt",
+        "Bilder mit Filtern bearbeiten",
+        "Betrüger versuchen durch falsche Nachrichten (z.B. Fake-E-Mails), an Passwörter zu kommen"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Darfst du ein cooles Bild aus der Google-Bildersuche einfach so auf deiner eigenen Website posten?",
+      "answers": [
+        "Nein, die meisten Bilder sind urheberrechtlich geschützt",
+        "Ja, alles bei Google ist kostenlos",
+        "Ja, solange ich es kleiner mache",
+        "Ja, wenn ich es schwarz-weiß mache"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter 'Cyber-Grooming'?",
+      "answers": [
+        "Hunde übers Internet kaufen",
+        "Den Computer putzen",
+        "Wenn Erwachsene sich im Netz fälschlicherweise als Jugendliche ausgeben, um Kontakt anzubahnen",
+        "Eine Beauty-App"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist eine 'Filterblase' (Echo Chamber)?",
+      "answers": [
+        "Eine kaputte Kamera-Linse",
+        "Wenn Algorithmen uns im Netz nur noch das zeigen, was unserer eigenen Meinung entspricht",
+        "Eine Blase auf dem Bildschirm",
+        "Ein Chatfilter für Schimpfwörter"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Wie erkennt man 'Fake News' (Falschmeldungen) oft?",
+      "answers": [
+        "Sie laufen abends im echten Fernsehen",
+        "Sie stehen in Schulbüchern",
+        "Sie haben keine Bilder",
+        "An extrem reißerischen Überschriften, fehlenden Quellenangaben und viel Emotion"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bedeuten Lizenzen wie 'CC' (Creative Commons) bei Bildern im Internet?",
+      "answers": [
+        "Lizenzen, die genau regeln, unter welchen Bedingungen man ein Bild legal und oft kostenlos nutzen darf",
+        "Dass das Bild kaputt ist",
+        "Das Bild kostet immer 10 Euro",
+        "Das Bild ist nur für Kinder"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum sollte man bei 'Leite das an 10 Freunde weiter, sonst...'-Nachrichten auf WhatsApp vorsichtig sein?",
+      "answers": [
+        "Weil WhatsApp sonst den Account löscht",
+        "Weil der Lehrer mitliest",
+        "Es sind Kettenbriefe, die absichtlich Druck ausüben und nur nerven",
+        "Weil das Internet voll ist"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was bewirkt die Zwei-Faktor-Authentifizierung (2FA)?",
+      "answers": [
+        "Man muss zwei Profile erstellen",
+        "Es ist ein zusätzlicher Schutz beim Einloggen (z.B. ein SMS-Code extra zum Passwort)",
+        "Man zahlt doppelt",
+        "Man kann das Handy mit zwei Fingern bedienen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bezeichnet man als 'Spam'?",
+      "answers": [
+        "Eine wichtige App",
+        "Das WLAN-Passwort",
+        "Ein langes Video",
+        "Massenhaft verschickte, meist unerwünschte Werbe-Nachrichten oder E-Mails"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1563986768494-4dee2763ff0f?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie reagierst du richtig, wenn dich jemand im Netz oder im Klassen-Chat massiv bedroht oder beleidigt?",
+      "answers": [
+        "Screenshots als Beweis machen, den Kontakt blockieren und einem Erwachsenen Bescheid sagen",
+        "Zurück beleidigen",
+        "Das Handy wegwerfen",
+        "Ihm Geld überweisen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Darfst du ungefragt ein peinliches Foto von einem Mitschüler in einer WhatsApp-Gruppe teilen?",
+      "answers": [
+        "Ja, wenn die Gruppe klein ist",
+        "Ja, es ist ja lustig",
+        "Nein, das verletzt sein 'Recht am eigenen Bild' und kann Cybermobbing sein",
+        "Ja, solange ich nicht auf dem Bild bin"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein 'Troll' im Internet?",
+      "answers": [
+        "Ein Virus",
+        "Jemand, der absichtlich mit fiesen Kommentaren provoziert, um Streit anzuzetteln",
+        "Ein Experte für Computer",
+        "Ein lustiges Video"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet es, wenn ein Profil (z.B. auf Instagram) verifiziert ist (oft markiert mit einem blauen Haken)?",
+      "answers": [
+        "Das Netzwerk hat geprüft und bestätigt, dass der Account wirklich der echten Person/Marke gehört",
+        "Die Person bezahlt keine Steuern",
+        "Die Person ist ein Hacker",
+        "Das Profil wurde gelöscht"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

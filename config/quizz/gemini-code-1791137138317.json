@@ -1,0 +1,228 @@
+{
+  "subject": "8-10 – Vertretung",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Logik-Rätsel: Wenn ein Hahn ein Ei auf die Spitze eines Scheunendachs legt – auf welche Seite rollt es herunter?",
+      "answers": [
+        "Nach links",
+        "Nach rechts",
+        "Hähne legen keine Eier",
+        "Es bleibt genau auf der Spitze liegen"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Geografie: Welches Land hat die längste Küstenlinie der Welt?",
+      "answers": [
+        "Australien",
+        "Russland",
+        "Kanada",
+        "USA"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wissenschaft: Wie viele Herzen hat ein Oktopus (Tintenfisch)?",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Scherzfrage: Was wird weißer, je schmutziger es wird?",
+      "answers": [
+        "Eine Schneeflocke",
+        "Eine Tafel (Schultafel)",
+        "Ein weißes Hemd",
+        "Ein Blatt Papier"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Geschichte: Welches Weltwunder der Antike befand sich in Alexandria?",
+      "answers": [
+        "Die Pyramiden",
+        "Der Leuchtturm",
+        "Die hängenden Gärten",
+        "Die große Mauer"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Sprach-Rätsel: Welches Wort im Duden hat die meisten Bedeutungen?",
+      "answers": [
+        "Machen",
+        "Sein",
+        "Schlagen",
+        "Gehen"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Biologie: Welches Säugetier kann als einziges richtig fliegen?",
+      "answers": [
+        "Das Gleithörnchen",
+        "Die Fledermaus",
+        "Der Flughund",
+        "Es gibt kein fliegendes Säugetier"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1508873696983-2df5c920aac9?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Mathematik: Wie viel ist die Quadratwurzel aus 144?",
+      "answers": [
+        "10",
+        "11",
+        "12",
+        "14"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Popkultur: Aus welchem Film stammt das berühmte Zitat 'Möge die Macht mit dir sein'?",
+      "answers": [
+        "Harry Potter",
+        "Der Herr der Ringe",
+        "Star Wars (Krieg der Sterne)",
+        "Marvel's Avengers"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Astronomie: Welcher Planet in unserem Sonnensystem rotiert als einziger 'auf der Seite' (querdrehend)?",
+      "answers": [
+        "Mars",
+        "Uranus",
+        "Neptun",
+        "Saturn"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Technik-Geschichte: Wer gilt als Erfinder des modernen Buchdrucks mit beweglichen Lettern?",
+      "answers": [
+        "Johannes Gutenberg",
+        "Albert Einstein",
+        "Thomas Edison",
+        "Nikola Tesla"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Rätsel: Du hast drei Äpfel und nimmst zwei weg. Wie viele Äpfel hast du dann?",
+      "answers": [
+        "Einen",
+        "Drei",
+        "Zwei",
+        "Keinen"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Erdkunde: Auf welchem Kontinent liegt die Sahara-Wüste?",
+      "answers": [
+        "Asien",
+        "Südamerika",
+        "Afrika",
+        "Australien"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Physik: Welche Farbe absorbiert (schluckt) das gesamte sichtbare Sonnenlicht am stärksten?",
+      "answers": [
+        "Weiß",
+        "Gelb",
+        "Silber",
+        "Schwarz"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Schlussfrage: Wenn ein elektrischer Zug nach Norden fährt und der Wind stark von Osten bläst – in welche Richtung zieht dann der Rauch?",
+      "answers": [
+        "Nach Norden",
+        "Nach Süden",
+        "Nach Westen",
+        "Gar nicht, ein elektrischer Zug hat keinen Rauch!"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

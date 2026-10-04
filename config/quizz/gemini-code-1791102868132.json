@@ -1,0 +1,293 @@
+{
+  "subject": "Trivia_Quiz_5_Allgemeinwissen_Und_Mischfragen",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Was ist die Hauptstadt von Deutschland?",
+      "answers": [
+        "München",
+        "Hamburg",
+        "Berlin",
+        "Frankfurt"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie viele Bundesländer hat Deutschland?",
+      "answers": [
+        "14",
+        "16",
+        "12",
+        "18"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Farbe entsteht aus Blau und Gelb?",
+      "answers": [
+        "Rot",
+        "Lila",
+        "Orange",
+        "Grün"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Dutzend?",
+      "answers": [
+        "10",
+        "14",
+        "12",
+        "16"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Tier ist ein Säugetier?",
+      "answers": [
+        "Delfin",
+        "Forelle",
+        "Eidechse",
+        "Frosch"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie viele Minuten hat eine Stunde?",
+      "answers": [
+        "30",
+        "90",
+        "100",
+        "60"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches ist das größte Land der Welt?",
+      "answers": [
+        "China",
+        "Russland",
+        "USA",
+        "Kanada"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist die Währung in Deutschland?",
+      "answers": [
+        "Dollar",
+        "Pfund",
+        "Euro",
+        "Franken"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welcher Tag folgt auf Freitag?",
+      "answers": [
+        "Sonntag",
+        "Montag",
+        "Donnerstag",
+        "Samstag"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie viele Seiten hat ein Würfel?",
+      "answers": [
+        "6",
+        "4",
+        "8",
+        "12"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Organ ist für das Sehen zuständig?",
+      "answers": [
+        "Ohr",
+        "Auge",
+        "Nase",
+        "Zunge"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Herbivore?",
+      "answers": [
+        "Fleischfresser",
+        "Allesfresser",
+        "Pflanzenfresser",
+        "Insektenfresser"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches ist das kleinste Land der Welt?",
+      "answers": [
+        "Monaco",
+        "San Marino",
+        "Liechtenstein",
+        "Vatikanstadt"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1531572753322-ad063cecc140?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Wie viele Monate haben 31 Tage?",
+      "answers": [
+        "6",
+        "7",
+        "8",
+        "5"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Element ist flüssig bei Raumtemperatur?",
+      "answers": [
+        "Quecksilber",
+        "Eisen",
+        "Gold",
+        "Silber"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist die Hauptstadt von Frankreich?",
+      "answers": [
+        "Lyon",
+        "Marseille",
+        "Paris",
+        "Nizza"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welches Tier kann rückwärts fliegen?",
+      "answers": [
+        "Adler",
+        "Sperling",
+        "Eule",
+        "Kolibri"
+      ],
+      "solutions": [3],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie viele Kontinente gibt es?",
+      "answers": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Omnivore?",
+      "answers": [
+        "Pflanzenfresser",
+        "Fleischfresser",
+        "Allesfresser",
+        "Insektenfresser"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches ist das höchste Gebäude der Welt?",
+      "answers": [
+        "Empire State Building",
+        "Burj Khalifa",
+        "Taipei 101",
+        "Shanghai Tower"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}

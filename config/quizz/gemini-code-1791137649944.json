@@ -1,0 +1,228 @@
+{
+  "subject": "10 – BW Wirtschaft",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Welche Konjunkturphase zeichnet sich typischerweise durch hohe Arbeitslosigkeit, sinkende Nachfrage und fallende Produktion aus?",
+      "answers": [
+        "Boom (Hochkonjunktur)",
+        "Aufschwung",
+        "Rezession / Depression (Krise)",
+        "Stagnation ohne Risiko"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter dem 'magischen Viereck' der Wirtschaftspolitik in Deutschland?",
+      "answers": [
+        "Vier staatliche Banken, die den Markt kontrollieren",
+        "Vier gleichrangige wirtschaftspolitische Ziele: Preisniveaustabilität, hoher Beschäftigungsstand, stetiges und angemessenes Wirtschaftswachstum sowie außenwirtschaftliches Gleichgewicht",
+        "Vier Steuersorten für Unternehmen",
+        "Die vier größten Automobilkonzerne in Baden-Württemberg"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist der Leitzins und wer legt ihn im Euroraum fest?",
+      "answers": [
+        "Der Zinssatz für private Kredite, festgelegt von den Sparkassen",
+        "Der Zinssatz, zu dem Geschäftsbanken Geld bei der Europäischen Zentralbank (EZB) leihen oder anlegen können",
+        "Die Zinsen auf das Girokonto, festgelegt vom Finanzamt",
+        "Der Zinssatz für Staatsanleihen in den USA"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Welche Rechtsform hat eine Aktiengesellschaft (AG) hinsichtlich ihrer Haftung für Aktionäre?",
+      "answers": [
+        "Die Aktionäre haften unbeschränkt mit ihrem gesamten Privatvermögen",
+        "Die Aktionäre haften ausschließlich mit ihrer geleisteten Einlage (Aktienwert), ein Privatvermögen ist geschützt",
+        "Die Haftung übernimmt komplett der Staat",
+        "Es gibt keinerlei Haftung bei Schulden"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet der Begriff 'Globalisierung' im wirtschaftlichen Kontext vor allem?",
+      "answers": [
+        "Die Abschaffung jeglichen Handels zwischen Ländern",
+        "Das weltweite Zusammenwachsen von Märkten, Produktion, Finanzströmen und Handel",
+        "Die Einführung einer einzigen globalen Währung",
+        "Dass alle Fabriken in Europa stehen müssen"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter einer 'subventionierten' Wirtschaft?",
+      "answers": [
+        "Wirtschaftszweige, die durch finanzielle Hilfen des Staates unterstützt werden",
+        "Unternehmen, die besonders hohe Steuern zahlen müssen",
+        "Firmen, die ausschließlich exportieren",
+        "Ein Markt ohne jegliche staatliche Regeln"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20
+    },
+    {
+      "type": "single",
+      "question": "Welche Institution in Deutschland schützt den Wettbewerb und verbietet illegale Preisabsprachen oder den Missbrauch von Marktmacht (Monopole)?",
+      "answers": [
+        "Das Bundeskartellamt",
+        "Die Bundespolizei",
+        "Das Verbraucherschutzministerium",
+        "Die Handelskammer"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist das Bruttoinlandsprodukt (BIP)?",
+      "answers": [
+        "Der Gesamtwert aller Güter und Dienstleistungen, die innerhalb eines Jahres innerhalb der Landesgrenzen einer Volkswirtschaft produziert werden",
+        "Das Nettoeinkommen aller Arbeiter im Land",
+        "Die Staatsschulden eines Landes",
+        "Der Wert aller Importe minus Exporte"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Steuerart in Deutschland ist eine 'indirekte' Steuer?",
+      "answers": [
+        "Die Einkommensteuer",
+        "Die Grundsteuer",
+        "Die Mehrwertsteuer (wird beim Kauf bezahlt und vom Händler abgeführt)",
+        "Die Erbschaftsteuer"
+      ],
+      "solutions": [2],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was beschreibt der Begriff 'Tarifautonomie' in Deutschland?",
+      "answers": [
+        "Dass der Staat die Löhne für alle Berufe festlegt",
+        "Das Recht von Gewerkschaften und Arbeitgeberverbänden, Arbeitsbedingungen und Löhne ohne staatliche Einmischung auszuhandeln",
+        "Die Unabhängigkeit der Banken von der Regierung",
+        "Das Recht von Firmen, Streiks zu verbieten"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Auswirkungen hat eine Zinserhöhung durch die Zentralbank typischerweise auf die Wirtschaft?",
+      "answers": [
+        "Kredite werden teurer, Sparen lohnt sich mehr, Investitionen und Konsum können sinken (dämpft Inflation)",
+        "Alles wird sofort billiger und die Wirtschaft boomt",
+        "Die Zinsen für Verbraucher sinken ebenfalls auf null",
+        "Es hat keinerlei Auswirkungen auf den Markt"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein 'Start-up'?",
+      "answers": [
+        "Ein traditionelles Familienunternehmen im Handwerk",
+        "Ein neu gegründetes, innovatives Unternehmen mit oft r Wachstumsorientierung und einer geschäftlichen Idee im Technologie- oder Dienstleistungsbereich",
+        "Eine staatliche Behörde zur Arbeitsvermittlung",
+        "Ein Werk zur Herstellung von Autos"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was versteht man unter 'nachhaltigem Wirtschaften' (nach dem ESG-Prinzip)?",
+      "answers": [
+        "Wirtschaften, das ökologische, soziale und verantwortungsvolle Unternehmensführung (Governance) in den Mittelpunkt stellt, statt nur kurzfristigen Profit zu suchen",
+        "Ausschließlich den Verzicht auf Maschinen",
+        "Die Produktion von Waren ohne jegliche Verpackung",
+        "Dass Firmen keine Steuern zahlen müssen"
+      ],
+      "solutions": [0],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Was ist der Sinn einer sozialen Absicherung durch die Arbeitslosenversicherung?",
+      "answers": [
+        "Sie finanziht den dauerhaften Urlaub von Arbeitssuchenden",
+        "Sie sichert Arbeitnehmer bei Arbeitslosigkeit finanziell ab und unterstützt durch Vermittlung und Weiterbildung bei der Wiedereingliederung",
+        "Sie zahlt Firmen den Gewinn aus, wenn Aufträge fehlen",
+        "Sie ersetzt das reguläre Krankengeld"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Kennzahl wird genutzt, um die Teuerungsrate (Preisentwicklung für einen typischen Warenkorb) in Deutschland zu messen?",
+      "answers": [
+        "Das Bruttoinlandsprodukt",
+        "Der Verbraucherpreisindex (Inflationsrate)",
+        "Der DAX-Aktienindex",
+        "Der Leitzins"
+      ],
+      "solutions": [1],
+      "cooldown": 5,
+      "time": 25
+    }
+  ]
+}
