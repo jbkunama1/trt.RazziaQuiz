@@ -1,0 +1,171 @@
+{
+  "subject": "9 – Allgemein (10 Fragen)",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Allgemein: Wissensfrage 1 für Klasse 9 – Welche Antwort ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Allgemein",
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Allgemein: Wissensfrage 2 für Klasse 9 – Welche Antwort ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Allgemein",
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Allgemein: Wissensfrage 3 für Klasse 9 – Welche Antwort ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Allgemein",
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Allgemein: Wissensfrage 4 für Klasse 9 – Welche Antwort ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Allgemein",
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Allgemein: Wissensfrage 5 für Klasse 9 – Welche Antwort ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Allgemein",
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Allgemein: Wissensfrage 6 für Klasse 9 – Welche Antwort ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Allgemein",
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Allgemein: Wissensfrage 7 für Klasse 9 – Welche Antwort ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Allgemein",
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 20,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    },
+    {
+      "type": "single",
+      "question": "Allgemein: Wissensfrage 8 für Klasse 9 – Welche Antwort ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Allgemein",
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Allgemein: Wissensfrage 9 für Klasse 9 – Welche Antwort ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Allgemein",
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Allgemein: Wissensfrage 10 für Klasse 9 – Welche Antwort ist richtig?",
+      "answers": [
+        "Richtige Antwort zu Allgemein",
+        "Falsche Antwort A",
+        "Falsche Antwort B",
+        "Falsche Antwort C"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 25,
+      "media": {
+        "type": "image",
+        "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop"
+      }
+    }
+  ]
+}
