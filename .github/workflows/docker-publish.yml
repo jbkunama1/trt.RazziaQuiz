@@ -28,6 +28,17 @@ jobs:
           repository: Ralex91/Razzia
           path: upstream
 
+      - name: Apply branded entry page overlay
+        shell: bash
+        run: |
+          set -euo pipefail
+          target='upstream/packages/web/src/pages/(auth)/index.tsx'
+          test -f "$target"
+          test -f 'upstream/packages/web/src/components/Card.tsx'
+          test -f 'upstream/packages/web/src/features/game/components/join/Room.tsx'
+          grep -Fq 'component: PlayerAuthPage' "$target"
+          install -m 644 overlays/web-entry.tsx "$target"
+
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v3
 
