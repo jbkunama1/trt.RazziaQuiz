@@ -10,6 +10,7 @@ services:
     environment:
       - WEB_ORIGIN=http://localhost:8093
       - SOCKET_URL=http://localhost:8093
+      - MANAGER_PASSWORD=${MANAGER_PASSWORD:?Bitte MANAGER_PASSWORD in der Umgebung setzen}
     volumes:
       - ./config:/app/config
     networks:
