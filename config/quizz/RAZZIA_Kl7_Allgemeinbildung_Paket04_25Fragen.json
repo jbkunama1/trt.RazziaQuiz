@@ -1,0 +1,381 @@
+{
+  "gameMode": "quiz",
+  "subject": "Allgemeinbildung | Klasse 7 | Paket 04 | 25 Fragen | Alltag & Denken",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Welches Gas nehmen grüne Pflanzen bei der Fotosynthese auf?",
+      "answers": [
+        "Kohlenstoffdioxid",
+        "Wasserstoff",
+        "Neon",
+        "Helium"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie heißt die Hauptstadt von Italien?",
+      "answers": [
+        "Neapel",
+        "Mailand",
+        "Venedig",
+        "Rom"
+      ],
+      "solutions": [
+        3
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Instrument hat normalerweise schwarze und weiße Tasten?",
+      "answers": [
+        "Eine Geige",
+        "Eine Trompete",
+        "Ein Schlagzeug",
+        "Ein Klavier"
+      ],
+      "solutions": [
+        3
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist bei einer Gruppenaufgabe besonders hilfreich?",
+      "answers": [
+        "Die Materialien werden absichtlich versteckt",
+        "Aufgaben absprechen und alle einbeziehen",
+        "Niemand hört den anderen zu",
+        "Eine Person erledigt heimlich alles"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie viele Tage hat eine gewöhnliche Woche?",
+      "answers": [
+        "Fünf",
+        "Sechs",
+        "Acht",
+        "Sieben"
+      ],
+      "solutions": [
+        3
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche dieser Angaben beschreibt eine Temperatur?",
+      "answers": [
+        "18 Minuten",
+        "18 Kilometer",
+        "18 Grad Celsius",
+        "18 Liter"
+      ],
+      "solutions": [
+        2
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Aussage über Werbung ist sinnvoll?",
+      "answers": [
+        "Sie ersetzt jeden Preisvergleich",
+        "Sie muss jedes Produkt schlechter darstellen",
+        "Sie ist immer unabhängig",
+        "Sie soll häufig zum Kauf anregen und sollte kritisch geprüft werden"
+      ],
+      "solutions": [
+        3
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches dieser Tiere ist ein Insekt?",
+      "answers": [
+        "Eine Schnecke",
+        "Eine Biene",
+        "Ein Regenwurm",
+        "Eine Spinne"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "In welchem Jahr wurde die Berliner Mauer geöffnet?",
+      "answers": [
+        "2001",
+        "1989",
+        "1961",
+        "1945"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet in einer Demokratie eine geheime Wahl?",
+      "answers": [
+        "Die Stimmen werden nie ausgezählt",
+        "Andere müssen nicht erfahren, wen du gewählt hast",
+        "Niemand darf wissen, dass eine Wahl stattfindet",
+        "Nur geheime Gruppen dürfen wählen"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was passiert mit Wasser beim Gefrieren normalerweise?",
+      "answers": [
+        "Es wird zu festem Eis",
+        "Es verschwindet vollständig",
+        "Es wird immer zu Wasserdampf",
+        "Es wird zu Metall"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wie viele Meter sind ein Kilometer?",
+      "answers": [
+        "10",
+        "1000",
+        "100",
+        "10000"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Handlung spart eher Trinkwasser?",
+      "answers": [
+        "Sauberes Wasser ungenutzt weggießen",
+        "Den Hahn die ganze Zeit laufen lassen",
+        "Beim Zähneputzen den Wasserhahn zwischendurch schließen",
+        "Einen tropfenden Hahn dauerhaft ignorieren"
+      ],
+      "solutions": [
+        2
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Woran erkennst du eine Meinung?",
+      "answers": [
+        "Daran, dass ein Termin genannt wird",
+        "Daran, dass eine messbare Länge angegeben wird",
+        "An einer persönlichen Bewertung wie: Ich finde das Buch spannend",
+        "Daran, dass eine Zahl überprüfbar berechnet wird"
+      ],
+      "solutions": [
+        2
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist ein Kompass hauptsächlich für ein Hilfsmittel?",
+      "answers": [
+        "Zur Orientierung nach Himmelsrichtungen",
+        "Zum Zählen von Schritten ohne weitere Technik",
+        "Zum Prüfen der Wassertemperatur",
+        "Zum Messen des Körpergewichts"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist bei einer Verletzung im Sportunterricht zuerst sinnvoll?",
+      "answers": [
+        "Die Person allein zurücklassen",
+        "Die Verletzung filmen und posten",
+        "Die verletzte Person zum Weitermachen drängen",
+        "Die Aktivität unterbrechen und die Lehrkraft informieren"
+      ],
+      "solutions": [
+        3
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches dieser Länder gehört nicht zu Europa?",
+      "answers": [
+        "Brasilien",
+        "Spanien",
+        "Polen",
+        "Schweden"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was bedeutet Artenvielfalt?",
+      "answers": [
+        "Dass ein einzelnes Tier besonders groß ist",
+        "Dass ein Wald nur aus einem Baum besteht",
+        "Dass alle Pflanzen dieselbe Art sind",
+        "Dass viele verschiedene Arten von Lebewesen vorkommen"
+      ],
+      "solutions": [
+        3
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche dieser Angaben ist eine Länge?",
+      "answers": [
+        "Zwei Meter",
+        "Zwei Liter",
+        "Zwei Kilogramm",
+        "Zwei Stunden"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was hilft beim Lernen eines längeren Textes häufig mehr als bloßes Abschreiben?",
+      "answers": [
+        "Die Überschrift immer wieder bunt malen",
+        "Den Inhalt in eigenen Worten erklären",
+        "Alle unbekannten Wörter übergehen",
+        "Nur die Seitenzahlen auswendig lernen"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum sollte man bei einem Onlineangebot auch die Versandkosten prüfen?",
+      "answers": [
+        "Weil sie die Farbe des Produkts bestimmen",
+        "Weil sie den Gesamtpreis erhöhen können",
+        "Weil Versandkosten grundsätzlich null sind",
+        "Weil der Warenpreis dann immer entfällt"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welche Lichtquelle leuchtet aus eigener Energieumwandlung und reflektiert nicht nur fremdes Licht?",
+      "answers": [
+        "Eine weiße Wand",
+        "Die Sonne",
+        "Ein Spiegel",
+        "Der Mond"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Vier gleiche Brötchen kosten zusammen 2 Euro. Wie viel kosten sechs davon zum gleichen Stückpreis?",
+      "answers": [
+        "3 Euro",
+        "4 Euro",
+        "6 Euro",
+        "2,50 Euro"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Ein Zug ist 10 Minuten verspätet. Seine geplante Ankunft ist 14:55 Uhr. Wann kommt er voraussichtlich an?",
+      "answers": [
+        "14:45 Uhr",
+        "14:65 Uhr",
+        "15:10 Uhr",
+        "15:05 Uhr"
+      ],
+      "solutions": [
+        3
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "In einem Beutel sind nur rote und blaue Kugeln. Wie viele musst du ohne Hinsehen mindestens ziehen, damit sicher zwei dieselbe Farbe haben?",
+      "answers": [
+        "Drei",
+        "Eine",
+        "Zwei",
+        "Vier"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    }
+  ]
+}
