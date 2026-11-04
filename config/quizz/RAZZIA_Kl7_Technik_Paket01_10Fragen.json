@@ -1,0 +1,156 @@
+{
+  "gameMode": "quiz",
+  "subject": "Technik | Klasse 7 | Paket 01 | 10 Fragen | Alltag & Denken",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Du willst einen Holzklotz bearbeiten. Was verhindert am besten, dass er verrutscht?",
+      "answers": [
+        "Ihn sicher am Arbeitstisch festspannen",
+        "Ihn möglichst locker halten",
+        "Ihn auf die Tischkante stellen",
+        "Ihn auf einen Stapel Papier legen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum ist eine Schutzbrille beim Bearbeiten von Material sinnvoll?",
+      "answers": [
+        "Sie macht die Hände kräftiger",
+        "Sie schützt die Augen vor herumfliegenden Teilchen",
+        "Sie ersetzt das Einspannen",
+        "Sie verbessert die Qualität des Holzes"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Eine Bank soll draußen stehen. Welche Eigenschaft des Materials ist besonders wichtig?",
+      "answers": [
+        "Es ist nur bei Dunkelheit stabil",
+        "Es verträgt Feuchtigkeit und Wetter",
+        "Es hat einen angenehmen Geruch",
+        "Es löst sich leicht in Wasser"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Du möchtest ein Regal bauen. Was solltest du zuerst klären?",
+      "answers": [
+        "Wer das fertige Regal zuerst fotografiert",
+        "Wie die Verpackung aussehen soll",
+        "Welche Musik beim Bauen läuft",
+        "Was darauf stehen soll und wie viel Platz vorhanden ist"
+      ],
+      "solutions": [
+        3
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welches Werkzeug eignet sich zum Eindrehen einer Schraube?",
+      "answers": [
+        "Eine Feile",
+        "Ein Pinsel",
+        "Ein Lineal",
+        "Ein passender Schraubendreher"
+      ],
+      "solutions": [
+        3
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Eine Holzfläche fühlt sich rau an. Wie kannst du sie glatter machen?",
+      "answers": [
+        "Mit Wasser übergießen und sofort nutzen",
+        "Mit geeignetem Schleifpapier bearbeiten",
+        "Mit einer Schraube überkratzen",
+        "Mit einem Lineal abklopfen"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Du willst zwei gleich lange Leisten. Welche Vorgehensweise ist sinnvoll?",
+      "answers": [
+        "Bei jeder Leiste eine andere Einheit benutzen",
+        "Beide Leisten nach dem Sägen ungeprüft verwenden",
+        "Die zweite Länge nur nach Augenmaß schätzen",
+        "Beide Längen genau messen und anzeichnen"
+      ],
+      "solutions": [
+        3
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Ein Griff an einem heißen Topf soll die Hand möglichst wenig erwärmen. Was ist günstig?",
+      "answers": [
+        "Eine besonders scharfe Griffkante",
+        "Ein Griff ohne Abstand zur heißen Fläche",
+        "Ein Material, das Wärme schlecht weiterleitet",
+        "Ein Material, das Wärme besonders gut weiterleitet"
+      ],
+      "solutions": [
+        2
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Eine Holzverbindung soll später wieder geöffnet werden können. Was passt am besten?",
+      "answers": [
+        "Verschrauben",
+        "Vollständig verleimen",
+        "Dauerhaft verkleben",
+        "Mit einer geschlossenen Harzschicht umgießen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Eine 30 cm lange Leiste wird ohne Materialverlust in drei gleich lange Stücke geteilt. Wie lang ist jedes Stück?",
+      "answers": [
+        "10 cm",
+        "5 cm",
+        "15 cm",
+        "20 cm"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    }
+  ]
+}
