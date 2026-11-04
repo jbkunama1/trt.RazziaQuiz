@@ -1,0 +1,381 @@
+{
+  "gameMode": "quiz",
+  "subject": "Technik | Klasse 7 | Paket 04 | 25 Fragen | Alltag & Denken",
+  "questions": [
+    {
+      "type": "single",
+      "question": "Warum besteht ein Fahrradreifen nicht aus massivem Glas?",
+      "answers": [
+        "Glas würde im Schatten schmelzen",
+        "Glas wäre grundsätzlich zu weich",
+        "Ein Reifen muss unter anderem Stöße abfedern und griffig sein",
+        "Glas zieht jedes Fahrrad magnetisch an"
+      ],
+      "solutions": [
+        2
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Eine Schraube hat einen Kreuzschlitz. Welcher Schraubendreher passt?",
+      "answers": [
+        "Ein passender Kreuzschlitz-Schraubendreher",
+        "Ein Inbusschlüssel",
+        "Ein Schraubenschlüssel für Muttern",
+        "Ein beliebig großer Schlitz-Schraubendreher"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum kann eine kleine Probebohrung in einem Reststück sinnvoll sein?",
+      "answers": [
+        "Das eigentliche Werkstück bekommt dabei automatisch sein Loch",
+        "Du kannst Werkzeug und Vorgehen testen, ohne das Werkstück zu verderben",
+        "Damit das Messen vollständig entfällt",
+        "Damit der Bohrer nicht mehr eingespannt werden muss"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Ein Schuhregal ist für den vorgesehenen Platz zu breit. Was hätte das vorher verhindern können?",
+      "answers": [
+        "Mehr Schrauben kaufen",
+        "Den Namen des Regals ändern",
+        "Den verfügbaren Platz messen und in der Planung berücksichtigen",
+        "Nur die Holzfarbe vergleichen"
+      ],
+      "solutions": [
+        2
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Eine Einkaufstasche soll lange halten. Was ist besonders hilfreich?",
+      "answers": [
+        "Belastbare Nähte und geeignetes Material",
+        "Eine ausschließlich schöne Verpackung",
+        "Möglichst dünne, eingerissene Henkel",
+        "Ein Boden mit offenen Löchern"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Gegenstand nutzt eine Feder, die zusammengedrückt wird und wieder zurückdrückt?",
+      "answers": [
+        "Ein massives Schneidebrett",
+        "Ein Trinkglas",
+        "Eine einfache Holzleiste",
+        "Ein typischer Druckkugelschreiber"
+      ],
+      "solutions": [
+        3
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Wozu dient ein Scharnier an einer Schranktür?",
+      "answers": [
+        "Es macht die Tür durchsichtig",
+        "Es misst die Temperatur im Schrank",
+        "Es ersetzt jedes Türblatt",
+        "Es ermöglicht das Auf- und Zuschwenken"
+      ],
+      "solutions": [
+        3
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Du willst einen Hocker bauen. Warum ist ein Test mit vorsichtiger Belastung sinnvoll?",
+      "answers": [
+        "Damit die Sitzfläche größer wird",
+        "Um die Stabilität vor der normalen Nutzung zu prüfen",
+        "Um die Farbe der Beine zu verändern",
+        "Damit keine Verbindungen mehr benötigt werden"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum sollte man Klebstoff passend zum Material auswählen?",
+      "answers": [
+        "Die Farbe des Etiketts bestimmt allein die Festigkeit",
+        "Klebstoff funktioniert nur auf Holz",
+        "Nicht jeder Klebstoff haftet auf jedem Material gleich gut",
+        "Alle Klebstoffe sind technisch identisch"
+      ],
+      "solutions": [
+        2
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Eine Verpackung schützt ein Produkt, enthält aber sehr viel unnötiges Material. Was wäre eine gute Verbesserung?",
+      "answers": [
+        "Schutz erhalten und Materialverbrauch verringern",
+        "Das Produkt ungeschützt lose verschicken",
+        "Alle Hinweise auf der Verpackung entfernen",
+        "Noch eine unnötige Schicht hinzufügen"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Welcher Arbeitsschritt passt vor dem Zusammenbauen eines Bausatzes?",
+      "answers": [
+        "Alle Teile zufällig verkleben",
+        "Anleitung lesen und Teile prüfen",
+        "Die Anleitung ungelesen wegwerfen",
+        "Unbekannte Teile sofort entsorgen"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Ein Tritt auf dem Schulhof soll auch bei Regen sicher sein. Was ist besonders wichtig?",
+      "answers": [
+        "Eine scharfe Kante mitten auf der Trittfläche",
+        "Eine möglichst glatte Seifenschicht",
+        "Eine rutschhemmende Oberfläche",
+        "Ein wackelnder Unterbau"
+      ],
+      "solutions": [
+        2
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum sollst du Späne nicht mit der bloßen Hand wegwischen?",
+      "answers": [
+        "Sie werden durch Handwärme magnetisch",
+        "Sie können scharf sein und verletzen",
+        "Sie beschädigen grundsätzlich jede Schutzbrille",
+        "Sie verwandeln sich bei Berührung in Klebstoff"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Du baust einen Halter für zwei unterschiedlich große Handys. Welche Lösung ist praktisch?",
+      "answers": [
+        "Eine vollständig geschlossene Box ohne Zugang",
+        "Eine Halterung mit anpassbarer Breite",
+        "Eine scharfkantige Metallspitze als einzige Auflage",
+        "Eine Öffnung, die enger als beide Handys ist"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Woran erkennst du am besten, ob dein selbst gebautes Produkt die Aufgabe erfüllt?",
+      "answers": [
+        "Du vergleichst ausschließlich die Verpackungen",
+        "Du prüfst es anhand vorher festgelegter Anforderungen",
+        "Du zählst nur die benutzten Werkzeuge",
+        "Du schaust nur auf die schönste Farbe"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum sollte der Untergrund beim Anzeichnen fest und eben sein?",
+      "answers": [
+        "Damit das Lineal nicht mehr gebraucht wird",
+        "Damit jedes Brett automatisch rechtwinklig ist",
+        "Damit das Werkstück ruhig liegt und genaues Arbeiten möglich ist",
+        "Damit sich das Material von selbst schneidet"
+      ],
+      "solutions": [
+        2
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Ein Lineal beginnt wegen eines abgebrochenen Endes erst bei 1 cm. Du misst von 1 bis 9 cm. Wie lang ist die Strecke?",
+      "answers": [
+        "10 cm",
+        "9 cm",
+        "1 cm",
+        "8 cm"
+      ],
+      "solutions": [
+        3
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Warum ist ein Prototyp, also ein erstes Testmodell, hilfreich?",
+      "answers": [
+        "Du kannst eine Idee prüfen und vor dem endgültigen Bau verbessern",
+        "Er muss immer teurer als das Endprodukt sein",
+        "Er darf keine Fehler zeigen",
+        "Er ersetzt grundsätzlich jede spätere Sicherheitsprüfung"
+      ],
+      "solutions": [
+        0
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Du möchtest einen Tisch leichter transportieren. Welche Lösung hilft?",
+      "answers": [
+        "Eine größere Tischplatte ohne Griffmöglichkeit",
+        "Fest angegossene schwere Betonbeine",
+        "Abnehmbare Beine mit stabilen Verbindungen",
+        "Zusätzliches Gewicht unter der Platte"
+      ],
+      "solutions": [
+        2
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Was ist bei einem gemeinsam genutzten Werkzeug sinnvoll?",
+      "answers": [
+        "Es ohne Absprache dauerhaft mitnehmen",
+        "Defekte unbemerkt lassen",
+        "Es nach Gebrauch geprüft und ordentlich zurücklegen",
+        "Es am Arbeitsplatz verstecken"
+      ],
+      "solutions": [
+        2
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Eine glatte Kunststoffschale und ein Stück Küchenpapier werden mit Wasser benetzt. Was nimmt das Wasser eher auf?",
+      "answers": [
+        "Beide grundsätzlich gleich stark",
+        "Die Kunststoffschale",
+        "Keines von beiden kann nass werden",
+        "Das Küchenpapier"
+      ],
+      "solutions": [
+        3
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Du baust ein Vogelhaus. Weshalb ist ein etwas überstehendes Dach nützlich?",
+      "answers": [
+        "Es erwärmt das Haus ohne Energiequelle",
+        "Es schützt die Wände und den Eingang besser vor Regen",
+        "Es macht jede Befestigung überflüssig",
+        "Es verhindert vollständig jeden Wind"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Ein Werkstück ist fertig. Welche Rückmeldung hilft beim Verbessern am meisten?",
+      "answers": [
+        "Gefällt mir nicht",
+        "Ist halt komisch",
+        "Das andere ist irgendwie besser",
+        "Der Halter kippt beim Einsetzen; eine breitere Basis könnte helfen"
+      ],
+      "solutions": [
+        3
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Eine Rolle hebt eine Kiste nicht von allein. Welchen Vorteil hat eine feste Rolle an der Decke beim Ziehen am Seil?",
+      "answers": [
+        "Du benötigst grundsätzlich überhaupt keine Kraft",
+        "Du kannst nach unten ziehen, während die Kiste nach oben geht",
+        "Die Kiste wird automatisch doppelt so leicht",
+        "Die Kiste hat danach keine Masse mehr"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 15
+    },
+    {
+      "type": "single",
+      "question": "Zwei direkt ineinandergreifende Zahnräder sind gleich groß. Das erste dreht sich nach rechts. Wie dreht sich das zweite?",
+      "answers": [
+        "Es dreht sich gar nicht",
+        "Nach links und gleich schnell",
+        "Nach rechts und gleich schnell",
+        "Nach links und doppelt so schnell"
+      ],
+      "solutions": [
+        1
+      ],
+      "cooldown": 5,
+      "time": 15
+    }
+  ]
+}
